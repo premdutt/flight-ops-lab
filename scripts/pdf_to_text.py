@@ -7,3 +7,4 @@ for pdf in Path("data/pdf").glob("*.pdf"):
     out = Path("data/text") / f"{pdf.stem}.txt"
     out.write_text("\n\n".join(pages),encoding="utf-8")
     print(f"{pdf.name}:{len(reader.pages)} pages ->{out}")
+
