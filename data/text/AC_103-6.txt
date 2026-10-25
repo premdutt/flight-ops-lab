@@ -1,0 +1,985 @@
+e Advisory 
+US Department 
+of Transportation 
+f•  Ju d iirinlUii Circular rwOmXM mPnOnOn 
+Subject: Date: 6/23/83 AC No: 103-6 
+ULTRALIGHT VEHICLE OPERATIONS - Initiated by: AAT-230 Change: 
+AIRPORTS, AIR TRAFFIC CONTROL, 
+AND WEATHER 
+1. PURPOSE.  This advisory circular provides guidance for the operation of 
+ultralight vehicles in the United States. Information includes airport and 
+flightpark operations, how to work with air traffic control, and the availability 
+of weather services. Additional advisory circulars for the operation of 
+ultralight vehicles may be found under series 103. 
+2. BACKGROUND. 
+a. The sport of hang gliding has advanced dramatically since the Federal 
+Aviation Administration (FAA) first issued Advisory Circular No.  60-10, 
+"Recommended Safety Parameters for the Operation of Hang Gliders," on May  16. 
+1974. The purpose of that advisory circular was to provide guidance to the hang 
+gliding community without the need for Federal regulation. The response to the 
+guidelines of the advisory circular was excellent, and^or the period immediately 
+following its issuance many of its safety goals were maintained. But, as the 
+sport advanced, the performance capabilities and popularity of these vehicles 
+increased. Many unpowered gliders became capable of soaring to altitudes more 
+than 10,000 feet above the launch point, and flight distances could exceed 100 
+miles. The addition of powerplants and controllable aerodynamic surfaces created 
+vehicles which approximate the operational capabilities of fixed-wing aircraft. 
+And with the greatly increased number of these vehicles, the operation of 
+ultralight vehicles became a significant factor in aviation safety. 
+b. On October 4, 1982, a new Federal Aviation Regulation, Part 103, became 
+effective and provided for the safe integration of ultralight vehicle operations 
+into the National Airspace System. In conjunction with Part 103, the ultralight 
+community is being encouraged to adopt good operating practices. This advisory 
+circular is intended to assist the ultralight operator in attaining that goal. 
+Comments and questions concerning information contained in this advisory circular 
+should be directed to Federal Aviation Administration, Airspace and Air Traffic 
+Rules Branch (AAT-230), 800 Independence Avenue S.W., Washington, D.C. 20591. 
+3. EXPLANATION OF CONTENTS. 
+a. Chapter 1. Airports and Ultralight Flightparks. Includes information 
+about where to takeoff and land, the operation of a flightpark, and environmental 
+considerations.
+
+AC 103-6 6/23/83 
+b. Chapter 2. Air Traffic Control and Radio  Communications. Describes 
+airspace areas, operations at airports with and without control towers, and use 
+of a two-way radio. 
+c. Chapter 3. Weather Information. Sources of weather information, and an 
+introduction to micro-meteorology. 
+d. Chapter 4. Accident Information and Other Sources. What to do if you 
+witness or are involved in an accident. Also, where to go and what to do if you 
+need additional information on the operation of your ultralight. 
+4.-9. RESERVED.
+
+6/23/83 AC 103-6 
+CHAPTER 1. AIRPORTS AND ULTRALIGHT FLIGHTPARKS 
+10. WHERE TO TAKEOFF AND LAND. One of the questions most frequently asked by the 
+ultralight pilot is, "Where can I safely and legally takeoff and land my 
+ultralight?" The following information is designed to assist the ultralight 
+pilot in understanding the different types of operations, both on and off 
+airport, and the recommended procedures for obtaining permission to operate 
+ultralight vehicles. 
+a. Existing airports. Currently, there are approximately 16,000 public use 
+and private airports and seaplane bases in the United States. The vast majority 
+of these facilities may be suitable and compatible for safe ultralight 
+operations. Information on their location may be obtained from various sources, 
+such as FAA publications (i.e., Airport/Facility Directory, aeronautical charts, 
+etc.) which may be purchased at most local airports. Also, user organizations 
+have comprehensive airport listings which usually include a description of the 
+facility. 
+Items to Consider 
+(1) Some of these airports have their air traffic directly controlled by 
+an air traffic control tower. Use of these airports requires prior permission of 
+airport management and the local air traffic control authority (see FAR 
+Part 103.17). Since the volume of aircraft operating at these airports is 
+usually significantly higher, ultralight operators may find operations at these 
+airports to be less desirable than operations at uncontrolled airports. 
+(2) There are many airports where air traffic is not controlled by an 
+air traffic control tower and the traffic activity level is usually low. These 
+airports are referred to as "uncontrolled airports." Use of these airports by 
+ultralight vehicles may require prior permission of the airport operator. When 
+seeking access to these airports, ultralight operators should remember that even 
+though the airport may be tax supported, airport management has the 
+responsibility for determining the compatibility of operating the various classes 
+of aircraft on the airport. If an ultralight can be safely operated at the 
+airport, then permission to operate the ultralight vehicle may be granted. 
+Safety of aircraft operations on the airport is always the prime consideration. 
+b. Abandoned Airports. Since 1970, approximately  3,000 airports have been 
+abandoned because of a lack of activity, financial problems, or other related 
+reasons. The majority of these airports are located in rural areas, privately 
+owned, and possibly well-suited for ultralight training and other activities. 
+Many state aeronautical organizations have knowledge of recently abandoned 
+facilities and should be able to assist you in finding these sites. It may be 
+possible to obtain permission of the property owner to reactivate certain of 
+these facilities for ultralight operations. 
+c. Open Space Operating Areas. One of the prime advantages of ultralight 
+operation is the vehicle's ability to operate in small areas. FAR Part 103 does 
+not prohibit ultralight takeoff and landing from open areas, providing the 
+operation does not overfly congested areas. Good judgement still dictates that 
+an ultralight pilot obtain prior permission from the landowner and be familiar
+
+AC 103-6 6/23/83 
+with the terrain and obstructions at any location where operations are intended. 
+For the operation of hang gliders, special consideration should be given to the 
+terrain surrounding the launch site. In many cases these terrain features will 
+influence the ability of the unpowered craft to return to the launch site. 
+11. OPERATION OF A FLIGHTPARK. Anyone wishing to establish a site for the 
+operation of ultralight vehicles should be aware of the following Federal, state, 
+and local regulatory requirements which  may apply to these operations: 
+a. Federal  Requirements. Unless the site is to be used solely in VFR 
+weather conditions  for a period of less than  30 consecutive days with  no more 
+than 10 operations per day during this period, notification of the intent to 
+establish a flight park is required under the provisions of FAR Part 157, 
+Notification of Construction, Alteration, Activation, and Deactivation of 
+Airports. FAA Form 7480-1, which is used to provide this notice (as well as 
+guidance in its preparation) is available from any FAA regional Airports Division 
+or Airports District/Field Office. The FAA uses the information provided in the 
+notice to advise on the effect of the establishment of the site on the use of 
+navigable airspace by aircraft. Advisory Circular 70-2, Airspace Utilization 
+Considerations in the Proposed Construction, Alteration, Activation and 
+Deactivation of Airports, describes some of the factors which affect airspace 
+utilization. Failure to provide the required notice violates Section 901 of the 
+Federal Aviation Act of 1958 and carries a possible civil penalty. 
+b. State Requirements. Many state aviation departments require approval and 
+a license for the establishment of a site for aeronautical operations. The 
+potential ultralight flightpark developer should contact the state aviation 
+authorities to determine state requirements. 
+c. Local Requirements. Most communities have established zoning laws, 
+building codes, fire regulations, and other legal requirements to provide for the 
+safety and comfort of the citizenry. A thorough study of these requirements 
+should be made to determine their effect on the establishment and operation of an 
+ultralight flightpark. 
+12. STANDARDS FOR THE FLIGHTPARK LAYOUT. The FAA has no standards for the 
+geometric design of an airport built to exclusively serve ultralight vehicles. 
+However, several ultralight organizations provide information which may be useful 
+for the establishment of an ultralight flightpark as a separate entity. FAA 
+Advisory Circular 150/5300-4B, Utility Airports - Air Access to National 
+Transportation, intended for airports serving aircraft with approach speeds less 
+than 121 knots, provides guidance which may also be helpful in developing an 
+operational site for ultralight aircraft. 
+13. NOISE CONSIDERATIONS. Perhaps the most limiting factor in the operation of 
+ultralights is the noise emitted from the vehicle. Unless proper measures are 
+taken in the design and operation of ultralights, public annoyance to the noise 
+may result in restrictive local and state regulations. Acceptance by the public 
+of recreational sport flying is significantly tied to the potential for annoyance 
+from the vehicle's noise.
+
+6/23/83 AC 103-6 
+a. Significant progress has been made by ultralight manufacturers to quiet 
+engine, exhaust, and propeller noises. As these systems continue to improve, so 
+will the acceptance of the ultralight vehicle. However, these improvements are 
+only half of the story. Ultralight operation in a manner sensitive to the 
+possible annoyance of those on the ground is the other. It is probably the most 
+important factor in gaining acceptance by the general public. 
+b. Airport owners/operators have been trying for years to establish 
+operations compatible with the needs of adjacent communities. The acceptance of 
+ultralight operations by a community will depend in a large part on its 
+perception of how additional operations by ultralights will affect the airport's 
+overall compatibility with its neighbors. Careful planning by ultralight 
+operators in integrating their vehicles into the existing operation will go a 
+long way in making acceptance a reality. 
+c. The FAA has begun ultralight noise testing. Preliminary results indicate 
+that, in absolute noise levels, the ultralight is no louder at 1,000 feet AGL 
+than some popular two seat single engine aircraft. The slower speed of the 
+ultralight does result in longer periods of exposure to noise and is a 
+significant factor in the annoyance perceived from such overflight. Another 
+consideration is the lower altitude at which many ultralight operations take 
+place. This causes an increase in the intensity of sound during fly-over and is 
+a significant factor in determining the annoyance caused by noise. 
+d. FAR Part 103 prohibits operations of ultralights over congested areas. 
+Ultralight pilots should be aware that, while their vehicles may not be operating 
+directly over congested areas, their vehicles' noise may carry to the residents 
+of a nearby congested area. 
+14. FLIGHTPARK DATA. Once the ultralight flightpark is activated by the operator 
+and the FAA is notified, an Airport Master Record (FAA Form 5010-2) is prepared 
+by the FAA. This is a computerized record of data describing the  flightpark's 
+facilities and services. Each year, a copy of this Airport Master Record is 
+mailed to the flightpark operator with a request to verify and update the data. 
+The information collected by the FAA is available upon request to Government 
+agencies, aviation organizations, aviation industries, and private individuals. 
+Future informational needs for ultralight flightpark directories, charting, etc., 
+can be supplied from computerized data summaries derived from the Airport Master 
+Record. 
+15. - 19. RESERVED. 
+5 (and 6)
+
+6/23/83 AC 103-6 
+CHAPTER 2. AIR TRAFFIC CONTROL AND RADIO COMMUNICATIONS 
+20. GENERAL. The rapid growth and popularity of ultralight vehicles and the 
+increased number of operations require the highest degree of vigilance on the 
+part of ultralight operators to see-and-avoid other ultralight vehicles and 
+aircraft. Some of these operations involve authorization from air traffic 
+control. The purpose of this chapter is to assist the ultralight operator in 
+understanding the airspace, operations with air traffic control, and the use of 
+radio communications. 
+21. AIR TRAFFIC CONTROL (ATC) AND AIRSPACE. Even though ultralight vehicle 
+operators are not required to demonstrate any aeronautical knowledge or 
+experience requirements, failure to recognize and avoid certain airspace can be 
+hazardous and may be in violation of the Federal Aviation Regulations. 
+FAR 103.17 states that no person may operate an ultralight vehicle within an 
+Airport Traffic Area, Control Zone, Terminal Control Area or Positive Control 
+Area unless that person has prior authorization from the air traffic control 
+facility having jurisdiction over the airspace. The airspace areas requiring ATC 
+authorization that you, as an ultralight operator, are most likely to come in 
+contact with are the Airport Traffic Area, Control Zone and Terminal Control Area. 
+22. AIRSPACE AREAS. 
+a. What is an Airport Traffic Area (ATA)? An Airport Traffic Area is 
+airspace within a radius of 5 statute miles from the center of an airport, with 
+an operating control tower, that extends upward from the surface to, but not 
+including, an altitude 3,000 feet above the elevation of an airport. For the 
+purpose of ultralight operations, flight within the ATA requires specific 
+authorization from the air traffic control tower. Although most ATA's are not 
+depicted on charts, any airport symbol on the sectional chart that is blue in 
+color indicates the presence of an air traffic control tower. During the time 
+that tower is in operation, an ATA exists (see item h., Airspace and the Chart). 
+b. What is a Control Zone? A Control Zone may include one or more airports 
+and is normally a circular area within a radius of 5 statute miles around an 
+airport. The vertical limits of a control zone begin at the surface and extend 
+upward to 14,500 feet mean sea level (MSL).  Some control zones have rectangular 
+extensions to include the arrival and departure paths for pilots operating 
+primarily with reference to their aircraft instruments. The entire area of a 
+control zone is considered controlled airspace, but not all airports have a 
+control zone. Where a control zone exists, it is depicted on sectional charts by 
+the use of dashed lines. For the purpose of ultralight operations, flight within 
+the control zone requires authorization from the air traffic facility controlling 
+that area. 
+c. What is a Terminal Control Area (TCA)? At the present time there are 23 
+Terminal Control Areas. TCA's are in place around many of the high density 
+airports in the country. They extend upward from the surface in the center and 
+usually have multiple rings of airspace which extend outward horizontally. Its 
+appearance closely resembles an inverted wedding cake, with both lower and upper 
+limits for each ring. The presence of a TCA is characterized on a sectional
+
+AC 103-6 6/23/83 
+chart by blue outlines of the TCA limits around a major airport. All operations 
+within the rings of a TCA require authorization from air traffic control (see 
+item h., Airspace and the Chart). 
+d. What is Positive Control Area (PCA)? Positive Control Area is the area 
+which overlies the continental United States at  18,000 feet and above. All 
+operations conducted in PCA are done so with the authority of air traffic 
+control. Aircraft operating at these higher altitudes are required to carry 
+additional radio equipment and their pilots must be rated for instrument flight. 
+Although ultralights are not faced with specific equipment requirements for entry 
+into PCA, ATC authorization is required. Requests for such flights will be 
+thoroughly reviewed prior to any decision to authorize operations in PCA by an 
+ultralight. 
+e. How Do I Get ATC Authorization? Requests for authorization to operate an 
+ultralight vehicle into one of the above named areas should be made by writing, 
+telephoning, or visiting the air traffic control facility having jurisdiction 
+over the airspace in which you wish to operate. Requests for such authorization 
+via air traffic control radio communication frequencies will normally not be 
+accepted, since it may interfere with the separation of aircraft. 
+f. What is Uncontrolled Airspace? Uncontrolled airspace is the area in 
+which air traffic control separation services are not provided. This area is 
+usually below 1,200 feet above ground level (AGL).  When nearing airports with 
+established instrument approaches, the ceiling of uncontrolled airspace usually 
+lowers to 700 feet AGL, and, if a control zone exists, uncontrolled airspace 
+remains outside of the control zone horizontal limits, thus putting the airport 
+within controlled airspace. In some geographic areas, primarily west of the 
+Mississippi River, uncontrolled airspace ceilings are above 1,200 feet AGL. This 
+is an exception, rather than the rule. The ceiling of uncontrolled airspace may 
+be determined by reference to Sectional Aeronautical Charts used for aviation 
+(see item h., Airspace and the Chart). 
+g. What is Controlled Airspace? Controlled airspace is the area in which 
+air traffic control separation services are available for aircraft. The base of 
+controlled airspace usually begins at 1,200 feet AGL and extends upward. When 
+nearing airports with established instrument approaches the base of controlled 
+airspace usually lowers to 700 feet AGL, and, if a control zone exists, the base 
+of controlled airspace begins at the surface within the horizontal limits of the 
+control zone. (See Item h. Airspace and the Chart) 
+h. Airspace and the Chart. Sectional Aeronautical Charts, often called 
+"sectionals", are published by the National Oceanic and Atmospheric 
+Administration (NOAA) and are revised on a semi-annual basis. Sectionals depict 
+information for the use of pilots who are operating with visual reference to the 
+earth's surface. Each sectional has a legend printed on its  endflap.  Of 
+particular interest to the ultralight operator, is the portion entitled "Airport 
+Traffic Service and Airspace Information." This portion of the legend gives 
+information which will enable you to locate the floor of controlled airspace, 
+prohibited and restricted areas, TCA's, control zones, tower controlled airports, 
+obstructions, and other useful information. Sectional charts may be purchased
+
+6/23/83 AC 103-6 
+from local airport operators, user organizations, and directly from the NOAA, 
+Washington, D.C. Assistance in learning how to use sectional charts should be 
+readily available from any FAA-certificated flight or ground instructor. 
+i. Special Military Activity. 
+(1) There are special routes, known as Military Training Routes (MTR's), 
+which have been developed across the country for military training in "low level" 
+combat tactics. Generally, MTR's are established below 10,000 feet MSL for 
+operations at speeds in excess of 250 knots and will include operations by both 
+fighter and cargo type aircraft. The routes at 1,500 feet AGL and below are 
+developed primarily to be flown in visual flight weather conditions. The 
+sectional charts depict regularly established MTR's as shaded gray lines with an 
+associated VR or  IR  numbered identifier. Nonparticipating flights are not 
+prohibited from flying within an MTR, but extra caution to see-and-avoid these 
+operations is imperative in attaining the greatest practical level of safety. 
+Ultralight pilots and flightpark operators should contact the nearest Flight 
+Service Station (FSS) to obtain information on the route usage in their 
+vicinity. Information available includes times of scheduled activity, altitudes 
+in use, and actual route width. Route width varies for each MTR and can extend 
+several miles on either side of the line depicted on sectional charts. 
+(2) Also, throughout the year, the military conducts special operations 
+which may be held on a one-time basis in a specific geographical location. 
+Information pertaining to such operations is usually available through the FSS 
+system. When requesting MTR and special activity information, ultralight 
+operators should give the FSS their area of intended operation and permit the FSS 
+specialist to identify the MTR routes and special activities which could be a 
+factor. Information on FSS's may be found in paragraph 42(a). 
+23. TRAFFIC PATTERNS AND OPERATIONS IN THE VICINITY OF AN AIRPORT. 
+a. Since the speed and operating characteristics of an ultralight vehicle 
+may be incompatible with many aircraft, it is essential that you stay alert by 
+looking for and avoiding other traffic. Be especially aware of the possibility 
+that a faster craft might overtake your ultralight. Ultralight operators should 
+be especially vigilant for aircraft operating around an airport. Traffic pattern 
+altitudes for propeller driven aircraft generally extend from 600 to 1500 feet 
+above the ground and aircraft are often at these altitudes within 5 miles of the 
+airport. Also, because of the possible effects of wake turbulence, operations in 
+close proximity to aircraft of greater speed and weight should be avoided. 
+b. Preparatory to landing at an uncontrolled airport, the pilot should be 
+concerned with landing direction indications on the airport. Such indicators 
+include wind socks, wind tees, tetrahedrons, traffic pattern indicators, and the 
+direction of other fixed-wing operations. 
+c. Wind socks operate freely and are subject to the forces of wind for 
+direction. Wind tees may move freely or be aligned manually indicating the 
+preferred landing direction. A tetrahedron is a large kite-shaped indicator 
+sometimes located beside the runway and may move freely or be set manually. The 
+small end of the tetrahedron points in the preferred direction of landing.
+
+AC 103-6 
+ 6/23/83 
+d. Many airports have standardized traffic patterns which rely on all turns 
+in the pattern being made to the left. Traffic pattern indicators are used when 
+there is a variation from the normal left traffic pattern. They are located 
+either in a segmented circle with the wind sock or tetrahedron, or may be located 
+near the end of the applicable runway. If the pilot will mentally enlarge the 
+indicator for the runway to be used, the direction of turns will become readily 
+apparent. Airports which have parallel runways may have both left and right 
+traffic patterns operating at the same time. 
+e. Also, some airports may have a specific area designated for ultralight 
+operations. Look for any indications that landings are to be made on other than 
+the main runway and adjust your flight path so as to not conflict with operations 
+to the main runway. 
+f. Regardless of wind indicators or traffic patterns, it is wise to scan the 
+airport surface and the surrounding airspace for flights that may be operating in 
+a different manner. The governing factor as to which runway is in use is the 
+direction and strength of the wind. It is the responsibility of pilots to 
+determine the safe landing direction for their craft. The indicators are there 
+to assist you in operating safely, but they are not meant to be a substitute for 
+careful vigilance and good judgement. 
+Legend: 
+-	 Recommended Standard  Left  Hand 
+Traffic pattern (depicted) •£%#£% 
+(Standard R ight Hand Traffic 
+Pattern would be the opposite) 
+SEGMENTED 
+~\ CIRCLE 
+LANDING DIRECTION 
+INDICATOR  en  _ TRAFFIC PATTERN 
+INDICATORS 
+V 1 ^ 
+LANDING RUNWAY WIND 
+(OR LANDING STRIP) CONE 
+INDICATORS 
+24. OPERATIONS AT AIRPORTS WITH A CONTROL TOWER If you are operating into or 
+out of an airport with a control tower expect to be segregated from all 
+nonultralight aircraft in the traffic pattern, in the use of runways, and on the 
+airport surface. Please take special notice of the word "segregate." FAA air 
+traffic controllers have been advised to authorize ultralight operations only if 
+they will not interfere with and can be kept relatively clear of normal aircraft 
+operations. Certificated aircraft, receive separation services. These will not 
+be available to ultralight pilots. Rather, ultralight pilots will be expected to 
+10
+
+6/23/83 AC  103-6 
+separate themselves from each other and also to remain clear of all normal 
+aircraft operations. When requesting to operate at a tower controlled airport, 
+or within the airport traffic area, expect the controllers to provide you 
+instructions as to what areas to avoid. These instructions may include route and 
+altitude information as well as a specified landing area. Specific times during 
+which to operate may also be authorized. For operators equipped with two-way 
+radios, see paragraph 25. It is important that ultralight operators understand 
+the responsibility for avoiding a conflict with aircraft and other ultralights is 
+theirs, and theirs alone. 
+25. USE OF A TWO-WAY RADIO. The following information provides guidelines for 
+the use of a two-way radio while operating an ultralight. 
+a. Communications with Air Traffic Control. In all radio communications 
+with air traffic control, ultralight operators should state the word "ultralight" 
+followed by the call letters assigned by the F.C.C. on your radio license, i.e., 
+"Ultralight 12593U." Use of the following radio communication practices will 
+result in the controller having a better understanding of your request and 
+enhance the safety of your flight. 
+(1) Determine the correct frequency from a Sectional Aeronautical Chart. 
+(2) Contact the air traffic control tower prior to entering the area for 
+which you are requesting authorizaton. 
+(3) Speak slowly and distinctly. If you do not get an immediate reply, 
+wait a few moments, then repeat your request. The controller may be busy and you 
+may not be hearing all of the transmissions the controller is hearing. 
+(4) State the facility you are calling, your ultralight identification, 
+altitude, ' and location relative to the airport. Example: "Sample Tower, 
+Ultralight 12593U Six Miles Southwest at 1,000 feet." If you are on the ground 
+at the airport, give your position on the airport. 
+(5) Wait for the tower to respond before stating any further information. 
+(6) Once two-way communications are established, briefly state your 
+request. 
+(7) Keep in mind at all times your responsibility to remain clear of all 
+other aircraft and ultralights. Further, remember your responsibility to remain 
+clear of any area for which an authorization is required, but has not been 
+received. 
+(8) On occasion, air traffic control will deny authorization to operate 
+in a specific area. This is not unique to ultralights. At times, certificated 
+pilots in sophisticated aircraft are also denied access to certain areas. 
+Factors affecting authorization are the nature of the requested operation, the 
+effect on other operations that may already be taking place, controller workload, 
+and equipment or facility limitations. The ultimate reason remains the 
+same...SAFETY. 
+11
+
+AC 103-6 6/23/83 
+b. Communications at Uncontrolled Airports. 
+(1) An uncontrolled airport is an airport without a control tower or 
+where the control tower is not currently in operation. This does not mean that 
+two-way communications are not used. Quite the contrary. A considerable amount 
+of useful information is passed back and forth among pilots and the operators of 
+airport advisory frequencies. Information such as runway in use, surface winds, 
+other aircraft known to be in the area, and any unusual activities, such as 
+parachuting, may be available. 
+(2) There are three primary ways for ultralight operators, who are radio 
+equipped, to communicate their intentions and obtain airport/traffic information 
+when operating at a landing area that does not have an operating control tower: 
+(i) by communicating with an FAA flight service station located on 
+the airport; 
+(ii) by communicating with a local airport advisory operator located 
+at the airport; or 
+(iii) by making self-announce broadcasts of intentions over a 
+commonly used frequency for operations at that airport. 
+(3) The key to communicating at uncontrolled airports is selection of 
+the correct Common Traffic Advisory Frequency  (CTAF).  A more detailed 
+explanation of CTAF and traffic advisory practices and good operating procedures 
+can be found in FAA Advisory Circular 90-42C and the Airman's Information Manual. 
+Additionally, the Airport/Facility Directory provides information on which 
+frequency to use at a particular airport. 
+c. Traffic Advisory Practices at Uncontrolled Airports. In all radio 
+communications, ultralight operators should state the word "ultralight" followed 
+by the call letters assigned by the F.C.C. on your radio license, i.e., 
+"Ultralight 12593U". 
+(1) Select the correct frequency, many of which can be found on 
+Sectional Aeronautical Charts. 
+(2) Contact the airport advisory service prior to entering the area or 
+departing the airport. 
+(3) Speak slowly and distinctly. If you do not get an immediate reply, 
+wait a few moments and repeat your request. Please note that pilots announcing 
+their departure are not normally acknowledged. 
+(4) State the facility or airport you are calling, your ultralight 
+identification, your location relative to the airport, and your intended 
+operation. Example: "Leesburg, Ultralight 12S93U is 5 Miles North, Landing." 
+(5) If you still do not get a reply, proceed cautiously toward the 
+airport. If departing the airport, be careful to visually clear the area in all 
+directions prior to entering the takeoff area. Remain on the proper radio 
+frequency and listen for any aircraft which may be in the area. 
+12
+
+6/23/83 AC 103-6 
+(6) Once you have completed your landing or have exited the area, it is 
+good practice to let other aviators know that you are no longer airborne in the 
+vicinity of the airport. Example: "Leesburg, Ultralight 12593U is Clear of the 
+Runway" or "Leesburg, Ultralight 12593U is 2 Miles South, Leaving the Area". 
+26. - 29. RESERVED. 
+13 (and 14)
+
+V 
+6/23/83 AC 103-6 
+CHAPTER 3. WEATHER INFORMATION 
+The desire to leave the ground and explore the world from the air has inevitably 
+tied you to weather and its effect upon you. No pilot, amateur or professional, 
+can safely attempt a flight without considering the present and expected weather 
+conditions. Weather is a factor in most aviation accidents. It cannot be 
+emphasized too strongly that if you are to continue to operate safely, it is 
+essential to know and understand the environment in which you are flying. 
+Individual pilot weather briefings from FAA flight service stations are provided 
+to pilots on a "first come, first served" basis. The number of briefers 
+available today is insufficient to meet user demands without the prospect of 
+considerable delays. The FAA is taking steps to remedy this. An automated 
+system currently under development is designed to accommodate direct user access 
+and will be able to provide increased services. Until that system is 
+operational, the present FAA flight service system may not be able to accommodate 
+all the needs of ultralight fliers. 
+30. SOURCES OF WEATHER INFORMATION Many sources of weather data are available to 
+aviators. The following sources will assist you in acquiring and evaluating as 
+much weather data as possible. 
+a. National weather is broadcast weekdays in a live 15 minute television 
+program called AM Weather. The program is carried by about 250 public broadcast 
+stations in the early morning. This program features meteorologists from the 
+National Weather Service and the National Environmental Satellite, Data, and 
+Information Service (NESDIS). They use the latest guidance and data available to 
+produce a thorough program. The program's surface and forecast maps, satellite 
+imagery, radar maps, and upper air charts, along with the hazardous weather 
+watches, are ideal for acquiring broad scale weather information. Consult  your 
+local television schedules to obtain time of broadcast in your area. 
+b. Many cable TV systems now include 24 hour weather channels. Some of the 
+programs include aviation weather. 
+c. Transcribed Weather Broadcasts (TWEB) for aviation are made on numerous 
+FAA VHF omni-directional ranges (VOR), nondirectional radio beacons (NDB's), and 
+at selected airports that provide automatic terminal information services 
+(ATIS). These transcribed broadcasts are continuously updated during their hours 
+of operation. 
+d. Broadcasts over radio beacons are made in the range of  200-400 KHz and 
+can be received on relatively inexpensive radio receivers. VOR and ATIS 
+broadcasts are made on VHF aviation radio frequencies between 108-136 MHz. There 
+are many moderately priced radios available that will receive these frequencies. 
+e. The content of TWEB and ATIS broadcast in some cities can be received 
+over the telephone. The telephone numbers to use can be found in the telephone 
+directory under United States Government, Department of Transportation, Federal 
+Aviation Administration. TWEB recordings will be listed under Flight Service 
+Station and ATIS recordings will be listed under Air Traffic Control Tower. 
+15
+
+AC 103 6
+-  6/23/83 
+f. On nondirectional radio beacons and selected VHF omni-directional ranges 
+(VOR's), the broadcasts may include synopsis, adverse conditions, route 
+forecasts, outlook, winds aloft forecasts, radar reports, surface weather report, 
+etc. 
+g. Broadcasts on other VOR's may include only surface weather reports, 
+terminal (airport) forecast for the local airport, adverse conditions, etc. 
+h. ATIS broadcasts may include local ceiling, visibility, obstructions to 
+vision, temperature, wind direction (magnetic) and speed, altimeter setting, 
+etc. The information is applicable only to the airport located at the ATIS site, 
+but it may be used in evaluating the trend of existing weather. 
+i. All the above facilities and their frequencies may be identified by 
+studying sectional aeronautical charts that are sold at many airports. Much of 
+the same information is found in the U.S. Government Flight Information 
+Publication, Airport/Facility Directory. Comprehensive explanations of all these 
+services are printed in the FAA Airman's Information Manual  (AIM).  The 
+publication is available through the U.S. Government Printing Office. Other 
+excellent sources to find out frequencies and what is available, are pilots 
+handbooks published by user organizations. 
+j. In most large metropolitan areas, the National Weather Service provides 
+continuous broadcasts of local weather conditions on two frequencies that can be 
+received by inexpensive radios available at many retail outlets. 
+k. Pilots Automatic Telephone Weather Answering Service (PATWAS) is 
+available in most large metropolitan locations. This is a telephone recording of 
+local and route weather information that can be obtained by dialing a telephone 
+number found under the same heading in the phone book as listed above for TWEB. 
+1. If you live in the Washington, D.C., or Columbus, Ohio, areas, you should 
+become familiar with the voice response system (VRS) installed at these 
+locations. This is a computer based test system that provides weather data over 
+the telephone. The user needs only to have a "TOUCHTONE" phone to access the 
+system. Since this is a test system, the products available may vary. The 
+latest information available and directions on using this system can be obtained 
+by sending a stamped self-addressed envelope to: 
+Voice Response System 
+DOT/FAA/FAATC 
+ACT 110 
+Atlantic City, N.J. 08405 
+m. These many sources of weather data are only part of a safe weather 
+operation. Other factors include a knowledge of how to interpret the weather 
+data correctly, and when to exercise good judgment and not fly. There are many 
+Government and civil sources that supply educational material on weather and user 
+organizations are developing courses aimed at improving the ultralight operator's 
+understanding of weather. One of the best efforts ultralight operators can make 
+in their own behalf is to find out about weather. Many members of the aviation 
+community have learned that weather, above all other aspects of our environment, 
+is irreverent of even the most experienced aviator. 
+16
+
+6/23/83 AC 103-6 
+31. MICRO-METEOROLOGY. While the list of available weather information is 
+impressive, it may not provide the ultralight operator with the actual weather 
+and wind conditions at the operating site. One of the most critical factors in 
+conducting a safe takeoff and landing is accurate information of the wind 
+conditions on the surface. There may be many  indications, of what the wind 
+conditions are at the flying site. The information provided herein is designed 
+to assist you in understanding and using those indicators. 
+a. Wind Direction. One of the best indicators of wind direction near the 
+surface is derived by the use of a windsock or wind streamers. The direction of 
+the wind is clearly indicated, as is the velocity. Because ultralight vehicles 
+are very susceptible to wind, we recommend that several windsocks or streamers be 
+located around the landing site. Another means of learning the wind direction on 
+the surface is from nearby ponds or lakes. The "glassy" or smooth water area 
+along the shore indicates the direction from which the wind is blowing. The 
+further out into the body of water the glassy area protrudes, the lower the wind 
+velocity. Be careful when using this method that the shoreline is not subject to 
+major obstructions such as high trees or a steep, high bank. Yet another 
+indicator of wind direction and velocity is the natural vegetation such as tall 
+grass, trees, and bushes. Caution should be used here too, for the trees 
+themselves can cause the wind direction to change significantly, see item  c, 
+Turbulence and Wind Shear. Other indicators of surface wind are smoke and 
+blowing dust. Learn to use them all and learn to cross check the information of 
+one against the other. They are inexpensive resources that may save your life. 
+b. Wind Gradient and Gusts. Wind gradient is change in the velocity of the 
+wind with an increase/decrease in altitude. Normally, wind velocities will 
+increase as the altitude increases. Conversely, because of the drag effects of 
+the earth, winds may significantly decrease as you get closer to the ground. If 
+the winds decrease at a faster rate than can be accounted for by pitch and thrust 
+changes, the vehicle may enter a stall. For this reason, when descending or 
+climbing in close proximity to the ground, a safe margin of extra airspeed is 
+recommended. Also affecting the ultralight vehicle are wind gusts. The danger 
+inherent in gusting wind conditions is amplified during the takeoff and landing 
+phases of flight. A sudden gust of wind could lift the ultralight up quickly, 
+only to abandon the pilot 20 feet above the ground. The result is often a 
+stall. Another effect of gusting winds is the effect on the airframe of the 
+vehicle. Strong gusts could easily and quickly exceed the design limits of the 
+vehicle, especially if the pilot is performing a maneuver which is already 
+putting some "load" on the airframe. The best advice for operating in gusting 
+winds is to ask yourself: "Do I really need to be doing this?" If you 
+absolutely, positively have to be there, fly gently and maintain extra airspeed 
+during the takeoff and landing. Fly the vehicle right down to the ground with a 
+minimum landing flare, and, after you've landed, ask yourself: "Do I really want 
+to do that again?" 
+c. Turbulence and Wind Shear. The most critical altitudes for micro-wind 
+changes are between 30 and 75 feet above ground level. This depends, in part, on 
+the nearness of the surrounding obstructions such as large trees, buildings, and 
+hills. The effect of these obstructions is often turbulence or a sudden change 
+in wind direction and velocity often referred to as wind shear. Turbulence can 
+be especially dangerous in ultralights due to their light weight. Ground 
+17
+
+AC 103-6 6/23/83 
+turbulence consists of vortices and eddies, vertical blasts of air, and rotors 
+(dust devils). Turbulence is caused by winds moving across and around objects, 
+and by thermal heating of the earth's surface. Wind shear can result in a sudden 
+reduction in the relative wind over the vehicle's lifting surfaces. When this 
+happens, the vehicle may very quickly enter a stall. At low altitude it may be 
+nearly impossible to recover in the distance remaining to the ground. Because of 
+the effects turbulence and wind shear have on the safety of ultralight 
+operations, it may be wise not to fly ultralights in winds exceeding 15 mph. And 
+even then, there will be some circumstances when 15 mph is too much. Also, keep 
+in mind not only your own piloting skills, but the abilities of your craft to 
+handle a crosswind during takeoff and landing. If you are in doubt, err on the 
+side of safety and leave the enjoyment of flying for another time, perhaps 
+another day. 
+32. - 39. RESERVED. 
+18
+
+V 
+6/23/83 ' AC 103-6 
+CHAPTER 4. ACCIDENT INFORMATION AND OTHER SOURCES 
+40. NATIONAL TRANSPORTATION SAFETY BOARD (NTSB). 
+a. The NTSB is the official Government investigator for all transportation 
+safety issues. Its purpose is to impartially analyze occurrences which may 
+indicate a transportation safety problem and to recommend corrective action. The 
+NTSB has decided to investigate all fatal powered ultralight vehicle accidents 
+and other selected ultralight accidents and incidents which may involve 
+significant safety issues. The Safety Board will also investigate ultralight 
+vehicle accidents impinging on civil aircraft operations or on persons and 
+property on the ground. The Safety Board will review accident data and the 
+safety efforts of the aviation community in order to keep abreast of any emerging 
+safety problems and will be available to provide technical assistance in 
+remedying those problems. 
+IF YOU ARE WITNESS TO OR INVOLVED IN AN INCIDENT/ACCIDENT INVOLVING THE 
+OPERATION OF AN ULTRALIGHT VEHICLE, NTSB REQUESTS YOU DO THE FOLLOWING: 
+(1) Immediately attend to the medical and physical needs of the 
+situation. Notify the local authorities if assistance is needed. 
+(2) Do not move or remove any debris associated with the occurence. 
+(3) Write down as much as you can remember. This will be very helpful 
+in accurately recalling the incident. 
+(4) Notify, or have the local authorities notify, the nearest NTSB Field 
+Office. This information can be found in the local phone book under 
+U.S. Government, National Transportation Safety Board, or call your local FAA 
+office and request the NTSB telephone number. 
+(5) If you are able, take photographs of the site, and get the names and 
+phone numbers of any witness. 
+b. NTSB requests that you be very helpful in reporting such incidents as 
+this will give all of the owners/operators of ultralights a chance to benefit 
+from the knowledge gained during the investigation. The Safety Board 
+investigation is fact-finding in nature and will not be used to substantiate any 
+violation of Federal Aviation Regulations. 
+c. Additionally, the FAA supports the goals of private organizations and 
+associations to provide technical and operational assistance to the ultralight 
+industry in enhancing the reliability of the vehicles and the safety of the 
+sport. The FAA encourages all participants in the sport of ultralight flying to 
+report any incident, accident, structural or mechanical failure of an ultralight 
+to the private organizations and associations actively representing the sport. 
+19
+
+AC 103-6 6/23/83 
+41. AIRPORTS DISTRICT OFFICE (ADO). 
+a. Airport district offices are located throughout the country and serve a 
+specific geographical area. Their primary purpose is to assist the aviation 
+community and state and local governments in the planning and  .development of 
+landing facilities. Under FAR 103,  ADO's would be your best source for 
+information pertaining to the establishment of a flightpark and the environmental 
+considerations associated with operations. 
+b. For the phone number and location of the ADO serving your area, consult 
+your local phone directory under Department of Transportation, Federal Aviation 
+Administration, Airport District Office or Regional Airport District Office. 
+42. FAA AIR TRAFFIC CONTROL FACILITIES. There are three major types of air 
+traffic control facilities with which you may come in contact. The following 
+information should assist you in determining which one to call. 
+a. Flight Service Station  (FSS).  The Flight Service Station's primary 
+function is to provide the pilot with preflight weather briefings and also 
+Notices to Airmen (NOTAMS) which have information as to the status of airports 
+and facilities; the conduct of special activities (parachuting, airshows, 
+military exercises, etc.); and the presence of known temporary structures such as 
+a crane located near an airport. For the ultralight operator, FSS's can be a 
+means of obtaining guidance on which FAA facility could best be of assistance. 
+For the role FSS's play in providing weather information to ultralight pilots, 
+see Chapter 3. 
+b. Air Traffic Control Tower  (ATCT).  There are many air traffic control 
+towers located throughout the country. Each serves a particular airport and 
+provides pilots with information on the movement of other aircraft in and around 
+the airport. In some circumstances, ATCT's have an approach control associated 
+with them which provides separation between aircraft over a wider geographic 
+area. Under FAR 103, ATCT's would be your contact point for operations in an 
+airport traffic area. In many instances, operations at nearby airports with 
+control zones may also be coordinated through the nearest ATCT. 
+c. Air Route Traffic Control Center (ARTCC). There are 20  ARTCC's located 
+around the country. Each one covers a very large geographic area and provides 
+radar separation services to aircraft through the use of remote radar and radio 
+communication facilities. In some areas, the ARTCC functions as an approach 
+control and has responsibility, under FAR 103, for providing authorization for 
+ultralight operations in a control zone. Due to the size and vast area of 
+coverage of ARTCC's, it is better to contact the FSS or ATCT nearest you for 
+assistance in obtaining required authorizations. 
+For the phone numbers and locations of the FSS, ATCT, or ARTCC you wish to 
+call, consult your local telephone directory under Department of Transportation, 
+Federal Aviation Administration. Each facility should be listed separately: 
+Flight Service Station; (airport name) Air Traffic Control Tower; and Air Route 
+Traffic Control Center. 
+20
+
+6/23/83 AC 103-6 
+43. GENERAL AVIATION DISTRICT OFFICE (GADO). 
+a. These offices are located throughout the country and are staffed by 
+Flight Standards personnel. Their primary purpose is to serve the general public 
+and aviation industry on all matters relating to the certification and operation 
+of general aviation aircraft. These responsibilities include accident prevention 
+programs, general surveillance of operational safety, and the enforcement of 
+FAR. Under FAR 103, GADO's are your best source of information for items such as 
+vehicle applicability, hazardous operations, and operations over congested 
+areas. Should you desire, GADO's can also provide you guidance and assistance in 
+certificating your ultralight as an aircraft. 
+b. For the location and phone number of your nearest GADO, consult your 
+local telephone directory under Department of Transportation, Federal Aviation 
+Administration, General Aviation District Office or Flight Standards District 
+Office. 
+44. PUBLICATIONS. The Federal Government and the aviation industry have devoted 
+considerable energies to producing informational and training publications which 
+are invaluable to pilots. Listed below are some of the publications available 
+from the Superintendent of Documents, U.S. Government Printing Office, 
+Washington, D.C. 20402. 
+Other sources of useful information can be obtained through the various 
+organizations, manufacturers, and associations working within the aviation 
+community. 
+a. Airman's Information Manual  (AIM).  This manual contains the basic 
+fundamentals required for safe flight in the U.S. National Airspace System. It 
+includes chapters on navigation aids, airspace, air traffic control, flight 
+safety, and good operating practices. It also includes a pilot-controller 
+glossary. The AIM is issued every 112 days and the annual subscription price is 
+$17. 
+b. Pilot's Handbook of Aeronautical Knowledge. This handbook contains 
+essential information used in training and guiding pilots. Subjects include the 
+principals of flight, airplane performance, flight instruments, basic weather, 
+navigation and charts, and excerpts from flight information publications. This 
+handbook is one of the most complete sources of aeronautical information 
+available. The current price is $10. 
+Listed below are some of the publications available from the FAA. 
+c. Flight Standards Safety Pamphlets. These pamphlets are used in the 
+General Aviation Accident Prevention Program and are produced primarily to be 
+distributed at accident prevention seminars by GADO personnel. Titles available 
+include: Density Altitude, Weight and Balance, Propeller Operation and Care, and 
+Planning Your Takeoff. There are many other subjects available. Pamphlets may 
+be obtained in reasonable number at no charge from the FAA Accident Prevention 
+Specialist assigned to your local GADO. 
+21
+
+AC 103-6 6/23/83 
+d. FAA Advisory Circulars. 
+(1) The FAA issues advisory circulars to assist and inform the public on 
+matters affecting aviation. Advisory circulars are issued in a numbered-subject 
+system corresponding to the subject areas of the FAR. 
+(2) For example, this advisory is numbered AC 103-6 because it deals 
+with information pertaining to FAR 103 operations. There  are more than 400 free 
+advisory circulars available. Subjects which may be of interest to the 
+ultralight operator include: 
+AC 60-4A Pilot's Spatial Disorientation 
+AC 90-23D Wake Turbulence 
+AC 90-42C Traffic Advisory Practices at Uncontrolled Airports 
+AC 90-48B Pilot's Role in Collision Avoidance 
+AC 91-36B VFR Flight Near Noise Sensitive Areas 
+(3) For a complete listing of all available advisory circulars, send 
+your request for the Advisory Circular Checklist, AC 00-2 to: 
+U.S. Department of Transportation 
+Subsequent Distribution Unit, M-442.32 
+Washington, D.C. 20590 
+Please enclose a self-addressed mailing label to expedite the processing of your 
+request. 
+Additionally, the FAA publishes numerous other documents dealing with a variety 
+of subjects. The Guide to Federal Aviation Administration Publications lists the 
+information available from the FAA and also provides a list of civil aviation 
+related publications issued by other Federal agencies. A free copy of this guide 
+is available from the address listed in paragraph d. 
+e. Airport/Facility Directory (A/FD) Issued every 8 weeks, the 
+Airport/Facility Directory is a civil flight information publication which 
+contains a directory of all airports, seaplane bases, and heliports open to the 
+public. Available from the National Ocean Service, NOAA Distribution Branch, 
+N/CG33, Riverdale, Maryland 20737, the directory includes information on 
+communication frequencies, navigational facilities, and certain special notices 
+such as curfews. Directories are sold on a single copy or subscription basis and 
+cover a specific geographic area of the United States, Puerto Rico, and the 
+Virgin Islands. 
+B. KEITH POTTS 
+Acting Director, Air Traffic Service 
+22
+
+6/23/83 
+PART 103—ULTRALIGHT  VEHICLES 
+Subpart A—General 
+Sec 
+103.1 Applicability. 
+103.3 Inspection requirements. 
+103.5 Waivers. 
+103.7 Certification and registration. 
+Subpart B—Operating Rules 
+103.9 Hazardous operations. 
+103.11 Daylight operations. 
+103.13	 Operation near aircraft: right-of-way 
+rules. 
+103.15 Operations over congested areas. 
+103.17 Operations in certain airspace. 
+103.19	 Operations in prohibited or restricted 
+areas. 
+103.21 Visual reference to the surface. 
+103.Z3 Flight visibility and cloud clearance 
+requirements 
+Authority: Sees. 307.313(a). 601(a). 602. and 
+603. Federal Aviation Act of 1958 (49 U.S.C. 
+1348.1354(a). 1421(a). 1422. and 1423): sec. 
+6(c). Department of Transportation Act (49 
+U.S.C. 1655(c) 
+Subpart A—General 
+§ 103.1 Applicability. 
+This part prescribes rules governing 
+the operation of ultralight vehicles in the 
+United States. For the purposes of this 
+part, an ultralight vehicle is a vehicle 
+that: 
+(a) Is used or intended to be used for 
+manned operation in the air by a single 
+occupant; 
+(b) Is used or intended to be used for 
+recreation or sport purposes only; 
+(c) Does not have any U.S. or foreign 
+airworthiness certificate; and 
+(d) If unpowered, weighs less than 155 
+pounds: or 
+(e) If powered: 
+(1) Weighs less than 254 pounds 
+empty weight, excluding floats and 
+safety devices which are intended for 
+deployment in a potentially catastrophic 
+situation; 
+(2) Has a fuel capacity not exceeding 
+5 U.S. gallons; 
+(3) Is not capable of more than 55 
+knots calibrated airspeed at full power 
+in level flight; and 
+(4) Has a power-off stall speed which 
+does not exceed 24 knots calibrated 
+airspeed. 
+$ 103.3 Inspection requirements. 
+(a) Any person operating an ultralight 
+vehicle under this part shall, upon 
+request, allow the Administrator, or his 
+designee, to inspect the vehicle to , 
+determine the applicability of this part 
+[b] The pilot or operator of an 
+ultralight vehicle must, upon request of 
+the Administrator, furnish satisfactory 
+evidence that the vehicle is subject only 
+to the provisions of this part. 
+•U S GOVCTNMeN-W>iST,s30'riCE l«U  -  &U-&41/ 2 
+§103.5 Waivers. 
+No person may conduct operations 
+that require a deviation from this part 
+except under a written waiver issued by 
+the Administrator. 
+§ 103.7 Certification and registration. 
+(a) Notwithstanding any other section 
+pertaining to certification of aircraft or 
+their parts or equipment, ultralight 
+vehicles and their component parts and 
+equipment are not required to meet the 
+airworthiness certification standards 
+specified for aircraft or to have 
+certificates of airworthiness. 
+(b) Notwithstanding any other section 
+pertaining to airman certification, 
+operators of ultralight vehicles are not 
+required to meet any aeronautical 
+knowledge, age, or experience 
+requirements to operate those vehicles 
+or to have airman or medical 
+certificates. 
+(c) Notwithstanding any other section 
+pertaining to registration and marking of 
+aircraft, ultralight vehicles are not 
+required to be registered or to bear 
+markings of any type. 
+Subpart B—Operating  Rules 
+§ 103.9 Hazardous operations. 
+(a) No person may operate any 
+ultralight vehicle in a manner that 
+creates a hazard to other persons or 
+property. 
+(b) No person may allow an object to 
+be dropped from an ultralight vehicle if 
+such action creates a hazard to other 
+persons or property. 
+§ 103.11 Daylight operations. 
+(a) No person may operate an 
+ultralight vehicle except between the 
+hours of sunrise and sunset. 
+(b) Notwithstanding paragraph (a) of 
+this section, ultralight vehicles may be 
+operated during the twilight periods 30 
+minutes before official sunrise and 30 
+minutes after official sunset or, in 
+Alaska, during the period of civil 
+twilight as defined in the Air Almanac, 
+if. 
+AC 103-6 
+APPENDIX 1 
+(1) The vehicle is equipped with an 
+operating anticollision light visible for at 
+least 3 statute miles; and 
+(2) All operations are conducted in 
+uncontrolled airspace. 
+§ 103.13 Operation near aircraft; Right-of­
+way rules. 
+(a) Each person operating an ultralight 
+vehicle shall maintain vigilance so as to 
+see and avoid aircraft and shall yield 
+the right-of-way to all aircraft. 
+(b) No person may operate an 
+ultralight vehicle in a manner that 
+creates a collision hazard with respect 
+to any aircraft. 
+(c) Powered ultralights shall yield the 
+right-of-way to unpowered ultralights. 
+§ 103.15 Operations over congested 
+areas. 
+No person may operate an ultralight 
+vehicle over any congested area of a 
+city, town, or settlement, or over any 
+open air assembly of persons. 
+§ 103.17 Operations In certain airspace. 
+No person may operate an ultralight 
+vehicle within an airport traffic area, 
+control zone, terminal control area, or 
+positive control area unless that person 
+has prior authorization from the air 
+traffic control facility having jurisdiction 
+over that airspace. 
+§103.19 Operations  In prohibited or 
+restricted areas. 
+No person may operate an ultralight 
+vehicle in prohibited or restricted areas 
+unless that person has permission from 
+the using or controlling agency, as 
+appropriate. 
+§ 103.21 Visual reference with the surface. 
+No person may operate an ultralight 
+vehicle except by visual reference with 
+the surface. 
+§ 103.23 Flight visibility and cloud 
+clearance requirements. 
+No person may operate an ultralight 
+vehicle when the flight visibility or 
+distance from clouds is less than that in 
+the following table, as appropriate. 
+Flight altitudes ftght Minimum distance  from  clouds 
+visibility ' 
+1 200 feet or less above the surface regardless of 
+.jMSI-aftitude 
+(1) Within controlled airspace 	 3 | 500 feet below 1.000 feet above 2.000 feet horizon­
+tal 
+(2) Outside controlled airspace 	 1 Clear of clouds 
+More	 thar 1.200 feet above the surface but less than 
+lOOOOteet  MS.. 
+(1) Within controlled airspace 3 500 feet below 1.000 feet above  2.000  feet horizon 
+tai 
+(2) Outside controlled airspace 1 500 feet below 1 000 feet above 2.000 feet  horizon-
+tat 
+More	 than 1.200 feet above the surface and at or 5 >  1.000 feet below. 1 000 feet above 1 statute  mle 
+above 10 000 feet MSL < hortzonta, 
+1 Statute miles

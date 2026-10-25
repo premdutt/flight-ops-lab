@@ -1,0 +1,11 @@
+.venv/
+.env
+__pycache__/
+mlruns/
+mlartifacts/
+mlflow.db
+submitted.jsonl
+data/pdf/
+*.log
+local.settings.json
+.DS_Store

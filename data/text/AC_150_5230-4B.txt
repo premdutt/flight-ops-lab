@@ -1,0 +1,530 @@
+U.S. Department 
+of Transportation 
+Federal Aviation 
+Administration 
+Advisory 
+Circular 
+Subject:  Aircraft Fuel Storage, Handling, 
+Training, and Dispensing on Airports 
+Date: 9/28/2012 
+Initiated by: AAS-300  
+AC No: 150/5230-4B 
+Change: 
+1. Purpose. This advisory circular (AC) contains specifications and guidance for the storage, 
+handling, and dispensing of aviation fuel on airports. Additionally, this AC provides standards 
+and guidance for the training of personnel who conduct these activities. 
+2. Cancellation. This AC cancels AC 150/5230-4A, Aircraft Fuel Storage, Handling, and 
+Dispensing on Airports, dated June 18, 2004. 
+3. Application. This AC provides an acceptable means of complying with Title 14 Code of 
+Federal Regulations (CFR) part 139 (hereinafter referred to as Part 139) for all Part 139 airport 
+operators.  Although non-certificated airports are not required to develop fuel standards, the FAA 
+recommends these airports use the guidance contained in this AC to develop such standards for 
+the continued enhancement of aviation safety. 
+4. Addendum of Authorized Fuel Safety Training Courses. The Federal Aviation 
+Administration (FAA) regards instructional programs that provide line service and supervisory 
+training, as required by 14 CFR §139.321 (e) (1) and (2), as critical to safety on airports.  
+To ensure this training is complete and effective, the FAA has determined that: 
+a. Third-party training providers who provide line service training and/or supervisory 
+training of line service personnel must submit their training syllabus to the Administrator for 
+review and a determination of its acceptability. 
+b. Airport and Tenant Fueling Agents who provide line service training for other than their 
+own airport employees and/or supervisory training of line service personnel must submit their 
+training syllabus to the Administrator for review and a determination of its acceptability. 
+c. Training syllabus (syllabi) should be submitted to:  
+ 
+Federal Aviation Administration 
+Manager, Airport Safety and Operations 
+Attn: Fuel Safety Training 
+800 Independence Ave SW 
+AAS-300, Room 618 
+Washington DC 20591
+
+AC 150/5230-4B 9/28/2012 
+2 
+ 
+The FAA publishes a list of the companies offering courses of instruction in line service training 
+as well as supervisory training that are acceptable to the Administrator.  Because changes may 
+occur more frequently than the schedule for updating the AC, the FAA will review this list on a 
+quarterly basis and post an updated version online as an Addendum to this AC.  
+The airport operator is responsible for consulting the current listing of acceptable training 
+courses.  Likewise, the companies listed in this Addendum are responsible for notifying the FAA 
+of any changes to their training syllabus and the availability of the course(s) offered or to contact 
+information. 
+5. Effective Date. The effective date of this AC is September 28, 2012.  
+6. Comments or Suggestions. Send suggestions for improving this AC to: 
+Federal Aviation Administration 
+Manager, Airport Safety and Operations  
+Attn: Fuel Safety Training 
+800 Independence Ave SW 
+AAS-300, Room 618  
+Washington DC 20591 
+7. Principal Changes.  This AC contains: 
+a. New Chapter 1, Standards and Resources for Procedures on Fuel Storage, Handling, and 
+Dispensing 
+b. New Chapter 2,  Fuel Safety Training  
+c. New Chapter 3, Supervisors Training Course 
+d. New Chapter 4, Testing, Certification and Recordkeeping 
+e. New Chapter 5, Guidelines for Submitting Line Service and/or Supervisory Safety 
+Course(s) 
+f. New Addendum of Authorized Fuel Safety Training Courses 
+g. New Appendix A, Definitions and Acronyms 
+h. New Appendix B, Additional Resources 
+i. Required wording differentiating the two levels of Fuel Safety Training
+
+9/28/2012 AC 150/5230-4B 
+3 
+ 
+8. Copies of this AC. The FAA makes this AC and the current Addendum of training courses 
+available online at http://www.faa.gov/regulations_policies/advisory_circulars/.  
+ 
+Michael J. O’Donnell 
+Director, Office of Airport Safety and Standards
+
+AC 150/5230-4B 9/28/2012 
+4 
+ 
+Table of Contents 
+Chapter 1. Standards and Resources for Procedures on Fuel Storage, Handling, and 
+Dispensing ...........................................................................................................................5 
+Chapter 2. Fuel Safety Training ...................................................................................................6 
+Chapter 3. Supervisors Training Course ...................................................................................11 
+Chapter 4. Testing, Certification, and Recordkeeping .............................................................12 
+Chapter 5. Guidelines for Submitting Line Service and/or Supervisory Safety Course(s) ..14 
+Appendix A. Definitions and Acronyms ....................................................................................16 
+Appendix B.  Additional Resources ............................................................................................18 
+Addendum Of Authorized Fuel Safety Training Courses ........................................................19
+
+9/28/2012 AC 150/5230-4B 
+5 
+ 
+Chapter 1.  Standards and Resources for Procedures on Fuel Storage, Handling, 
+and Dispensing 
+1. Introduction. Many standards and resources exist throughout the fueling industry to provide 
+guidance on the proper and safe method for handling aviation fuels. 
+2. Standards. The FAA uses the standards contained in the most recent edition of National Fire 
+Prevention Association (NFPA) 407, Standard for Aircraft Fuel Servicing.  NFPA 407 provides a 
+standard for the storage and delivery of aviation fuel in an airport environment..  
+3. Copies of Standards. You can order NFPA 407 from: 
+National Fire Protection Association 
+1 Batterymarch Park 
+PO Box 9101 
+Quincy MA 02269-9101 
+1-800-344-3555  
+http://www.nfpa.org  
+ 
+NFPA 407 may also be viewed online from the NFPA website as a read-only document at: 
+http://www.nfpa.org/aboutthecodes/AboutTheCodes.asp?DocNum=407.
+
+AC 150/5230-4B 9/28/2012 
+6 
+ 
+Chapter 2. Fuel Safety Training 
+This chapter provides guidance on the development of both the supervisory fuel safety and the 
+line service fuel safety training courses. Based on the minimum standards established in 14 CFR 
+§139.321 (b) (1) – (7) and §139.321 (e), this chapter identifies the areas that must be addressed 
+in these courses. Because of the responsibilities inherent in training others in fire safety, this 
+AC identifies in Chapter 3 further areas of competence that must be met for the 
+Supervisory Training Course. 
+1. Introduction. 
+a. 14 CFR §139.321 sets forth the requirements for fuel safety training at certificated airports. 
+These requirements include two distinct types of training for employees of agents handling aviation 
+fuel: supervisory training and line service fuel safety training. Training performed under the 
+supervisory training program must be obtained by completing a FAA authorized Supervisory Fuel 
+Safety training course. Line service fuel safety training for other employees may be provided by a 
+supervisor who has completed the supervisory course or an authorized fuel safety training program. 
+The material and program utilized by a certified supervisor to provide training to their company 
+employees does not need to be reviewed or approved by the FAA. Training for employees may also 
+be completed through the use of an approved line service fuel safety course. Using an approved line 
+service fuel safety course does not relieve a fueling agent from the obligation to have at least one 
+supervisor complete a supervisory fire safety course. 
+b. Incidents and accidents caused by the mishandling of fuels and other hazardous materials 
+are vital concerns of both the FAA and airport operators.  Additionally, the FAA and other local 
+and federal agencies are concerned with activities related to conditions that lead to personnel 
+injuries and damage to property as well as those attributable to insufficient attention to the 
+impacts that fuel and lubricant products have on the environment when they are not used 
+properly.  For these reasons, airports certificated under Part 139 must ensure training is received 
+in the areas listed in 14 CFR §139.321 (b) for personnel whose duties and responsibilities 
+involve the handling and storing of hazardous substances and materials. 
+c. Part 139.321(e) (1) requires that “[at] least one supervisor with each fueling agent must 
+have completed an aviation fuel training course in fire safety that is authorized by the 
+Administrator. Such an individual must be trained prior to initial performance of duties, or 
+enrolled in an authorized aviation fuel training course that will be completed within 90 days of 
+initiating duties, and receive recurrent instruction at least every 24 consecutive calendar months.”   
+d. Part 139.321(e) (2) requires “[a]ll other employees who fuel aircraft, accept fuel 
+shipments, or otherwise handle fuel must receive at least initial on-the-job training and recurrent 
+instruction every 24 consecutive calendar months in fire safety from the supervisor trained in 
+accordance with paragraph (e) (1) of this section.”  Training for employees may also be 
+completed through the use of an approved line service fuel safety course. The FAA lists 
+supervisory and line service programs  currently available nationally in the Addendum, which is 
+updated quarterly.  It can be found along with this AC on the FAA’s website.
+
+9/28/2012 AC 150/5230-4B 
+7 
+ 
+e. 14 CFR §139.321 (b) places the responsibility of determining standards for fueling safety 
+on the individual airport based on state, local, or municipality fueling regulations. The FAA does 
+not intend this AC to replace airport procedures that are tailored to meet requirements imposed 
+because of the use of special equipment or as a result of local regulations. 
+f. This AC provides guidelines in Chapter 5 for submitting a supervisory and/or a line 
+service fueling safety program to the FAA for national acceptance. 
+2.  Mandatory Elements for Supervisory and Line Service Fuel Safety Training Programs. 
+A fuel safety training program should include:  
+a. An orientation that addresses:  
+(1) Purpose of the course  
+(2) Expected outcomes as identified in 14 CFR §139.321  
+(3) Familiarity with applicable FAA ACs, fire codes, and fire and fuel safety 
+organizations and their publications  
+(4) Knowledge of fuel types 
+(5) Fueling of different types of aircraft 
+(6) Supervisory Requirement - An overview of techniques for effective training, 
+including:  
+i. Methods of delivery; Classroom, On-the-Job and Online 
+ii. Understanding of different types of learning (i.e. visual, cognitive, hands-
+on) 
+iii. Motivational aspects of training 
+b. Basic safety practices including: 
+(1) Protection against fire and explosions 
+(2) Safe handling and storage procedures for fuels and lubricants 
+(3) An understanding of the term “hazardous materials” and procedures for handling 
+hazardous materials and other fuels and lubricants 
+(4) Use of Personal Protective Equipment (PPE) , including eye protection, ear 
+protection, hand protection, and proper types of clothing and shoes/boots 
+(5) Prohibition on carriage of smoking materials (i.e., cigars, cigarettes, lighters, 
+matches, and pipes)
+
+AC 150/5230-4B 9/28/2012 
+8 
+ 
+(6) First aid for responding to contact with aviation fuels or lubricants, including 
+ingestion, inhalation, and contact with eyes or bare skin 
+c. Bonding 
+(1) Definitions as contained in NFPA 407 
+(2) Physics of bonding (what/when/why)  
+(3) How to ground versus how to bond: 
+i. Where and how to bond 
+ii. Types of bonding equipment 
+iii. Correct bonding procedures 
+(4) Static electricity  
+(5) Fuel flash points 
+d. Public protection 
+(1) Protection from sources of ignition 
+(2) Proper ramp fueling procedures, including aircraft with passengers on board  
+(3) Coordination with flight crew prior to fueling aircraft  
+(4) Situations requiring cessation of fueling procedures 
+e. Control of access to storage areas 
+(1) Fences and gates/locks  
+(2) Signs and other required placarding (e.g., “No smoking,” “Jet A,” “AVgas”) 
+(3) Protection and security associated with fuel farms, including proper authorizations 
+and procedures 
+(4) Safety awareness (location and operation of fire extinguishers, location of 
+emergency shutoffs, communications for assistance) 
+f. Fire safety in fuel farm and storage areas 
+(1) Verification of product types 
+(2) Fuel farm inspection procedures
+
+9/28/2012 AC 150/5230-4B 
+9 
+ 
+(3) Fueling operations at fuel storage facilities during low visibility and night 
+operations 
+(4) Fuel delivery operations, including the use of hoses, valves, and other equipment 
+(5) Proper procedures for fuel equipment use/storage (nozzle covers, securing of 
+equipment when not in use) 
+(6) Leak and spill prevention 
+(7) Product leaks and contamination 
+(8) Emergency procedures and notifications 
+i. Local spill reporting procedures 
+ii. Spill control and containment (limited quantity) 
+iii. Spill (large quantity) and aircraft rescue and firefighting notification 
+requirement 
+iv. Cleanup procedures 
+(9) Fire classification and appropriate types of extinguishers 
+i. Fire classifications and extinguisher types used 
+ii. Inspections, safety, and personnel protection after a spill 
+iii. Hands-on training in use of a portable fire extinguisher (see section 4)  
+(10) Effects of weather on fueling operations 
+g. Fire safety in mobile fuelers, fueling pits, and fueling cabinets 
+(1) Weight and balance, driving requirements, speed precautions, and driver 
+qualifications 
+(2) Inspection of fueling vehicle and the sumping, exhaust, and muffler system 
+(3) Procedures and vehicle placement for fueling operations, controls, interlocks, 
+brakes, and chocking 
+(4) Mobile fueler refueling procedures 
+(5) Parking requirements and separation distances 
+(6) Fueling pit safety/procedures/product leaks/clean-up
+
+AC 150/5230-4B 9/28/2012 
+10 
+ 
+(7) Fueling cabinet safety procedures 
+h. Fire code requirement – supervisory personnel requirement (see section 3) 
+3. Local Fire Codes and Regulations. A local fire code or the National Fire Code may be 
+the governing document at specific airport(s). This information must be included in the 
+course(s). Supervisory personnel must be informed of their responsibility to determine the code 
+that appropriately governs the airport at which they provide and conduct fueling activities.  They 
+must ensure code information is incorporated into their line service personnel training. It is their 
+responsibility to receive a briefing on local fire codes from airport management, local Fire 
+Marshall, or Authority Having Jurisdiction (AHJ).  Additionally, they must be aware the local 
+jurisdiction may have other safety requirements for fueling procedures at their airport.   
+a. Airport Operators holding a Part 139 certificate should be aware that it is their duty to 
+provide a briefing to tenant fueling agents on the fire codes in effect at the airport that differ from 
+NFPA 407. 
+4. Hand Held Fire Extinguishers. Each student must receive hands-on training in the proper 
+use of hand held fire extinguishers. Companies listed in the Addendum must provide this training 
+or highlight the requirement for the student to receive this training from their local fire 
+department or other local qualified source. 
+a. Certificates of completion for courses that do not include hand held fire extinguisher 
+training must include a statement indicating “excluding hands-on fire extinguisher training”.    
+b. If hands-on fire extinguisher training is not provided by a company listed in the 
+Addendum, the supervisor is required to complete this training via local fire departments or 
+another qualified provider.  A statement or a certificate of completion for hands-on fire 
+extinguisher training must be dated and signed by an approving authority.  The statement or 
+certificate of completion must be maintained in the student’s training record as part of the 
+certification that the supervisor has completed all of the required elements of a course in aviation 
+fuel safety in a manner acceptable to the Administrator. 
+c. Hands-on fire extinguisher training, if not provided concurrently with the supervisory 
+and/or line service training course in fire safety, must be completed within 60 days of completion 
+of the supervisory training course in fire safety. 
+5. Airport Specific Courses. An individual airport may create and submit for approval a 
+supervisory or line service course in fuel safety that is specific to a particular airport. 
+a. Such a course may exclude items from section 2 of this chapter that do not apply to that 
+specific airport.
+
+9/28/2012 AC 150/5230-4B 
+11 
+ 
+Chapter 3. Supervisors Training Course 
+The contents of Chapter 2 form the basis of the Supervisory Training Course. This chapter 
+identifies the additional requirements that must be met in the Fire Safety for Supervisors 
+Training Course. In addition, the depth of instruction in each section identified in Chapter 2 must 
+be sufficient to ensure that supervisors understand the material and their responsibilities in 
+training others in fire safety.  
+1. The FAA recommends that instructors teaching the Supervisor Fuel Training Course possess: 
+a. A thorough working knowledge of the contents of Chapter 2 and requirements of 14 
+CFR §139.321(b)(1) through (b)(7) and §139.321(e) (1) and (2). 
+b. A minimum of 2 years’ experience in all aspects of fueling procedures. 
+2. Instructors teaching the Supervisor Fuel Training Course must be able to discuss training 
+methodologies and motivation and understand how to test student comprehension and 
+recognition.  
+3. Each supervisor must receive training in the proper use of hand held fire extinguishers.  
+Companies listed in the Addendum must provide this training and identify the requirement for 
+the student to receive this training from their local fire department.   
+a. Certificates of completion for courses that do not include hand held fire extinguisher 
+training must include a statement indicating “excluding fire extinguisher training”.   
+b. If hand held fire extinguisher training is not provided by a company listed on the 
+Addendum, the supervisor is required to complete this training via local fire departments.  A 
+statement or a certificate of completion for fire extinguisher training provided by a local fire 
+Department must be dated and signed by an approving authority.  The statement or certificate of 
+completion from the local fire authority must be maintained in the student’s training record as 
+part of the certification that the supervisor has completed all of the required elements of a course 
+in aviation fuel safety in a manner acceptable to the Administrator. 
+4. The date of the fire extinguisher training, the date of completion of the fuel safety course, or 
+whichever occurred most recently should be used as the date to verify completion of all required 
+elements of aviation fuel safety training.
+
+AC 150/5230-4B 9/28/2012 
+12 
+ 
+Chapter 4. Testing, Certification, and Recordkeeping 
+1. Exams. Exams or tests may be oral, written, practical, or a combination.  All test questions 
+must be researched and referenced with validation of correct answers shown in the master test 
+and retained on file. 
+2. Record-keeping.  
+a. Responsibilities of Airport Fueling Agents.  
+(1) Fueling agents must maintain a copy of the certificate of completion for any 
+supervisors completing a supervisory course in fueling safety for 24 consecutive calendar 
+months.    
+(2) 14 CFR §139.321(e)(2) requires all employees to receive initial hands-on and 
+recurrent training from a supervisor who has completed a Supervisory Training Program in Fire 
+Safety.  Records of that training must be maintained by the fueling agent for 24 consecutive 
+calendar months.   
+(3)  At locations where the training required under §139.321(e)(2) is provided through an 
+approved Line Service Fire Safety Training Program, fueling agents must maintain a copy of the 
+certificate of completion for 24 consecutive calendar months.  
+b. Responsibilities of Tenant Fueling Agents. Tenant fueling agents must record and 
+retain the certificate/record of completion in the fuel safety supervisor’s training record or the 
+line person’s training record, as appropriate, by the party certifying course completion for 12 
+consecutive calendar months.  Line service personnel completing an online or offsite course must 
+also have documentation of onsite training conducted by the tenant fueling agent’s trained 
+supervisor.  Tenant fueling agents must also provide the airport operator/certificate holder a 
+written confirmation once every 12 consecutive calendar months that the training required by 14 
+CFR §139.321(e) has been accomplished. 
+3. Certificates. Certificates must differentiate between supervisor training and line service 
+training.  
+a. Supervisor certificates must have the following wording: 
+(1) Name of company doing the training 
+(2) Name of individual who completed the “Fuel Safety Supervisor” training 
+(3) “Has successfully completed all classroom and practical application for the 
+requirements of 14 CFR §139.321(b)(1) through (b)(6) and §139.321(e) (1)” 
+(4) Date of completion
+
+9/28/2012 AC 150/5230-4B 
+13 
+ 
+b. Line training certificates must have the following wording: 
+(1) Name of company doing the training 
+(2) Name of individual who completed “Line Fuel Service” training 
+(3) “Has successfully completed all classroom and practical application for the 
+requirements of 14 CFR Part §139.321(b)(1) through (b)(7) and 139.321 (e) (2)” 
+(4) Date of completion 
+c. The FAA does not endorse any training programs; however, certificates issued as a result 
+of completion of an approved training program in fire safety may include the following: 
+(1)  A statement indicating the associated training program is on the FAA’s 
+Addendum of approved training facilities.
+
+AC 150/5230-4B 9/28/2012 
+14 
+ 
+Chapter 5. Guidelines for Submitting Line Service and/or Supervisory Safety 
+Course(s) 
+1. Supervisory Training Program and/or Line Training Program.  
+a. Purpose. This chapter establishes the standards for submitting a Fueling Safety Training 
+Program for Supervisory Personnel and/or Fueling Safety Training Program for Line Service 
+Personnel. It provides guidance for addressing the requirements of 14 CFR §139.321 (e) (1) and 
+(2) and the additional requirements for supervisory personnel stipulated by §139.321 (b) (1) – 
+(7). 
+b. Explanation.  Fueling Safety Programs are also known as Fueling Supervisory Courses, 
+Line Service Supervisory Training, and Fire Safety Training.  These courses ensure that 
+supervisory and line fueling personnel recognize the importance of aircraft fueling safety.  
+Fueling supervisory courses are designed to emphasize the importance of instructing effectively 
+in the principles necessary to ensure safety during fueling operations on airports. 
+c. Introduction. Fueling safety involves several areas: aircraft fueling, fuel transport, and 
+fuel storage.  Failure to follow safe operating procedures during any of these activities on and off 
+the airport can result in accidents.  Fueling procedures and practices have been designed to 
+minimize the risks associated with flammable materials for the protection of fuelers themselves, 
+other airport personnel, and the general public.  Instruction in this subject is vital and a necessary 
+part of airport safety. 
+(1) The FAA recommends the training addressed by these guidelines include at least 
+16 to18 hours of class time.  In addition to classroom training, students must receive appropriate 
+demonstrations and hands-on training.  Curriculum development personnel must ensure the 
+minimum content identified in Chapters 2 and 3 of this AC are addressed. Safety must be 
+paramount during training and enforced throughout the entire training course.    
+2.  Supervisors Fuel Training Curriculum. This curriculum must address the contents of 
+Chapter 2, including material marked “Supervisory Requirement”. An outline of the course, 
+testing material, references, and a sample of the course completion certificate must be submitted 
+to the FAA for review.  
+3. Line Service Fuel Safety Training Curriculum. The curriculum must address the contents 
+of Chapter 2. An outline of the course, testing material, references, and a sample of the course 
+completion certificate must be submitted to the FAA for review.
+
+9/28/2012 AC 150/5230-4B 
+15 
+ 
+4. Review and Approval.  
+a. All courses should be submitted for initial approval and also whenever there any major 
+rewrites or changes to the material being taught. 
+b. Send curriculum materials to: 
+Federal Aviation Administration 
+Manager, Airport Safety and Operations  
+Attn: Fuel Safety Training 
+800 Independence Ave SW 
+AAS-300, Room 618  
+Washington DC 20591 
+The FAA will add acceptable courses to the Addendum of Authorized Fuel Safety Training 
+Courses on a quarterly basis.
+
+AC 150/5230-4B 9/28/2012 
+16 
+ 
+Appendix A. Definitions and Acronyms 
+DEFINITIONS 
+ 
+Airport Fueling Agent - An airport operator/certificate holder that sells fuel products on the 
+airport. 
+ 
+Airport Fueling System - An arrangement of aviation fuel storage tanks, pumps, piping, and 
+associated equipment, such as filters, water separators, hydrants and station, or aircraft fuel 
+servicing vehicles, installed at an airport and designed to service aircraft at fixed positions. 
+ 
+Authority Having Jurisdiction (AHJ) - An organization, office, or individual responsible for 
+enforcing the requirements of a code or standard or for approving equipment, materials, an 
+installation, or a procedure. 
+ 
+Dead Man Control - A device that requires a positive continuing action of a person to allow the 
+flow of fuel. 
+ 
+Emergency Fuel Shutoff - A function performed to stop the flow of fuel in an emergency. 
+ 
+Fueling Agent - A person or company that sells fuel products on the airport.  This is intended to 
+exclude the self-fueling activities of an airline or corporation that conducts self-fueling. 
+ 
+Self-Fueling and Self-Service - Self-fueling means the fueling or servicing of an aircraft by the 
+owner of the aircraft with his or her own employees and using his or her own equipment.  Self-
+fueling cannot be contracted out to another party. Self-fueling implies using fuel obtained by the 
+aircraft owner from the source of his/her preference. Self-fueling differs from using a self-service 
+fueling pump made available by the airport, a Fixed Base Operator (FBO), or an aeronautical 
+service provider. The use of a self-service fueling pump is a commercial activity and is not 
+considered self-fueling as defined herein. Self-service includes activities such as adjusting, 
+repairing, cleaning, and otherwise providing service to an aircraft, provided the service is 
+performed by the aircraft owner or his/her employees with resources supplied by the aircraft 
+owner. Title 14 CFR Part 43 of the Federal Aviation Regulations permits the holder of a pilot 
+certificate to perform specific types of preventative maintenance on any aircraft owned or 
+operated by the pilot.   
+ 
+NOTE: Fueling from a pull-up commercial fuel pump is not considered self-fueling under the 
+Federal grant assurances since it involves fueling from a self-service pump made available by the 
+airport or a commercial aeronautical service provider. 
+ 
+Tenant Fueling Agent - A person or company that sells fuel products on the airport, other than 
+the certificate holder.
+
+9/28/2012 AC 150/5230-4B 
+17 
+ 
+ 
+ACRONYMS 
+ 
+AC  Advisory Circular 
+ 
+AHJ  Authority Having Jurisdiction 
+CFR  Code of Federal Regulations 
+DOT  Department of Transportation 
+FAA  Federal Aviation Administration 
+FBO  Fixed Base Operator 
+NFPA  National Fire Protection Association 
+ 
+PPE  Personal Protective Equipment
+
+AC 150/5230-4B 9/28/2012 
+18 
+ 
+Appendix B.  Additional Resources 
+ 
+1. ATA Spec 103 – Spec. 103, Standard for Jet Fuel Quality Control at Airports, produced by 
+Airlines for America, provides guidance for the safe storage and distribution of jet fuel at 
+airports as currently practiced in the commercial aviation industry. Spec. 103 can be obtained 
+from: 
+A4A Publications Department 
+1301 Pennsylvania Avenue, NW 
+Suite 1100 
+Washington, DC 20004 
+202-626-4062 
+https://publications.airlines.org 
+ 
+2. NATA Refueling and Quality Control Procedures for Airport Service and Support 
+Operations – The National Air Transportation Association’s (NATA’s) refueling and quality 
+control guidebook provides information and detailed procedures on the safe handling and 
+delivery of aviation fuels. The guide is available from: 
+ 
+National Air Transportation Association 
+4226 King Street 
+Alexandria, VA 22302 
+800-808-6282 
+http://www.nata.aero 
+ 
+3. ASTM Manual 5, Aviation Fuel Quality Control Procedures – Manual 5 provides a 
+complete explanation of several common procedures used by fuel handlers to assess and 
+protect aviation fuel quality. Manual 5 can be obtained by contacting: 
+ 
+ ASTM Customer Service  
+610-832-9585 
+610-832-9555 Fax 
+service@astm.org 
+http://www.astm.org
+
+9/28/2012 AC 150/5230-4B 
+19 
+ 
+Addendum of Authorized Fuel Safety Training Courses 
+The current Addendum, updated quarterly, is available online with this AC at 
+http://www.faa.gov/regulations_policies/advisory_circulars/.
