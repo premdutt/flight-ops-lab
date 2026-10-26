@@ -29,8 +29,8 @@ class Answer(Executor):
     
     @handler    
     async def answer(self, msg: Routed, ctx: WorkflowContext[Never, str]) -> None:
-        await ctx.yield_output((await answer_agent.run(msg.text)).text)
-
+        r = await answer_agent.run(msg.text)
+        await ctx.yield_output(r.messages[-1].text.strip())   # final answer only, not the notes between tool calls
 
 class DraftRequest(Executor):
     def __init__(self):
