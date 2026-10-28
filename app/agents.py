@@ -2,6 +2,7 @@ from pathlib import Path
 from typing import Annotated
 from agent_framework.openai import OpenAIChatCompletionClient
 from app import config
+from app.memory import save_pref
 
 client = OpenAIChatCompletionClient(
     azure_endpoint = config.APIM_URL
@@ -47,4 +48,23 @@ REQUEST_PROMPT = (
 
 router_agent = client.as_agent(name="router",instructions = ROUTER_PROMPT)
 answer_agent = client.as_agent(name="answer",instructions= ANSWER_PROMPT,tools=[search_docs])
-request_agent = client.as_agent(name="request", instructions=REQUEST_PROMPT)
+#request_agent = client.as_agent(name="request", instructions=REQUEST_PROMPT)
+
+
+def make_request_agent(user_id:str,profile:dict):
+    """Build a request agent for one user: their preferences in the prompt, a remember tool bound to them."""
+    async def remember(key: Annotated[str, "Preference name, e.g. home_base or fuel_type"],
+                       value: Annotated[str, "Preference value"]) -> str:
+        """Save a lasting preference the user stated, such as their home airport."""
+        await save_pref(user_id, key, value)
+        return f"Saved {key}."
+
+    instructions = (
+            REQUEST_PROMPT
+            + f" Known saved preferences for this user: {profile.get('prefs', {})}. "
+            "Use them to fill missing fields. If the user states a lasting preference "
+            "(for example 'my home base is KFDK'), call remember before answering."
+        )
+
+    return client.as_agent(name="request", instructions=instructions, tools=[remember])
+

@@ -4,7 +4,8 @@ from azure.cosmos.aio import CosmosClient
 from agent_framework_azure_cosmos import CosmosCheckpointStorage
 from app.config import env
 
-ALLOWED = ["app.workflow:Routed"]
+ALLOWED = ["app.workflow:UserMessage", "app.workflow:Routed",
+           "app.workflow:ApprovalRequest", "app.workflow:ApprovalDecision"]
 
 @asynccontextmanager
 async def checkpoint_storage():

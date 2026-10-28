@@ -1,16 +1,11 @@
+# scripts/smoke_workflow.py: question path through the workflow (no storage)
 import asyncio
-from app.workflow import build_workflow
-
-async def run(text:str):
-    wf=build_workflow()
-    async for ev in wf.run(text,stream=True):
-        if ev.type == "output":
-            print(f"\n{text}\nOUTPUT:{ev.data}")
-
+from app.workflow import build_workflow, UserMessage
 
 async def main():
-    await run("What are the requirements for fuel quality control?")
-    await run("I need fuel for N123AB at KFDK tomorrow at 9am")
+    text = "What are the requirements for fuel quality control?"
+    async for ev in build_workflow().run(UserMessage("smoke", text), stream=True):
+        if ev.type == "output":
+            print(f"> {text}\nOUTPUT: {ev.data}")
 
 asyncio.run(main())
-    
