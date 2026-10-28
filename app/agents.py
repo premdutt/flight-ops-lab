@@ -48,7 +48,7 @@ REQUEST_PROMPT = (
 
 router_agent = client.as_agent(name="router",instructions = ROUTER_PROMPT)
 answer_agent = client.as_agent(name="answer",instructions= ANSWER_PROMPT,tools=[search_docs])
-request_agent = client.as_agent(name="request", instructions=REQUEST_PROMPT)
+#request_agent = client.as_agent(name="request", instructions=REQUEST_PROMPT)
 
 
 def make_request_agent(user_id:str,profile:dict):
