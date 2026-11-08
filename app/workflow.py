@@ -8,7 +8,9 @@ from app.agents import router_agent, answer_agent, make_request_agent
 from app.llm_utils import extract_json, final_text
 from app.memory import load_profile, submit_request
 from azure.cosmos.exceptions import CosmosResourceExistsError
+from app.safety import shield, moderate, EVENTS
 
+REFUSAL = "Sorry, I can't help with that request."
 WORKFLOW_NAME = "flightops"   # fixed: checkpoints are stored and listed by this name
 
 @dataclass
@@ -38,7 +40,12 @@ class Router(Executor):
         super().__init__(id="router")
 
     @handler
-    async def route(self, msg: UserMessage, ctx: WorkflowContext[Routed]) -> None:
+    async def route(self, msg: UserMessage, ctx: WorkflowContext[Routed, str]) -> None:
+        attacked, _ = await shield(msg.text)
+        if attacked:
+            EVENTS.append("input")
+            await ctx.yield_output(REFUSAL)       # stop here; nothing goes to the router agent
+            return
         label = (await router_agent.run(msg.text)).text.strip().upper()
         intent = "request" if "REQUEST" in label else "question"
         await ctx.send_message(Routed(intent, msg.user_id, msg.text))
@@ -49,7 +56,11 @@ class Answer(Executor):
 
     @handler
     async def answer(self, msg: Routed, ctx: WorkflowContext[Never, str]) -> None:
-        await ctx.yield_output(final_text(await answer_agent.run(msg.text)))
+        text = final_text(await answer_agent.run(msg.text))
+        if not await moderate(text):
+            EVENTS.append("output")
+            text = "I can't share that answer."
+        await ctx.yield_output(text)
 
 class DraftRequest(Executor):
     def __init__(self):

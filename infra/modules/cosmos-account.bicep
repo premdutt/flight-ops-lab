@@ -10,6 +10,8 @@ name: name
     enableFreeTier: true
     disableLocalAuth: true            // Entra ID only, no keys
     locations: [ { locationName: location, failoverPriority: 0 } ]
+    enableAutomaticFailover: true
+    minimalTlsVersion:'Tls12'
   }
 }
 output name string = acct.name

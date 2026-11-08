@@ -3,6 +3,7 @@ from typing import Annotated
 from agent_framework.openai import OpenAIChatCompletionClient
 from app import config
 from app.memory import save_pref
+from app.safety import shield, EVENTS
 
 client = OpenAIChatCompletionClient(
     azure_endpoint = config.APIM_URL
@@ -11,11 +12,8 @@ client = OpenAIChatCompletionClient(
     ,api_version = config.API_VERSION
 )
 
-def search_docs(query: Annotated[str, "Keywords to search for"]) -> str:
-    """
-    Search the FAA documentation for relevant articles, guides, and policies.
-    Use this tool whenever the user asks 'how to' questions regarding the documentation in scope for this tool.
-    """
+async def search_docs(query: Annotated[str, "Keywords to search for"]) -> str:
+    """Search the FAA reference documents and return matching passages with their source."""
     words = [w.lower() for w in query.split() if len(w) > 3]
     scored = []
     for f in Path("data/text").glob("*.txt"):
@@ -24,9 +22,15 @@ def search_docs(query: Annotated[str, "Keywords to search for"]) -> str:
             if score:
                 scored.append((score, f"[{f.stem}] {para[:1000]}"))
     scored.sort(reverse=True)
-    return "\n\n".join(p for _, p in scored[:4]) or "No matches."
+    hits = [p for _, p in scored[:4]]
+    if not hits:
+        return "No matches."
 
-
+    _, flags = await shield(query, hits)          # screen the passages before the model sees them
+    if any(flags):
+        EVENTS.append("document")
+    safe = [h for h, bad in zip(hits, flags) if not bad]
+    return "\n\n".join(safe) or "No usable matches."
 
 
 ROUTER_PROMPT = (

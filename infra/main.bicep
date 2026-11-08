@@ -3,6 +3,8 @@ param suffix string
 param platformRg string = 'rg-ai-platform'
 param location string = resourceGroup().location
 param principalIds array
+param safetyLocation string = 'eastus'
+
 
 module cosmosAccount 'modules/cosmos-account.bicep' = {
   name: 'cosmos-account'
@@ -20,4 +22,11 @@ module cosmos 'modules/cosmos-project.bicep' = {
   }
 }
 
+module safety 'modules/contentsafety.bicep' = {
+  name: 'contentsafety'
+  scope: resourceGroup(platformRg)
+  params: { name: 'cs-ai-${suffix}', location: safetyLocation }
+
+}
 output cosmosEndpoint string = cosmos.outputs.endpoint
+output safetyEndpoint string = safety.outputs.endpoint
