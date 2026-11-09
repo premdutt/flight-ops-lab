@@ -3,6 +3,7 @@ import time
 import httpx
 from azure.identity.aio import DefaultAzureCredential
 from app.config import env
+import re
 
 API_VERSION = "2024-09-01"
 SCOPE = "https://cognitiveservices.azure.com/.default"
@@ -38,3 +39,13 @@ async def moderate(text: str, max_severity: int = 2) -> bool:
     """True if the text is safe to show (every harm category at or below max_severity)."""
     res = await _post("text:analyze", {"text": text[:10000]})
     return all(c["severity"] <= max_severity for c in res["categoriesAnalysis"])
+
+def is_model_filter_error(e: Exception) -> bool:
+    """True if Foundry's model guardrail rejected the call (HTTP 400 content_filter)."""
+    text = str(e)
+    return "content_filter" in text or "ResponsibleAIPolicyViolation" in text
+
+def model_filter_label(e: Exception) -> str:
+    """Which category fired, e.g. 'Jailbreak'. Empty string if not found."""
+    m = re.search(r"label '([^']+)'", str(e))
+    return m.group(1) if m else ""
