@@ -9,3 +9,4 @@ data/pdf/
 *.log
 local.settings.json
 .DS_Store
+mlflow.db

@@ -2,6 +2,8 @@
 import argparse, asyncio
 from app.workflow import build_workflow, WORKFLOW_NAME, UserMessage, ApprovalDecision
 from app.storage import checkpoint_storage
+from app.tracing import start_tracing, flush_tracing
+
 
 async def drive(stream) -> dict:
     """Print outputs; collect any approval requests the workflow is waiting on."""
@@ -54,4 +56,8 @@ async def main():
             pending = await drive(wf.run(stream=True, responses=ask(pending)))
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    start_tracing()
+    try:
+        asyncio.run(main())
+    finally:
+        flush_tracing()

@@ -4,6 +4,9 @@ import httpx
 from azure.identity.aio import DefaultAzureCredential
 from app.config import env
 import re
+from opentelemetry import trace
+
+tracer = trace.get_tracer("flightops.safety")
 
 API_VERSION = "2024-09-01"
 SCOPE = "https://cognitiveservices.azure.com/.default"
@@ -20,12 +23,13 @@ async def _bearer() -> str:
     return _token.token
 
 async def _post(path:str,body:dict) -> dict:
-    url = f"{env('CONTENT_SAFETY_ENDPOINT').rstrip('/')}/contentsafety/{path}?api-version={API_VERSION}"
-    async with httpx.AsyncClient(timeout=15) as http:
-        r = await http.post(url, json=body, headers={"Authorization": f"Bearer {await _bearer()}"})
-        if r.status_code >= 400:
-            print("CS ERROR:", r.status_code, r.headers.get("www-authenticate"), r.text)
-        return r.json()
+    with tracer.start_as_current_span(f"content_safety {path}"):
+        url = f"{env('CONTENT_SAFETY_ENDPOINT').rstrip('/')}/contentsafety/{path}?api-version={API_VERSION}"
+        async with httpx.AsyncClient(timeout=15) as http:
+            r = await http.post(url, json=body, headers={"Authorization": f"Bearer {await _bearer()}"})
+            if r.status_code >= 400:
+                print("CS ERROR:", r.status_code, r.headers.get("www-authenticate"), r.text)
+            return r.json()
 
 async def shield(user_prompt: str, documents: list[str] | None = None) -> tuple[bool, list[bool]]:
     """Prompt Shields. Returns (attack in the user prompt, attack flag for each document)."""
