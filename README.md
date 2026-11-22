@@ -15,6 +15,8 @@ An in-progress flight-operations assistant built on Azure to explore agent workf
 | Remember preferences | A `remember` tool writes preferences to a Cosmos profile keyed by the supplied user ID. This is application-level scoping, not caller authentication. |
 | Resume workflows | Agent Framework checkpoints are stored in Cosmos DB and can be listed and resumed. |
 | Apply safety checks | Prompt Shields checks user input and retrieved passages; Azure AI Content Safety moderates generated answers. |
+| Trace runs | OpenTelemetry traces are exported to the OTLP endpoint set in `.env` (Langfuse in this lab), including a span around each Content Safety call. |
+| Evaluate changes | A 30-case golden set runs through the real workflow, is scored by code and an LLM judge, and is logged to MLflow. |
 
 ## Architecture
 
@@ -35,7 +37,7 @@ Azure AI Content Safety --> Prompt Shields and moderation
 Cosmos DB --> checkpoints, per-ID preferences, and submitted requests
 ```
 
-APIM and the model endpoint are configured outside this repository. `infra/main.bicep` deploys the lab Cosmos DB resources and Content Safety resource; it does not deploy APIM or Foundry. Tracing with Langfuse/OTel, MLflow evaluations, Azure AI Search, and Durable Functions ingestion are not implemented in this checkout.
+APIM and the model endpoint are configured outside this repository. `infra/main.bicep` deploys the lab Cosmos DB resources and Content Safety resource; it does not deploy APIM or Foundry. Azure AI Search and Durable Functions ingestion are not implemented in this checkout.
 
 ## Progress
 
@@ -45,7 +47,7 @@ APIM and the model endpoint are configured outside this repository. `infra/main.
 | 1 | Agent Framework agents/workflow, Cosmos checkpoints, Bicep, GitHub Actions | Present in the repository. |
 | 2 | Approval flow and per-user preferences | Present; identity binding and strict decision/schema validation remain limitations. |
 | 3 | Content Safety and injection evaluation | Present; see the evaluation snapshot below. |
-| 4 | OTel tracing, golden-set evaluation, LLM-as-judge, MLflow | In progress/planned; no golden-set runner is present here. |
+| 4 | OTel tracing, golden-set evaluation, LLM-as-judge, MLflow | Present; see the Week 4 results below. The judge has not yet been validated against human grades. |
 | 5 | Azure AI Search hybrid retrieval, Durable Functions ingestion | Planned. |
 | 6 | LangGraph rebuild, LangSmith, open-model fallback | Planned; `langgraph_app/` is currently only a scaffold. |
 
@@ -58,13 +60,28 @@ Snapshot from [`evals/results/week3.md`](evals/results/week3.md), not a current 
 - Requests submitted by attacks: **0**; five attacks reached the approval step and the evaluation rejected them.
 - Some attacks still reached the request or answer path; reaching approval is not counted as blocked by the harness.
 
+## Week 4 Results
+
+Snapshot from [`evals/results/week4.md`](evals/results/week4.md). One run per prompt on 30 cases; scores vary between runs.
+
+| Metric | baseline-v2 | answer-prompt-v2 |
+|---|---|---|
+| Routing, request fields, attacks refused | 1.00 | 1.00 |
+| Fact recall (20 questions) | 0.60 | 0.60 |
+| Groundedness (1-5, LLM judge) | 4.65 | 4.45 |
+| Source named in answer | 0.95 | 1.00 |
+
+- A "direct answer first" prompt showed **no proven improvement** and made one answer confidently wrong, so the original prompt was kept.
+- Retrieval is the likely limit: at baseline, 7 of the 8 missed facts were not in any passage the model saw.
+- **The judge is not validated.** The planned human check is still open, and known judge mistakes are listed in the results file.
+
 ## Repository Layout
 
 ```text
-app/              config, agents, workflow, memory, safety, storage, CLI
+app/              config, agents, workflow, memory, safety, storage, tracing, CLI
 data/text/        extracted FAA text used by retrieval
 docs/             project backlog
-evals/            injection/benign cases, runner, and result snapshots
+evals/            injection, benign and golden cases, runners, and result snapshots
 infra/            Bicep templates for Cosmos DB and Content Safety
 langgraph_app/    Week 6 scaffold
 scripts/          PDF extraction and smoke checks
@@ -101,9 +118,15 @@ JUDGE_DEPLOYMENT=judge
 EMBED_DEPLOYMENT=embed
 COSMOS_ENDPOINT=https://your-cosmos-account.documents.azure.com:443/
 CONTENT_SAFETY_ENDPOINT=https://your-content-safety-resource.example/
+
+# Tracing (Langfuse US region shown)
+OTEL_SERVICE_NAME=flight-ops-lab
+OTEL_EXPORTER_OTLP_PROTOCOL=http/protobuf
+OTEL_EXPORTER_OTLP_ENDPOINT=https://us.cloud.langfuse.com/api/public/otel
+OTEL_EXPORTER_OTLP_HEADERS=Authorization=Basic%20your-base64-public-and-secret-key
 ```
 
-The first three variables and both endpoint variables are required. Deployment names default to `chat`, `judge`, and `embed`; the current workflow uses the chat deployment. `app.llm.embed` uses the embedding deployment. Azure SDK calls use Entra ID via `DefaultAzureCredential`; APIM calls use the subscription key. Keep `.env` local; it is git-ignored.
+The first three variables and both endpoint variables are required. Deployment names default to `chat`, `judge`, and `embed`; the workflow uses the chat deployment and the golden-set evaluation uses the judge deployment, which should be a different model from chat. `app.llm.embed` uses the embedding deployment. Azure SDK calls use Entra ID via `DefaultAzureCredential`; APIM calls use the subscription key. Keep `.env` local; it is git-ignored.
 
 ### Commands
 
@@ -121,9 +144,16 @@ python -m app.run_cli resume CHECKPOINT_ID
 
 # Run live injection and benign-message evaluations
 python -m evals.run_injections
+
+# Check the judge, then run the golden set (add --per-type 1 for a quick check)
+python -m scripts.smoke_judge
+python -m evals.run_golden --run-name my-run --note "what changed"
+
+# Compare golden-set runs
+mlflow ui --backend-store-uri sqlite:///mlflow.db --port 5001
 ```
 
-The smoke scripts call live Azure services; Cosmos checks can read or write data. The injection evaluation also runs against live services, rejects any approval requests reached, and may save preferences under the `eval` user. Do not treat it as side-effect-free.
+The smoke scripts call live Azure services; Cosmos checks can read or write data. The injection and golden-set evaluations also run against live services, reject any approval requests reached, and may save preferences under the `eval` and `golden` users. Do not treat them as side-effect-free. MLflow results stay in the local, git-ignored `mlflow.db` and `mlruns/`.
 
 ## Infrastructure Deployment
 
@@ -141,8 +171,8 @@ The GitHub Actions workflow runs on pushes to `main` that change `infra/**`, or 
 - The model does not directly call `submit_request`; in the current workflow, the response handler is the submission path. However, the handler treats every action other than `reject` and `edit` as approval. Validate actions explicitly before relying on this as an approval boundary.
 - Request drafts are checked for valid JSON only, not for the required fields, field types, or allowed service values.
 - User profiles are keyed by a caller-supplied user ID. The CLI's `--user` option is not authenticated or bound to the Azure identity, so it must not be presented as cross-user access control.
-- Retrieval is keyword-based over local text files and returns up to four matching passages; it is not semantic or hybrid search.
-- Safety service failures can interrupt a run. Inputs are currently truncated for safety checks rather than rejected for exceeding the limit; blocked-event tracking uses a process-global list.
+- Retrieval is keyword-based over local text files and returns up to four matching passages; it is not semantic or hybrid search. Text is split by page and only the first 1,000 characters of each page are used, so facts further down a page cannot be found.
+- Safety service failures can interrupt a run. Inputs are currently truncated for safety checks rather than rejected for exceeding the limit; blocked-event and retrieved-passage tracking use process-global lists, so evaluation cases must run one at a time.
 - The Week 3 evaluation is a small evolving test set, not a security certification. Attacks reached approval in the recorded run.
 - Agent Framework packages are pinned in `requirements.txt`; the framework packages are pre-release.
-- Planned work includes request-schema and decision validation, spotlighting untrusted passages, robust long-input handling, durable safety-event logging, per-run event state, Azure AI Search, and the Week 4-6 items above.
+- Planned work includes request-schema and decision validation, spotlighting untrusted passages, robust long-input handling, durable safety-event logging, per-run event state, Azure AI Search, human validation of the judge, and the Week 5-6 items above.
