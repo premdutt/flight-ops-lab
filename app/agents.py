@@ -12,6 +12,8 @@ client = OpenAIChatCompletionClient(
     ,api_version = config.API_VERSION
 )
 
+RETRIEVED: list[str] = []      # file stems returned by search_docs, read by the eval
+
 async def search_docs(query: Annotated[str, "Keywords to search for"]) -> str:
     """Search the FAA reference documents and return matching passages with their source."""
     words = [w.lower() for w in query.split() if len(w) > 3]
@@ -23,6 +25,7 @@ async def search_docs(query: Annotated[str, "Keywords to search for"]) -> str:
                 scored.append((score, f"[{f.stem}] {para[:1000]}"))
     scored.sort(reverse=True)
     hits = [p for _, p in scored[:4]]
+    RETRIEVED.extend(h[1:h.index("]")] for h in hits)
     if not hits:
         return "No matches."
 
@@ -71,4 +74,3 @@ def make_request_agent(user_id:str,profile:dict):
         )
 
     return client.as_agent(name="request", instructions=instructions, tools=[remember])
-
