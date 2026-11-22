@@ -29,6 +29,7 @@ async def _post(path:str,body:dict) -> dict:
             r = await http.post(url, json=body, headers={"Authorization": f"Bearer {await _bearer()}"})
             if r.status_code >= 400:
                 print("CS ERROR:", r.status_code, r.headers.get("www-authenticate"), r.text)
+            r.raise_for_status()          # stop here if Content Safety failed
             return r.json()
 
 async def shield(user_prompt: str, documents: list[str] | None = None) -> tuple[bool, list[bool]]:
