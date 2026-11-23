@@ -5,7 +5,7 @@ import argparse, asyncio, hashlib, json, re
 from pathlib import Path
 import mlflow
 from app import config, safety
-from app.agents import RETRIEVED, ANSWER_PROMPT
+from app.agents import RETRIEVED, ANSWER_PROMPT, SEARCH_MODE, TOP
 from app.llm import complete
 from app.llm_utils import extract_json
 from app.safety import is_model_filter_error, model_filter_label
@@ -216,6 +216,7 @@ async def main(a):
         mlflow.log_params({
             "chat_deployment": config.CHAT, "judge_deployment": config.JUDGE,
             "framework": "agent-framework", "cases": len(rows), "note": a.note,
+            "search_mode": SEARCH_MODE, "search_top": TOP,
             "answer_prompt_sha": sha(ANSWER_PROMPT), "judge_prompt_sha": sha(JUDGE_SYSTEM)})
         mlflow.log_metrics(metrics)
         mlflow.log_dict({"cases": rows}, "cases.json")
