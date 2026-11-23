@@ -1,0 +1,18 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "DOCS_STORAGE": "UseDevelopmentStorage=true",
+    "DOCS_CONTAINER": "faa-docs",
+    "SEARCH_ENDPOINT": "https://<search-service>.search.windows.net",
+    "SEARCH_INDEX": "faa-docs",
+    "APIM_GATEWAY_URL": "https://<apim-name>.azure-api.net/aoai",
+    "APIM_SUBSCRIPTION_KEY": "<apim-subscription-key>",
+    "OPENAI_API_VERSION": "2024-10-21",
+    "EMBED_DEPLOYMENT": "text-embedding-3-small",
+    "CHUNK_SIZE": "1200",
+    "CHUNK_OVERLAP": "150",
+    "EMBED_BATCH": "16"
+  }
+}
