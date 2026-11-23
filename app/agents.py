@@ -12,6 +12,8 @@ client = OpenAIChatCompletionClient(
     ,api_version = config.API_VERSION
 )
 
+RETRIEVED: list[str] = []      # passages the model actually saw, read by the eval
+
 async def search_docs(query: Annotated[str, "Keywords to search for"]) -> str:
     """Search the FAA reference documents and return matching passages with their source."""
     words = [w.lower() for w in query.split() if len(w) > 3]
@@ -26,10 +28,11 @@ async def search_docs(query: Annotated[str, "Keywords to search for"]) -> str:
     if not hits:
         return "No matches."
 
-    _, flags = await shield(query, hits)          # screen the passages before the model sees them
+    _user_attack, flags = await shield(query, hits)          # screen the passages before the model sees them
     if any(flags):
         EVENTS.append("document")
     safe = [h for h, bad in zip(hits, flags) if not bad]
+    RETRIEVED.extend(safe)                        # record only what the model sees
     return "\n\n".join(safe) or "No usable matches."
 
 
@@ -69,6 +72,4 @@ def make_request_agent(user_id:str,profile:dict):
             "Use them to fill missing fields. If the user states a lasting preference "
             "(for example 'my home base is KFDK'), call remember before answering."
         )
-
     return client.as_agent(name="request", instructions=instructions, tools=[remember])
-

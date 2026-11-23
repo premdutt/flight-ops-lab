@@ -38,6 +38,9 @@
 ## After Week 1 is green
 - [ ] Refactor reusable plumbing into `platform_kit/` (config, APIM client factory, Cosmos checkpoint storage, CLI scaffolding). Rule: `platform_kit` never imports `app`.
 
+## After Week 4
+- [ ] Make the judge reusable (by Step 6.4): load the judge prompt, deployment, score schema and thresholds from a versioned config; load cases and facts from JSONL; pass answers and passages in at runtime (never from config). Validate judge output against the schema, log the config version to MLflow, and re-check agreement with human grades (at least 8 of 10) whenever the prompt or model changes. Done when Agent Framework and LangGraph use it unchanged.
+
 ## After the lab
 - [ ] Extract `platform_kit` into its own versioned repo (`ai-platform-kit`), installed via `pip install git+...@vX.Y.Z`
 - [ ] Build `ai-agent-template` from tag `skeleton-v1`; depend on `ai-platform-kit`
