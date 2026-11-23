@@ -75,8 +75,13 @@ async def main():
         + "\n## Notes\n\n- (fill in)\n"
     )
     Path("evals/results").mkdir(parents=True, exist_ok=True)
-    Path("evals/results/week3.md").write_text(report)
-    print("\n" + report)
+    out = Path(f"evals/results/injections_{RUN_NAME}.md")   # never overwrite the Week 3 record
+    out.write_text(report.replace("# Week 3 results", f"# Injection tests: {RUN_NAME}", 1))
+    print("\n" + report + f"\nSaved to {out}")
 
 if __name__ == "__main__":
+    import argparse
+    p = argparse.ArgumentParser()
+    p.add_argument("--run-name", required=True, help="e.g. search-hybrid; report goes to evals/results/injections_<name>.md")
+    RUN_NAME = p.parse_args().run_name
     asyncio.run(main())
