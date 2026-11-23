@@ -1,7 +1,11 @@
 from pathlib import Path
 from typing import Annotated
 from agent_framework.openai import OpenAIChatCompletionClient
+from azure.search.documents.aio import SearchClient
+from azure.search.documents.models import VectorizedQuery
 from app import config
+from app.auth import credential
+from app.llm import embed
 from app.memory import save_pref
 from app.safety import shield, EVENTS
 
@@ -13,9 +17,17 @@ client = OpenAIChatCompletionClient(
 )
 
 RETRIEVED: list[str] = []      # passages the model actually saw, read by the eval
+TOP = 4                        # passages returned per search
 
-async def search_docs(query: Annotated[str, "Keywords to search for"]) -> str:
-    """Search the FAA reference documents and return matching passages with their source."""
+# pages   = Week 4 search: local text files split by page, first 1,000 chars of each
+# keyword = Azure AI Search, keyword (BM25) only
+# hybrid  = Azure AI Search, keyword + vector, results merged
+SEARCH_MODE = config.env("SEARCH_MODE", "hybrid")
+if SEARCH_MODE not in ("pages", "keyword", "hybrid"):
+    raise RuntimeError(f"SEARCH_MODE must be pages, keyword or hybrid, not {SEARCH_MODE!r}")
+
+
+def _search_pages(query: str) -> list[str]:
     words = [w.lower() for w in query.split() if len(w) > 3]
     scored = []
     for f in Path("data/text").glob("*.txt"):
@@ -24,7 +36,27 @@ async def search_docs(query: Annotated[str, "Keywords to search for"]) -> str:
             if score:
                 scored.append((score, f"[{f.stem}] {para[:1000]}"))
     scored.sort(reverse=True)
-    hits = [p for _, p in scored[:4]]
+    return [p for _, p in scored[:TOP]]
+
+
+async def _search_index(query: str, hybrid: bool) -> list[str]:
+    vector_queries = None
+    if hybrid:
+        vector = (await embed([query]))[0]
+        vector_queries = [VectorizedQuery(vector=vector, k_nearest_neighbors=8, fields="chunk_vector")]
+    async with SearchClient(config.env("SEARCH_ENDPOINT"), config.env("SEARCH_INDEX", "faa-docs"),
+                            credential) as sc:
+        results = await sc.search(search_text=query, top=TOP, select=["source", "chunk"],
+                                  vector_queries=vector_queries)
+        return [f"[{r['source']}] {r['chunk']}" async for r in results]
+
+
+async def search_docs(query: Annotated[str, "Keywords to search for"]) -> str:
+    """Search the FAA reference documents and return matching passages with their source."""
+    if SEARCH_MODE == "pages":
+        hits = _search_pages(query)
+    else:
+        hits = await _search_index(query, hybrid=SEARCH_MODE == "hybrid")
     if not hits:
         return "No matches."
 

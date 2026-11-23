@@ -4,6 +4,7 @@ param platformRg string = 'rg-ai-platform'
 param location string = resourceGroup().location
 param principalIds array
 param safetyLocation string = 'eastus'
+param searchLocation string = 'eastus'
 
 
 module cosmosAccount 'modules/cosmos-account.bicep' = {
@@ -28,5 +29,13 @@ module safety 'modules/contentsafety.bicep' = {
   params: { name: 'cs-ai-${suffix}', location: safetyLocation }
 
 }
+// The free Search service already exists in eastus; a location can't be changed later
+module search 'modules/search.bicep' = {
+  name: 'search'
+  scope: resourceGroup(platformRg)
+  params: { name: 'srch-ai-${suffix}', location: searchLocation }
+}
+
 output cosmosEndpoint string = cosmos.outputs.endpoint
 output safetyEndpoint string = safety.outputs.endpoint
+output searchEndpoint string = search.outputs.endpoint
