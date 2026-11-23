@@ -41,6 +41,9 @@
 ## After Week 4
 - [ ] Make the judge reusable (by Step 6.4): load the judge prompt, deployment, score schema and thresholds from a versioned config; load cases and facts from JSONL; pass answers and passages in at runtime (never from config). Validate judge output against the schema, log the config version to MLflow, and re-check agreement with human grades (at least 8 of 10) whenever the prompt or model changes. Done when Agent Framework and LangGraph use it unchanged.
 
+## After Week 5
+- [ ] Make the chunk-store field names configurable. Index definitions are already JSON files (`infra/search/idx-<index>.json`), but ingestion, `search_docs` and `scripts/create_index.py` assume `id`, `doc_id`, `source`, `chunk`, `chunk_vector`. Add a field mapping only when a second project needs different names.
+
 ## After the lab
 - [ ] Extract `platform_kit` into its own versioned repo (`ai-platform-kit`), installed via `pip install git+...@vX.Y.Z`
 - [ ] Build `ai-agent-template` from tag `skeleton-v1`; depend on `ai-platform-kit`

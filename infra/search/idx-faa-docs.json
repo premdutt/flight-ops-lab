@@ -1,0 +1,15 @@
+{
+  "name": "faa-docs",
+  "fields": [
+    {"name": "id",           "type": "Edm.String", "key": true, "filterable": true},
+    {"name": "doc_id",       "type": "Edm.String", "filterable": true, "facetable": true},
+    {"name": "source",       "type": "Edm.String", "filterable": true},
+    {"name": "chunk",        "type": "Edm.String", "searchable": true},
+    {"name": "chunk_vector", "type": "Collection(Edm.Single)", "searchable": true,
+     "retrievable": false, "dimensions": 1536, "vectorSearchProfile": "hnsw"}
+  ],
+  "vectorSearch": {
+    "algorithms": [{"name": "hnsw-algo", "kind": "hnsw"}],
+    "profiles":   [{"name": "hnsw", "algorithm": "hnsw-algo"}]
+  }
+}
