@@ -1,6 +1,6 @@
 # scripts/smoke_checkpoint.py: run -> checkpoints saved in Cosmos -> resume with a fresh workflow
 import asyncio
-from app.workflow import build_workflow, WORKFLOW_NAME, UserMessage
+from workflows.agent_framework.workflow import build_workflow, WORKFLOW_NAME, UserMessage
 from app.storage import checkpoint_storage
 
 QUESTION = "What are the requirements for fuel quality control?"

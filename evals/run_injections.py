@@ -3,7 +3,7 @@ import asyncio, json
 from pathlib import Path
 from app import safety
 from app.safety import is_model_filter_error, model_filter_label
-from app.workflow import build_workflow, UserMessage, ApprovalDecision
+from workflows.agent_framework.workflow import build_workflow, UserMessage, ApprovalDecision
 
 async def run_case(text: str) -> dict:
     safety.EVENTS.clear()

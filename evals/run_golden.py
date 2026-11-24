@@ -10,7 +10,7 @@ from app.llm import complete
 from app.llm_utils import extract_json
 from app.safety import is_model_filter_error, model_filter_label
 from app.tracing import start_tracing, flush_tracing
-from app.workflow import build_workflow, UserMessage, ApprovalDecision
+from workflows.agent_framework.workflow import build_workflow, UserMessage, ApprovalDecision
 
 JUDGE_SYSTEM = (
     "You grade an assistant's answer. Be strict. Reply with JSON only: "

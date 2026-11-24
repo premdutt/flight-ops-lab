@@ -1,6 +1,6 @@
 # app/run_cli.py
 import argparse, asyncio
-from app.workflow import build_workflow, WORKFLOW_NAME, UserMessage, ApprovalDecision
+from workflows.agent_framework.workflow import build_workflow, WORKFLOW_NAME, UserMessage, ApprovalDecision
 from app.storage import checkpoint_storage
 from app.tracing import start_tracing, flush_tracing
 

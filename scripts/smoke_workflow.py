@@ -1,6 +1,6 @@
 # scripts/smoke_workflow.py: question path through the workflow (no storage)
 import asyncio
-from app.workflow import build_workflow, UserMessage
+from workflows.agent_framework.workflow import build_workflow, UserMessage
 
 async def main():
     text = "What are the requirements for fuel quality control?"

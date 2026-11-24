@@ -1,6 +1,6 @@
 # scripts/debug_case.py
 import asyncio, sys
-from app.workflow import build_workflow, UserMessage
+from workflows.agent_framework.workflow import build_workflow, UserMessage
 
 async def main():
     try:

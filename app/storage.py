@@ -4,8 +4,10 @@ from azure.cosmos.aio import CosmosClient
 from agent_framework_azure_cosmos import CosmosCheckpointStorage
 from app.config import env
 
-ALLOWED = ["app.workflow:UserMessage", "app.workflow:Routed",
-           "app.workflow:ApprovalRequest", "app.workflow:ApprovalDecision"]
+_TYPES = ["UserMessage", "Routed", "ApprovalRequest", "ApprovalDecision"]
+ALLOWED = ([f"workflows.agent_framework.workflow:{t}" for t in _TYPES]
+           # checkpoints saved before the move; remove with app/workflow.py
+           + [f"app.workflow:{t}" for t in _TYPES])
 
 @asynccontextmanager
 async def checkpoint_storage():
