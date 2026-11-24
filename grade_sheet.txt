@@ -1,0 +1,1781 @@
+==================== q-06 ====================
+QUESTION: Which parties must be included in the Letter of Agreement that covers Runway Safety Area activities at a towered airport?
+
+REQUIRED FACTS: Technical Operations
+
+ANSWER:
+Based on the documents retrieved, here is what I can tell you:
+
+According to **AC 150/5210-20A**, Section 3.2.1, at airports with an operating Air Traffic Control Tower (ATCT):
+
+> *"To accomplish this task, the FAA at each towered airport is creating with the airport operator a letter of agreement outlining standard operating procedures to include delineating movement and non-movement areas."*
+
+So the two parties that must be included in the Letter of Agreement are:
+
+1. **The FAA (Air Traffic Control Tower)** – at each towered airport
+2. **The Airport Operator**
+
+The documents note that when activities need to take place in the RSA, they should occur either between aircraft operations or when a runway is closed via NOTAM (Section 3.1), and that during construction, the airport operator can follow the ground vehicle practices contained in **AC 150/5370-2, Operational Safety on Airports During Construction** (Section 3.2.1).
+
+The source for this is **AC 150/5210-20A**, Section 3.2.1.
+
+PASSAGES THE MODEL SAW:
+[AC-150-5210-20A] 9/1/2015 AC 150/5210-20A 
+Appendix B 
+B-4 
+1.3.27 Runway Incursion–any occurrence at an aerodrome involving the incorrect 
+presence of an aircraft, vehicle or person on the protected area of a surface 
+designated for the landing and take-off of aircraft. 
+1.3.28 Runway in Use or Active Runway–any runway or runways currently being 
+used for takeoff or landing. When multiple runways are used, they are all 
+considered active runways. 
+1.3.29 Runway Safety Area–a defined surface surrounding the runway prepared or 
+suitable for reducing the risk of damage to airplanes (Typically 250 feet off the 
+runway centerline and 1,000 feet off each end or as required) in the event of an 
+excursion, overshoot, or undershoot from the runway. Note: Guidance for RSA 
+is located in AC 150/5300-13A, Airport Design. 
+1.3.30 Surface Incident- Unauthorized or unapproved movement within the 
+designated movement area (excluding runway incursions) or an occurrence in 
+that same area associated with the operation 
+---
+[AC-150-5210-20A] 9/1/2015 AC 150/5210-20A 
+3-3 
+training temporary operators, such as construction workers, even if escorts are being 
+provided. 
+3.2.1 Airports with an Operating Air Traffic Control Tower (ATCT). 
+At airports with an operating ATCT, controllers and vehicle operators can use two-way 
+radios to control vehicles when on the movement area. To accomplish this task, the 
+FAA at each towered airport is creating with the airport operator a letter of agreement 
+outlining standard operating procedures to include delineating movement and non-
+movement areas. When there is construction on an airport, whether federally funded or 
+not, the airport operator can follow the ground vehicle practices contained in AC 
+150/5370-2, Operational Safety on Airports During Construction. 
+3.2.2 Airports without an Operating ATCT. 
+At airports without an operating ATCT, vehicles, fixed-based operators, or others can 
+use two-way radio control. Everyone should pay attention to frequencies used by 
+aircraft and ann
+---
+[AC-150-5210-20A] 9/1/2015 AC 150/5210-20A 
+2-1 
+CHAPTER 2.  TRAINING 
+2.1 Vehicle Operator Requirements. 
+Vehicle operators on airports face conditions that are not normally encountered on 
+public streets and highways. Therefore, anyone with vehicular access to the movement 
+and safety areas, and a need to be there, must have an appropriate level of knowledge of 
+airport rules and regulations. The airport’s ground vehicle driving program can give this 
+information. Airport operators can require vehicle operators maintain a current driver's 
+license
+, and may establish identification requirements that would permit the operation 
+of a vehicle on the movement and safety areas of an airport. Any person expected to 
+operate on the movement and safety areas should be qualified and authorized to operate 
+in the environment. 
+2.2 Training Requirements. 
+Under Part 139, all personnel with duties requiring access to the movement and safety 
+areas are required to have initial and recurrent training. We encourage 
+---
+[AC-150-5210-20A] 9/1/2015 AC 150/5210-20A 
+3-1 
+CHAPTER 3.  VEHICLES 
+3.1 Vehicles on Airports. 
+Airport operators should keep vehicular and pedestrian activity on the movement and 
+safety areas on the airport to the minimum required for operations. Vehicles on the 
+movement and safety areas on the airport may be limited to those vehicles necessary to 
+support the operation of aircraft services, cargo and passenger services, emergency 
+services, and maintenance of the airport. Vehicles on the movement area should be 
+limited to those necessary to inspect and maintain the movement areas, as well as 
+emergency vehicles responding to an aircraft emergency. Vehicles should use service 
+roads or public roads in lieu of crossing movement areas whenever possible.  When 
+activities need to take place in the RSA, they should occur either between aircraft 
+operations or when a runway is closed via NOTAM. 
+3.1.1 Runway Crossings. 
+When necessary, runway crossing should occur at the departure runway end rather tha
+---
+[AC-150-5210-20A] 9/1/2015 AC 150/5210-20A 
+Appendix B 
+B-1 
+APPENDIX B.  SAMPLE GROUND VEHICLE OPERATIONS TRAINING MANUAL 
+NOTE: This sample training manual provides airport operators with a template for developing 
+and implementing proposed policies or procedures for controlling ground vehicles, or taxiing, 
+and towing aircraft. This includes equipment access in the movement and safety areas of an 
+airport. Airport operators may use the format below but adapt the requirements to specific 
+conditions found on their airport. The Operator would fill in the appropriate blanks or blocks 
+of text and/or revise the document for specific airport conditions. 
+Section 1 covers the Authority, Applicability, and Definitions of the Ground Vehicle 
+Operation Manual. It includes:  driving, taxiing or towing aircraft rules and regulations that 
+could be adopted by the airport operator.  
+Section 2 would serve as a suggested driver, taxiing, or towing aircraft training for the 
+Non-Movement Area Manual.  
+Section 3 wo
+---
+[AC_103-6] 6/23/83 AC 103-6 
+CHAPTER 1. AIRPORTS AND ULTRALIGHT FLIGHTPARKS 
+10. WHERE TO TAKEOFF AND LAND. One of the questions most frequently asked by the 
+ultralight pilot is, "Where can I safely and legally takeoff and land my 
+ultralight?" The following information is designed to assist the ultralight 
+pilot in understanding the different types of operations, both on and off 
+airport, and the recommended procedures for obtaining permission to operate 
+ultralight vehicles. 
+a. Existing airports. Currently, there are approximately 16,000 public use 
+and private airports and seaplane bases in the United States. The vast majority 
+of these facilities may be suitable and compatible for safe ultralight 
+operations. Information on their location may be obtained from various sources, 
+such as FAA publications (i.e., Airport/Facility Directory, aeronautical charts, 
+etc.) which may be purchased at most local airports. Also, user organizations 
+have comprehensive airport listings which usually includ
+---
+[AC-150-5210-20A] 9/1/2015 AC 150/5210-20A 
+Appendix B 
+B-3 
+1.3.12 General Aviation (GA)–that portion of civil aviation that encompasses all
+facets of aviation except air carriers holding a certificate of public convenience 
+and necessity. 
+1.3.13 Ground Vehicle–all conveyances and aircraft not operated for the purpose of
+flight, vehicles used on the ground to reposition aircraft, transport persons, 
+cargo, fuel, or equipment. 
+1.3.14 ILS Critical Area–an area provided to protect the signals of the localizer and
+glideslope. 
+1.3.15 Jet Blast–jet engine exhaust or propeller wash (thrust stream turbulence).
+1.3.16 Law Enforcement Officer (LEO)–any person vested with police power of
+arrest under Federal, state, county, or city authority and identifiable by uniform, 
+badge, and other indication of authority. 
+1.3.17 Light Gun–a hand-held, directional light-signaling device that emits a bright
+narrow beam of white, green, or red light, as selected by the tower controller. 
+The color and type of light transm
+---
+[AC-150-5210-20A] 9/1/2015  AC 150/5210-20A 
+  Appendix B 
+B-16 
+ 
+Geographic Position Markings 
+3.5 Runways (Use Airport Specific Examples). 
+3.5.1 Designations. Runways are areas where aircraft land and take off. Runways are 
+always designated by a number such as 1 or 19. The number indicates the 
+compass heading of the runway. An aircraft taking off on runway 19 is headed 
+190 degrees. In the event of parallel runways, a letter designation is added to 
+indicate either the right or left runway; e.g., 1L-19R, 1R-19L. 
+3.5.2 Lighting. Runways are lighted with a variety of colored lights. 
+3.5.2.1 Runway Edge Lights are white. If the runway has an 
+instrument approach, the last 2,000 feet of the runway will be 
+yellow in color. 
+3.5.2.2 Runway Centerline Lights are white except for the last 3,000 feet 
+of the runway, where they begin to alternate red and white. For 
+the last 1,000 feet of runway the centerline lights are all red. 
+3.5.2.3 Runway Touchdown Zone Lights are white. 
+3.5.2.4 Runway End/Thresh
+
+MY GRADE  facts stated (yes/no):        groundedness (1-5):        note:
+
+==================== q-08 ====================
+QUESTION: At an airport without an operating control tower, where should vehicle operators announce their intentions?
+
+REQUIRED FACTS: CTAF
+
+ANSWER:
+Based on the documents I've found, here's the answer:
+
+At an airport without an operating control tower, vehicle operators on the movement areas (runways and taxiways) must monitor and announce their intentions on the **Common Traffic Advisory Frequency (CTAF)**.
+
+According to **AC 150/5210-20A, Appendix B, Section 4.1**: Any vehicle driving on the movement areas must be capable of monitoring and transmitting on the **CTAF**.
+
+Additionally, per **Section 3.2.2** of the same document: At airports without an operating ATCT, vehicles, fixed-based operators, or others can use two-way radio control, and everyone should pay attention to frequencies used by aircraft and announce their positions and intentions on the appropriate frequency.
+
+PASSAGES THE MODEL SAW:
+[AC-150-5210-20A] 9/1/2015 AC 150/5210-20A 
+3-3 
+training temporary operators, such as construction workers, even if escorts are being 
+provided. 
+3.2.1 Airports with an Operating Air Traffic Control Tower (ATCT). 
+At airports with an operating ATCT, controllers and vehicle operators can use two-way 
+radios to control vehicles when on the movement area. To accomplish this task, the 
+FAA at each towered airport is creating with the airport operator a letter of agreement 
+outlining standard operating procedures to include delineating movement and non-
+movement areas. When there is construction on an airport, whether federally funded or 
+not, the airport operator can follow the ground vehicle practices contained in AC 
+150/5370-2, Operational Safety on Airports During Construction. 
+3.2.2 Airports without an Operating ATCT. 
+At airports without an operating ATCT, vehicles, fixed-based operators, or others can 
+use two-way radio control. Everyone should pay attention to frequencies used by 
+aircraft and ann
+---
+[AC-150-5210-20A] 9/1/2015  AC 150/5210-20A 
+  Appendix B 
+B-19 
+extend from the runway centerline and hold lines for a specific 
+operation known as land and hold short. 
+ Communications Section 4.
+4.1 Any vehicle driving and anyone taxiing, or towing an aircraft on the movement areas 
+(runways and taxiways) must have contact with the ATCT or be capable of monitoring 
+and transmitting on the CTAF. Vehicle operators, anyone taxiing, or towing an aircraft 
+must always monitor the appropriate radio frequency when in the movement areas on 
+controlled airports. Permission must be requested and clearance given prior to driving, 
+taxiing, or towing an aircraft on a movement area. A vehicle that is equipped with a radio 
+and a driver who is movement area qualified may escort vehicles or anyone towing an 
+aircraft without radios; these vehicles must stay under the control of the escort at all 
+times. When a movement area is closed for construction, vehicles may traverse that area 
+without ATCT contact but must b
+---
+[AC_103-6] 6/23/83 AC 103-6 
+CHAPTER 2. AIR TRAFFIC CONTROL AND RADIO COMMUNICATIONS 
+20. GENERAL. The rapid growth and popularity of ultralight vehicles and the 
+increased number of operations require the highest degree of vigilance on the 
+part of ultralight operators to see-and-avoid other ultralight vehicles and 
+aircraft. Some of these operations involve authorization from air traffic 
+control. The purpose of this chapter is to assist the ultralight operator in 
+understanding the airspace, operations with air traffic control, and the use of 
+radio communications. 
+21. AIR TRAFFIC CONTROL (ATC) AND AIRSPACE. Even though ultralight vehicle 
+operators are not required to demonstrate any aeronautical knowledge or 
+experience requirements, failure to recognize and avoid certain airspace can be 
+hazardous and may be in violation of the Federal Aviation Regulations. 
+FAR 103.17 states that no person may operate an ultralight vehicle within an 
+Airport Traffic Area, Control Zone, Terminal Control Ar
+---
+[AC_103-6] 6/23/83 AC 103-6 
+CHAPTER 1. AIRPORTS AND ULTRALIGHT FLIGHTPARKS 
+10. WHERE TO TAKEOFF AND LAND. One of the questions most frequently asked by the 
+ultralight pilot is, "Where can I safely and legally takeoff and land my 
+ultralight?" The following information is designed to assist the ultralight 
+pilot in understanding the different types of operations, both on and off 
+airport, and the recommended procedures for obtaining permission to operate 
+ultralight vehicles. 
+a. Existing airports. Currently, there are approximately 16,000 public use 
+and private airports and seaplane bases in the United States. The vast majority 
+of these facilities may be suitable and compatible for safe ultralight 
+operations. Information on their location may be obtained from various sources, 
+such as FAA publications (i.e., Airport/Facility Directory, aeronautical charts, 
+etc.) which may be purchased at most local airports. Also, user organizations 
+have comprehensive airport listings which usually includ
+---
+[AC_103-6] AC 103-6 6/23/83 
+b. Communications at Uncontrolled Airports. 
+(1) An uncontrolled airport is an airport without a control tower or 
+where the control tower is not currently in operation. This does not mean that 
+two-way communications are not used. Quite the contrary. A considerable amount 
+of useful information is passed back and forth among pilots and the operators of 
+airport advisory frequencies. Information such as runway in use, surface winds, 
+other aircraft known to be in the area, and any unusual activities, such as 
+parachuting, may be available. 
+(2) There are three primary ways for ultralight operators, who are radio 
+equipped, to communicate their intentions and obtain airport/traffic information 
+when operating at a landing area that does not have an operating control tower: 
+(i) by communicating with an FAA flight service station located on 
+the airport; 
+(ii) by communicating with a local airport advisory operator located 
+at the airport; or 
+(iii) by making self-annou
+---
+[AC-150-5210-20A] 9/1/2015 AC 150/5210-20A 
+Appendix B 
+B-1 
+APPENDIX B.  SAMPLE GROUND VEHICLE OPERATIONS TRAINING MANUAL 
+NOTE: This sample training manual provides airport operators with a template for developing 
+and implementing proposed policies or procedures for controlling ground vehicles, or taxiing, 
+and towing aircraft. This includes equipment access in the movement and safety areas of an 
+airport. Airport operators may use the format below but adapt the requirements to specific 
+conditions found on their airport. The Operator would fill in the appropriate blanks or blocks 
+of text and/or revise the document for specific airport conditions. 
+Section 1 covers the Authority, Applicability, and Definitions of the Ground Vehicle 
+Operation Manual. It includes:  driving, taxiing or towing aircraft rules and regulations that 
+could be adopted by the airport operator.  
+Section 2 would serve as a suggested driver, taxiing, or towing aircraft training for the 
+Non-Movement Area Manual.  
+Section 3 wo
+---
+[AC-150-5210-20A] 9/1/2015 AC 150/5210-20A 
+Appendix B 
+B-8 
+v. No person may operate a vehicle or other equipment within the movement
+and safety areas under the influence of alcohol or any drug that impairs, or
+may impair, the operator’s abilities.
+w. Each vehicle operator using an airport perimeter (security) gate must
+ensure the gate closes behind the vehicle prior to leaving the vicinity of
+the gate. The vehicle operator must also ensure no unauthorized vehicles
+or persons gain access to the movement and safety areas while the gate is
+open.
+x. Vehicle operators must not operate vehicles in a reckless or careless
+manner. A reckless or careless manner is one that intentionally or through
+negligence threatens the life or safety of any person or threatens damage
+or destruction to property.
+y. Vehicles may not enter the movement area or cross runways unless the
+operator of the vehicle has received required training and authorization
+from the (Airport Operator) to operate on the movement area. Whenever
+po
+---
+[AC_103-6] 6/23/83 
+PART 103—ULTRALIGHT  VEHICLES 
+Subpart A—General 
+Sec 
+103.1 Applicability. 
+103.3 Inspection requirements. 
+103.5 Waivers. 
+103.7 Certification and registration. 
+Subpart B—Operating Rules 
+103.9 Hazardous operations. 
+103.11 Daylight operations. 
+103.13	 Operation near aircraft: right-of-way 
+rules. 
+103.15 Operations over congested areas. 
+103.17 Operations in certain airspace. 
+103.19	 Operations in prohibited or restricted 
+areas. 
+103.21 Visual reference to the surface. 
+103.Z3 Flight visibility and cloud clearance 
+requirements 
+Authority: Sees. 307.313(a). 601(a). 602. and 
+603. Federal Aviation Act of 1958 (49 U.S.C. 
+1348.1354(a). 1421(a). 1422. and 1423): sec. 
+6(c). Department of Transportation Act (49 
+U.S.C. 1655(c) 
+Subpart A—General 
+§ 103.1 Applicability. 
+This part prescribes rules governing 
+the operation of ultralight vehicles in the 
+United States. For the purposes of this 
+part, an ultralight vehicle is a vehicle 
+that: 
+(a) Is used or intended to be used
+---
+[AC_103-6] 6/23/83 AC 103-6 
+a. Significant progress has been made by ultralight manufacturers to quiet 
+engine, exhaust, and propeller noises. As these systems continue to improve, so 
+will the acceptance of the ultralight vehicle. However, these improvements are 
+only half of the story. Ultralight operation in a manner sensitive to the 
+possible annoyance of those on the ground is the other. It is probably the most 
+important factor in gaining acceptance by the general public. 
+b. Airport owners/operators have been trying for years to establish 
+operations compatible with the needs of adjacent communities. The acceptance of 
+ultralight operations by a community will depend in a large part on its 
+perception of how additional operations by ultralights will affect the airport's 
+overall compatibility with its neighbors. Careful planning by ultralight 
+operators in integrating their vehicles into the existing operation will go a 
+long way in making acceptance a reality. 
+c. The FAA has begun ultra
+---
+[AC_103-6] 6/23/83 AC  103-6 
+separate themselves from each other and also to remain clear of all normal 
+aircraft operations. When requesting to operate at a tower controlled airport, 
+or within the airport traffic area, expect the controllers to provide you 
+instructions as to what areas to avoid. These instructions may include route and 
+altitude information as well as a specified landing area. Specific times during 
+which to operate may also be authorized. For operators equipped with two-way 
+radios, see paragraph 25. It is important that ultralight operators understand 
+the responsibility for avoiding a conflict with aircraft and other ultralights is 
+theirs, and theirs alone. 
+25. USE OF A TWO-WAY RADIO. The following information provides guidelines for 
+the use of a two-way radio while operating an ultralight. 
+a. Communications with Air Traffic Control. In all radio communications 
+with air traffic control, ultralight operators should state the word "ultralight" 
+followed by the call lett
+---
+[AC-150-5210-20A] 9/1/2015 AC 150/5210-20A 
+Appendix B 
+B-7 
+(2) Unless equipped with an operable two-way radio in 
+communication with the ATCT; or 
+(3) Unless escorted by an (Airport Operator) approved vehicle and as 
+long as the vehicle remains under the control of the escort vehicle. 
+(4) Anyone taxiing or towing an aircraft, without the authorization of 
+the airport operator, must receive ATCT clearance to enter the 
+airport movement area. 
+l. No person may operate any motor vehicle that is in such physical or
+mechanical condition as to endanger persons or property or that the
+(Airport Operator) considers an endangerment.
+m. No person may—
+(1) Operate any vehicle that is overloaded or carrying more passengers 
+than for which the vehicle was designed. 
+(2) Ride on the running board or stand up in the body of a moving 
+vehicle. 
+(3) Ride with arms or legs protruding from the body of a vehicle 
+except when the vehicle was designed for such use. 
+n. A vehicle guide person is required whenever the vision
+---
+[AC-150-5210-20A] 9/1/2015 AC 150/5210-20A 
+3-4 
+3.3.1 Vehicle Inspection Programs. 
+Some airports have benefited from establishing their own vehicle inspection program to 
+ensure that all vehicles are maintained in a safe operating condition. In establishing 
+vehicle requirements, some items to consider include: 
+1. Marking and identifying vehicles.
+2. Establishing
+ fire extinguisher or other equipment requirements for vehicles, such
+as Super T
+ugs or Specialty Vehicles.
+3. Placing in all vehicles a  current placard diagram depicting the airport’s
+movement area, including Hot Spots. Aircraft being taxied or towed are exempt
+from placard diagram placement. The diagram can display prominent landmarks
+and/or perimeter roads.
+4. Placing in v ehicles operating in the movement area a placard showing the
+meaning of ATCT light gun signals, as well as airfield sign, lighting, and
+marking information.
+5. Establishing vehicle condition requirements and inspection.
+6. Ensuring
+ appropriate insurance coverage.
+3.4 
+
+MY GRADE  facts stated (yes/no):        groundedness (1-5):        note:
+
+==================== q-02 ====================
+QUESTION: How can vehicles that are not marked and lighted operate on the movement and safety areas of an airport?
+
+REQUIRED FACTS: escort
+
+ANSWER:
+Based on the FAA Advisory Circular AC 150/5210-20A, here is what I found regarding vehicles that are not marked and lighted operating on movement and safety areas:
+
+The key mechanism is **escorting**. According to Appendix B, Section 4.1 of AC 150/5210-20A:
+
+> **"A vehicle that is equipped with a radio and a driver who is movement area qualified may escort vehicles or anyone towing an aircraft without radios; these vehicles must stay under the control of the escort at all times."** [AC-150-5210-20A, Appendix B, Section 4.1]
+
+So for vehicles that are not marked and lighted (and/or lack radios), they can operate on the movement and safety areas by being escorted by a properly equipped vehicle that:
+
+1. **Has a two-way radio** capable of contacting the ATCT (air traffic control tower) or monitoring the CTAF (Common Traffic Advisory Frequency).
+2. **Has a driver who is movement area qualified** (has received the required training and authorization from the airport operator).
+3. **Maintains continuous control** over the escorted vehicle(s) at all times.
+
+Additionally, the general requirements state:
+- Vehicles may not enter the movement area or cross runways unless the operator has received required training and authorization from the airport operator [AC-150-5210-20A, Appendix B, Section y].
+- Any vehicle driving on movement areas must have contact with the ATCT or be capable of monitoring and transmitting on the CTAF [AC-150-5210-20A, Appendix B, Section 4.1].
+- Permission must be requested and clearance given prior to driving on a movement area [AC-150-5210-20A, Appendix B, Section 4.1].
+
+Note: If a movement area is closed for construction (via NOTAM), vehicles may traverse that area without ATCT contact as an alternate scenario [AC-150-5210-20A, Appendix B, Section 4.1].
+
+PASSAGES THE MODEL SAW:
+[AC-150-5210-20A] 9/1/2015 AC 150/5210-20A 
+3-1 
+CHAPTER 3.  VEHICLES 
+3.1 Vehicles on Airports. 
+Airport operators should keep vehicular and pedestrian activity on the movement and 
+safety areas on the airport to the minimum required for operations. Vehicles on the 
+movement and safety areas on the airport may be limited to those vehicles necessary to 
+support the operation of aircraft services, cargo and passenger services, emergency 
+services, and maintenance of the airport. Vehicles on the movement area should be 
+limited to those necessary to inspect and maintain the movement areas, as well as 
+emergency vehicles responding to an aircraft emergency. Vehicles should use service 
+roads or public roads in lieu of crossing movement areas whenever possible.  When 
+activities need to take place in the RSA, they should occur either between aircraft 
+operations or when a runway is closed via NOTAM. 
+3.1.1 Runway Crossings. 
+When necessary, runway crossing should occur at the departure runway end rather tha
+---
+[AC-150-5210-20A] 9/1/2015 AC 150/5210-20A 
+Appendix B 
+B-8 
+v. No person may operate a vehicle or other equipment within the movement
+and safety areas under the influence of alcohol or any drug that impairs, or
+may impair, the operator’s abilities.
+w. Each vehicle operator using an airport perimeter (security) gate must
+ensure the gate closes behind the vehicle prior to leaving the vicinity of
+the gate. The vehicle operator must also ensure no unauthorized vehicles
+or persons gain access to the movement and safety areas while the gate is
+open.
+x. Vehicle operators must not operate vehicles in a reckless or careless
+manner. A reckless or careless manner is one that intentionally or through
+negligence threatens the life or safety of any person or threatens damage
+or destruction to property.
+y. Vehicles may not enter the movement area or cross runways unless the
+operator of the vehicle has received required training and authorization
+from the (Airport Operator) to operate on the movement area. Whenever
+po
+---
+[AC-150-5210-20A] 9/1/2015 AC 150/5210-20A 
+3-3 
+training temporary operators, such as construction workers, even if escorts are being 
+provided. 
+3.2.1 Airports with an Operating Air Traffic Control Tower (ATCT). 
+At airports with an operating ATCT, controllers and vehicle operators can use two-way 
+radios to control vehicles when on the movement area. To accomplish this task, the 
+FAA at each towered airport is creating with the airport operator a letter of agreement 
+outlining standard operating procedures to include delineating movement and non-
+movement areas. When there is construction on an airport, whether federally funded or 
+not, the airport operator can follow the ground vehicle practices contained in AC 
+150/5370-2, Operational Safety on Airports During Construction. 
+3.2.2 Airports without an Operating ATCT. 
+At airports without an operating ATCT, vehicles, fixed-based operators, or others can 
+use two-way radio control. Everyone should pay attention to frequencies used by 
+aircraft and ann
+---
+[AC-150-5210-20A] 9/1/2015 AC 150/5210-20A 
+2-1 
+CHAPTER 2.  TRAINING 
+2.1 Vehicle Operator Requirements. 
+Vehicle operators on airports face conditions that are not normally encountered on 
+public streets and highways. Therefore, anyone with vehicular access to the movement 
+and safety areas, and a need to be there, must have an appropriate level of knowledge of 
+airport rules and regulations. The airport’s ground vehicle driving program can give this 
+information. Airport operators can require vehicle operators maintain a current driver's 
+license
+, and may establish identification requirements that would permit the operation 
+of a vehicle on the movement and safety areas of an airport. Any person expected to 
+operate on the movement and safety areas should be qualified and authorized to operate 
+in the environment. 
+2.2 Training Requirements. 
+Under Part 139, all personnel with duties requiring access to the movement and safety 
+areas are required to have initial and recurrent training. We encourage 
+---
+[AC-150-5210-20A] 9/1/2015  AC 150/5210-20A 
+  Appendix B 
+B-19 
+extend from the runway centerline and hold lines for a specific 
+operation known as land and hold short. 
+ Communications Section 4.
+4.1 Any vehicle driving and anyone taxiing, or towing an aircraft on the movement areas 
+(runways and taxiways) must have contact with the ATCT or be capable of monitoring 
+and transmitting on the CTAF. Vehicle operators, anyone taxiing, or towing an aircraft 
+must always monitor the appropriate radio frequency when in the movement areas on 
+controlled airports. Permission must be requested and clearance given prior to driving, 
+taxiing, or towing an aircraft on a movement area. A vehicle that is equipped with a radio 
+and a driver who is movement area qualified may escort vehicles or anyone towing an 
+aircraft without radios; these vehicles must stay under the control of the escort at all 
+times. When a movement area is closed for construction, vehicles may traverse that area 
+without ATCT contact but must b
+---
+[AC_103-6] 6/23/83 
+PART 103—ULTRALIGHT  VEHICLES 
+Subpart A—General 
+Sec 
+103.1 Applicability. 
+103.3 Inspection requirements. 
+103.5 Waivers. 
+103.7 Certification and registration. 
+Subpart B—Operating Rules 
+103.9 Hazardous operations. 
+103.11 Daylight operations. 
+103.13	 Operation near aircraft: right-of-way 
+rules. 
+103.15 Operations over congested areas. 
+103.17 Operations in certain airspace. 
+103.19	 Operations in prohibited or restricted 
+areas. 
+103.21 Visual reference to the surface. 
+103.Z3 Flight visibility and cloud clearance 
+requirements 
+Authority: Sees. 307.313(a). 601(a). 602. and 
+603. Federal Aviation Act of 1958 (49 U.S.C. 
+1348.1354(a). 1421(a). 1422. and 1423): sec. 
+6(c). Department of Transportation Act (49 
+U.S.C. 1655(c) 
+Subpart A—General 
+§ 103.1 Applicability. 
+This part prescribes rules governing 
+the operation of ultralight vehicles in the 
+United States. For the purposes of this 
+part, an ultralight vehicle is a vehicle 
+that: 
+(a) Is used or intended to be used
+---
+[AC-150-5210-20A] 9/1/2015 AC 150/5210-20A 
+Appendix B 
+B-3 
+1.3.12 General Aviation (GA)–that portion of civil aviation that encompasses all
+facets of aviation except air carriers holding a certificate of public convenience 
+and necessity. 
+1.3.13 Ground Vehicle–all conveyances and aircraft not operated for the purpose of
+flight, vehicles used on the ground to reposition aircraft, transport persons, 
+cargo, fuel, or equipment. 
+1.3.14 ILS Critical Area–an area provided to protect the signals of the localizer and
+glideslope. 
+1.3.15 Jet Blast–jet engine exhaust or propeller wash (thrust stream turbulence).
+1.3.16 Law Enforcement Officer (LEO)–any person vested with police power of
+arrest under Federal, state, county, or city authority and identifiable by uniform, 
+badge, and other indication of authority. 
+1.3.17 Light Gun–a hand-held, directional light-signaling device that emits a bright
+narrow beam of white, green, or red light, as selected by the tower controller. 
+The color and type of light transm
+
+MY GRADE  facts stated (yes/no):        groundedness (1-5):        note:
+
+==================== q-03 ====================
+QUESTION: When should activities in the Runway Safety Area take place?
+
+REQUIRED FACTS: NOTAM
+
+ANSWER:
+According to the FAA document **AC 150/5210-20A** (Chapter 3, Section 3.1), when activities need to take place in the Runway Safety Area (RSA), they should occur **either between aircraft operations or when a runway is closed via NOTAM** [AC-150-5210-20A].
+
+PASSAGES THE MODEL SAW:
+[AC-150-5210-20A] 9/1/2015 AC 150/5210-20A 
+Appendix B 
+B-4 
+1.3.27 Runway Incursion–any occurrence at an aerodrome involving the incorrect 
+presence of an aircraft, vehicle or person on the protected area of a surface 
+designated for the landing and take-off of aircraft. 
+1.3.28 Runway in Use or Active Runway–any runway or runways currently being 
+used for takeoff or landing. When multiple runways are used, they are all 
+considered active runways. 
+1.3.29 Runway Safety Area–a defined surface surrounding the runway prepared or 
+suitable for reducing the risk of damage to airplanes (Typically 250 feet off the 
+runway centerline and 1,000 feet off each end or as required) in the event of an 
+excursion, overshoot, or undershoot from the runway. Note: Guidance for RSA 
+is located in AC 150/5300-13A, Airport Design. 
+1.3.30 Surface Incident- Unauthorized or unapproved movement within the 
+designated movement area (excluding runway incursions) or an occurrence in 
+that same area associated with the operation 
+---
+[AC-150-5210-20A] 9/1/2015 AC 150/5210-20A 
+3-1 
+CHAPTER 3.  VEHICLES 
+3.1 Vehicles on Airports. 
+Airport operators should keep vehicular and pedestrian activity on the movement and 
+safety areas on the airport to the minimum required for operations. Vehicles on the 
+movement and safety areas on the airport may be limited to those vehicles necessary to 
+support the operation of aircraft services, cargo and passenger services, emergency 
+services, and maintenance of the airport. Vehicles on the movement area should be 
+limited to those necessary to inspect and maintain the movement areas, as well as 
+emergency vehicles responding to an aircraft emergency. Vehicles should use service 
+roads or public roads in lieu of crossing movement areas whenever possible.  When 
+activities need to take place in the RSA, they should occur either between aircraft 
+operations or when a runway is closed via NOTAM. 
+3.1.1 Runway Crossings. 
+When necessary, runway crossing should occur at the departure runway end rather tha
+---
+[AC-150-5210-20A] 9/1/2015 AC 150/5210-20A 
+Appendix B 
+B-3 
+1.3.12 General Aviation (GA)–that portion of civil aviation that encompasses all
+facets of aviation except air carriers holding a certificate of public convenience 
+and necessity. 
+1.3.13 Ground Vehicle–all conveyances and aircraft not operated for the purpose of
+flight, vehicles used on the ground to reposition aircraft, transport persons, 
+cargo, fuel, or equipment. 
+1.3.14 ILS Critical Area–an area provided to protect the signals of the localizer and
+glideslope. 
+1.3.15 Jet Blast–jet engine exhaust or propeller wash (thrust stream turbulence).
+1.3.16 Law Enforcement Officer (LEO)–any person vested with police power of
+arrest under Federal, state, county, or city authority and identifiable by uniform, 
+badge, and other indication of authority. 
+1.3.17 Light Gun–a hand-held, directional light-signaling device that emits a bright
+narrow beam of white, green, or red light, as selected by the tower controller. 
+The color and type of light transm
+---
+[AC-150-5210-20A] 9/1/2015  AC 150/5210-20A 
+  Appendix B 
+B-16 
+ 
+Geographic Position Markings 
+3.5 Runways (Use Airport Specific Examples). 
+3.5.1 Designations. Runways are areas where aircraft land and take off. Runways are 
+always designated by a number such as 1 or 19. The number indicates the 
+compass heading of the runway. An aircraft taking off on runway 19 is headed 
+190 degrees. In the event of parallel runways, a letter designation is added to 
+indicate either the right or left runway; e.g., 1L-19R, 1R-19L. 
+3.5.2 Lighting. Runways are lighted with a variety of colored lights. 
+3.5.2.1 Runway Edge Lights are white. If the runway has an 
+instrument approach, the last 2,000 feet of the runway will be 
+yellow in color. 
+3.5.2.2 Runway Centerline Lights are white except for the last 3,000 feet 
+of the runway, where they begin to alternate red and white. For 
+the last 1,000 feet of runway the centerline lights are all red. 
+3.5.2.3 Runway Touchdown Zone Lights are white. 
+3.5.2.4 Runway End/Thresh
+
+MY GRADE  facts stated (yes/no):        groundedness (1-5):        note:
+
+==================== q-04 ====================
+QUESTION: What can be used to mark vehicles that only need intermittent identification on an airport?
+
+REQUIRED FACTS: magnetic
+
+ANSWER:
+I apologize, but I wasn't able to find the specific answer about intermittent identification markings for vehicles in the FAA documents returned by my searches. Based on my knowledge, I recall this is typically an **orange and white checkered flag or pennant**, but since I cannot confirm it from the retrieved passages, I should be transparent.
+
+I don't have a specific passage from the retrieved documents that answers this question directly. The documents I searched (primarily AC 150/5210-20A) mention vehicle marking and identification as an item to consider in vehicle inspection programs (Section 3.3.1), but do not contain the specific details about markings for vehicles needing only intermittent identification. I'm sorry I can't provide a definitive answer from the available documentation.
+
+PASSAGES THE MODEL SAW:
+[AC-150-5210-20A] 9/1/2015 AC 150/5210-20A 
+3-1 
+CHAPTER 3.  VEHICLES 
+3.1 Vehicles on Airports. 
+Airport operators should keep vehicular and pedestrian activity on the movement and 
+safety areas on the airport to the minimum required for operations. Vehicles on the 
+movement and safety areas on the airport may be limited to those vehicles necessary to 
+support the operation of aircraft services, cargo and passenger services, emergency 
+services, and maintenance of the airport. Vehicles on the movement area should be 
+limited to those necessary to inspect and maintain the movement areas, as well as 
+emergency vehicles responding to an aircraft emergency. Vehicles should use service 
+roads or public roads in lieu of crossing movement areas whenever possible.  When 
+activities need to take place in the RSA, they should occur either between aircraft 
+operations or when a runway is closed via NOTAM. 
+3.1.1 Runway Crossings. 
+When necessary, runway crossing should occur at the departure runway end rather tha
+---
+[AC_103-6] 6/23/83 AC 103-6 
+CHAPTER 1. AIRPORTS AND ULTRALIGHT FLIGHTPARKS 
+10. WHERE TO TAKEOFF AND LAND. One of the questions most frequently asked by the 
+ultralight pilot is, "Where can I safely and legally takeoff and land my 
+ultralight?" The following information is designed to assist the ultralight 
+pilot in understanding the different types of operations, both on and off 
+airport, and the recommended procedures for obtaining permission to operate 
+ultralight vehicles. 
+a. Existing airports. Currently, there are approximately 16,000 public use 
+and private airports and seaplane bases in the United States. The vast majority 
+of these facilities may be suitable and compatible for safe ultralight 
+operations. Information on their location may be obtained from various sources, 
+such as FAA publications (i.e., Airport/Facility Directory, aeronautical charts, 
+etc.) which may be purchased at most local airports. Also, user organizations 
+have comprehensive airport listings which usually includ
+---
+[AC-150-5210-20A] 9/1/2015 AC 150/5210-20A 
+3-3 
+training temporary operators, such as construction workers, even if escorts are being 
+provided. 
+3.2.1 Airports with an Operating Air Traffic Control Tower (ATCT). 
+At airports with an operating ATCT, controllers and vehicle operators can use two-way 
+radios to control vehicles when on the movement area. To accomplish this task, the 
+FAA at each towered airport is creating with the airport operator a letter of agreement 
+outlining standard operating procedures to include delineating movement and non-
+movement areas. When there is construction on an airport, whether federally funded or 
+not, the airport operator can follow the ground vehicle practices contained in AC 
+150/5370-2, Operational Safety on Airports During Construction. 
+3.2.2 Airports without an Operating ATCT. 
+At airports without an operating ATCT, vehicles, fixed-based operators, or others can 
+use two-way radio control. Everyone should pay attention to frequencies used by 
+aircraft and ann
+---
+[AC-150-5210-20A] 9/1/2015 AC 150/5210-20A 
+Appendix B 
+B-1 
+APPENDIX B.  SAMPLE GROUND VEHICLE OPERATIONS TRAINING MANUAL 
+NOTE: This sample training manual provides airport operators with a template for developing 
+and implementing proposed policies or procedures for controlling ground vehicles, or taxiing, 
+and towing aircraft. This includes equipment access in the movement and safety areas of an 
+airport. Airport operators may use the format below but adapt the requirements to specific 
+conditions found on their airport. The Operator would fill in the appropriate blanks or blocks 
+of text and/or revise the document for specific airport conditions. 
+Section 1 covers the Authority, Applicability, and Definitions of the Ground Vehicle 
+Operation Manual. It includes:  driving, taxiing or towing aircraft rules and regulations that 
+could be adopted by the airport operator.  
+Section 2 would serve as a suggested driver, taxiing, or towing aircraft training for the 
+Non-Movement Area Manual.  
+Section 3 wo
+---
+[AC_103-6] 6/23/83 
+PART 103—ULTRALIGHT  VEHICLES 
+Subpart A—General 
+Sec 
+103.1 Applicability. 
+103.3 Inspection requirements. 
+103.5 Waivers. 
+103.7 Certification and registration. 
+Subpart B—Operating Rules 
+103.9 Hazardous operations. 
+103.11 Daylight operations. 
+103.13	 Operation near aircraft: right-of-way 
+rules. 
+103.15 Operations over congested areas. 
+103.17 Operations in certain airspace. 
+103.19	 Operations in prohibited or restricted 
+areas. 
+103.21 Visual reference to the surface. 
+103.Z3 Flight visibility and cloud clearance 
+requirements 
+Authority: Sees. 307.313(a). 601(a). 602. and 
+603. Federal Aviation Act of 1958 (49 U.S.C. 
+1348.1354(a). 1421(a). 1422. and 1423): sec. 
+6(c). Department of Transportation Act (49 
+U.S.C. 1655(c) 
+Subpart A—General 
+§ 103.1 Applicability. 
+This part prescribes rules governing 
+the operation of ultralight vehicles in the 
+United States. For the purposes of this 
+part, an ultralight vehicle is a vehicle 
+that: 
+(a) Is used or intended to be used
+---
+[AC-150-5210-20A] 9/1/2015 AC 150/5210-20A 
+Appendix B 
+B-8 
+v. No person may operate a vehicle or other equipment within the movement
+and safety areas under the influence of alcohol or any drug that impairs, or
+may impair, the operator’s abilities.
+w. Each vehicle operator using an airport perimeter (security) gate must
+ensure the gate closes behind the vehicle prior to leaving the vicinity of
+the gate. The vehicle operator must also ensure no unauthorized vehicles
+or persons gain access to the movement and safety areas while the gate is
+open.
+x. Vehicle operators must not operate vehicles in a reckless or careless
+manner. A reckless or careless manner is one that intentionally or through
+negligence threatens the life or safety of any person or threatens damage
+or destruction to property.
+y. Vehicles may not enter the movement area or cross runways unless the
+operator of the vehicle has received required training and authorization
+from the (Airport Operator) to operate on the movement area. Whenever
+po
+---
+[AC-150-5210-20A] 9/1/2015  AC 150/5210-20A 
+  Appendix B 
+B-19 
+extend from the runway centerline and hold lines for a specific 
+operation known as land and hold short. 
+ Communications Section 4.
+4.1 Any vehicle driving and anyone taxiing, or towing an aircraft on the movement areas 
+(runways and taxiways) must have contact with the ATCT or be capable of monitoring 
+and transmitting on the CTAF. Vehicle operators, anyone taxiing, or towing an aircraft 
+must always monitor the appropriate radio frequency when in the movement areas on 
+controlled airports. Permission must be requested and clearance given prior to driving, 
+taxiing, or towing an aircraft on a movement area. A vehicle that is equipped with a radio 
+and a driver who is movement area qualified may escort vehicles or anyone towing an 
+aircraft without radios; these vehicles must stay under the control of the escort at all 
+times. When a movement area is closed for construction, vehicles may traverse that area 
+without ATCT contact but must b
+---
+[AC-150-5210-20A] 9/1/2015 AC 150/5210-20A 
+Appendix B 
+B-7 
+(2) Unless equipped with an operable two-way radio in 
+communication with the ATCT; or 
+(3) Unless escorted by an (Airport Operator) approved vehicle and as 
+long as the vehicle remains under the control of the escort vehicle. 
+(4) Anyone taxiing or towing an aircraft, without the authorization of 
+the airport operator, must receive ATCT clearance to enter the 
+airport movement area. 
+l. No person may operate any motor vehicle that is in such physical or
+mechanical condition as to endanger persons or property or that the
+(Airport Operator) considers an endangerment.
+m. No person may—
+(1) Operate any vehicle that is overloaded or carrying more passengers 
+than for which the vehicle was designed. 
+(2) Ride on the running board or stand up in the body of a moving 
+vehicle. 
+(3) Ride with arms or legs protruding from the body of a vehicle 
+except when the vehicle was designed for such use. 
+n. A vehicle guide person is required whenever the vision
+---
+[AC-150-5210-20A] 9/1/2015 AC 150/5210-20A 
+3-4 
+3.3.1 Vehicle Inspection Programs. 
+Some airports have benefited from establishing their own vehicle inspection program to 
+ensure that all vehicles are maintained in a safe operating condition. In establishing 
+vehicle requirements, some items to consider include: 
+1. Marking and identifying vehicles.
+2. Establishing
+ fire extinguisher or other equipment requirements for vehicles, such
+as Super T
+ugs or Specialty Vehicles.
+3. Placing in all vehicles a  current placard diagram depicting the airport’s
+movement area, including Hot Spots. Aircraft being taxied or towed are exempt
+from placard diagram placement. The diagram can display prominent landmarks
+and/or perimeter roads.
+4. Placing in v ehicles operating in the movement area a placard showing the
+meaning of ATCT light gun signals, as well as airfield sign, lighting, and
+marking information.
+5. Establishing vehicle condition requirements and inspection.
+6. Ensuring
+ appropriate insurance coverage.
+3.4 
+
+MY GRADE  facts stated (yes/no):        groundedness (1-5):        note:
+
+==================== q-14 ====================
+QUESTION: What identifiers are used for Military Training Routes on sectional charts?
+
+REQUIRED FACTS: VR, IR
+
+ANSWER:
+According to the information found in FAA Advisory Circular **AC 103-6** (dated 6/23/83), Military Training Routes (MTRs) are depicted on sectional charts as **shaded gray lines** with an associated **VR or IR numbered identifier**.
+
+- **VR** stands for **Visual Rules** (routes flown under visual flight rules)
+- **IR** stands for **Instrument Rules** (routes flown under instrument flight rules)
+
+Each route is identified by the prefix (VR or IR) followed by a number. [AC 103-6]
+
+PASSAGES THE MODEL SAW:
+[AC-150-5210-20A] 9/1/2015 AC 150/5210-20A 
+2-2 
+2.2.2.2 Recurrent Training. 
+Recurrent training (required for part 139 certificated airports) is the training 
+provided to an employee or airport user every twelve Consecutive Calendar 
+Months (CCM) to enable that person to maintain a satisfactory level of 
+proficiency. An example of twelve CCM is when training occurs on July 1, 
+2014 and the tr
+aining remains valid through July 31, 2015. The training 
+would expire on August 1, 2015. Appropriate schedules for recurrent 
+training will vary widely from airport to airport and from one employee to 
+another. Airport operators should consider requiring annual recurrent 
+training when a vehicle operator renews an expired airport ID badge, or 
+when a tenant renews a lease agreement.  
+2.2.2.3 Remedial Training. 
+Remedial training is required when a violation of the rules and regulations 
+is committed. Use remedial training with the chosen enforcement action 
+(see Chapter 6 Enforcement and Control). 
+2.2.3 On-the-
+---
+[AC_150_5230-4B] AC 150/5230-4B 9/28/2012 
+6 
+ 
+Chapter 2. Fuel Safety Training 
+This chapter provides guidance on the development of both the supervisory fuel safety and the 
+line service fuel safety training courses. Based on the minimum standards established in 14 CFR 
+§139.321 (b) (1) – (7) and §139.321 (e), this chapter identifies the areas that must be addressed 
+in these courses. Because of the responsibilities inherent in training others in fire safety, this 
+AC identifies in Chapter 3 further areas of competence that must be met for the 
+Supervisory Training Course. 
+1. Introduction. 
+a. 14 CFR §139.321 sets forth the requirements for fuel safety training at certificated airports. 
+These requirements include two distinct types of training for employees of agents handling aviation 
+fuel: supervisory training and line service fuel safety training. Training performed under the 
+supervisory training program must be obtained by completing a FAA authorized Supervisory Fuel 
+Safety training course. L
+---
+[AC_150_5230-4B] 9/28/2012 AC 150/5230-4B 
+11 
+ 
+Chapter 3. Supervisors Training Course 
+The contents of Chapter 2 form the basis of the Supervisory Training Course. This chapter 
+identifies the additional requirements that must be met in the Fire Safety for Supervisors 
+Training Course. In addition, the depth of instruction in each section identified in Chapter 2 must 
+be sufficient to ensure that supervisors understand the material and their responsibilities in 
+training others in fire safety.  
+1. The FAA recommends that instructors teaching the Supervisor Fuel Training Course possess: 
+a. A thorough working knowledge of the contents of Chapter 2 and requirements of 14 
+CFR §139.321(b)(1) through (b)(7) and §139.321(e) (1) and (2). 
+b. A minimum of 2 years’ experience in all aspects of fueling procedures. 
+2. Instructors teaching the Supervisor Fuel Training Course must be able to discuss training 
+methodologies and motivation and understand how to test student comprehension and 
+recognition.  
+3. E
+---
+[AC_103-6] 6/23/83 AC 103-6 
+from local airport operators, user organizations, and directly from the NOAA, 
+Washington, D.C. Assistance in learning how to use sectional charts should be 
+readily available from any FAA-certificated flight or ground instructor. 
+i. Special Military Activity. 
+(1) There are special routes, known as Military Training Routes (MTR's), 
+which have been developed across the country for military training in "low level" 
+combat tactics. Generally, MTR's are established below 10,000 feet MSL for 
+operations at speeds in excess of 250 knots and will include operations by both 
+fighter and cargo type aircraft. The routes at 1,500 feet AGL and below are 
+developed primarily to be flown in visual flight weather conditions. The 
+sectional charts depict regularly established MTR's as shaded gray lines with an 
+associated VR or  IR  numbered identifier. Nonparticipating flights are not 
+prohibited from flying within an MTR, but extra caution to see-and-avoid these 
+operations is i
+
+MY GRADE  facts stated (yes/no):        groundedness (1-5):        note:
+
+==================== q-15 ====================
+QUESTION: Which standard does the FAA use for aircraft fuel servicing at airports?
+
+REQUIRED FACTS: NFPA 407
+
+ANSWER:
+The answer is clearly in the search results. Here it is:
+
+The FAA uses the standards contained in the most recent edition of **National Fire Protection Association (NFPA) 407, *Standard for Aircraft Fuel Servicing***. This standard covers the storage and delivery of aviation fuel in an airport environment. This is specified in **FAA Advisory Circular AC 150/5230-4B** (Chapter 1, Section 2) [AC_150_5230-4B].
+
+PASSAGES THE MODEL SAW:
+[AC_150_5230-4B] AC 150/5230-4B 9/28/2012 
+16 
+ 
+Appendix A. Definitions and Acronyms 
+DEFINITIONS 
+ 
+Airport Fueling Agent - An airport operator/certificate holder that sells fuel products on the 
+airport. 
+ 
+Airport Fueling System - An arrangement of aviation fuel storage tanks, pumps, piping, and 
+associated equipment, such as filters, water separators, hydrants and station, or aircraft fuel 
+servicing vehicles, installed at an airport and designed to service aircraft at fixed positions. 
+ 
+Authority Having Jurisdiction (AHJ) - An organization, office, or individual responsible for 
+enforcing the requirements of a code or standard or for approving equipment, materials, an 
+installation, or a procedure. 
+ 
+Dead Man Control - A device that requires a positive continuing action of a person to allow the 
+flow of fuel. 
+ 
+Emergency Fuel Shutoff - A function performed to stop the flow of fuel in an emergency. 
+ 
+Fueling Agent - A person or company that sells fuel products on the airport.  This is intended
+---
+[AC_150_5230-4B] AC 150/5230-4B 9/28/2012 
+6 
+ 
+Chapter 2. Fuel Safety Training 
+This chapter provides guidance on the development of both the supervisory fuel safety and the 
+line service fuel safety training courses. Based on the minimum standards established in 14 CFR 
+§139.321 (b) (1) – (7) and §139.321 (e), this chapter identifies the areas that must be addressed 
+in these courses. Because of the responsibilities inherent in training others in fire safety, this 
+AC identifies in Chapter 3 further areas of competence that must be met for the 
+Supervisory Training Course. 
+1. Introduction. 
+a. 14 CFR §139.321 sets forth the requirements for fuel safety training at certificated airports. 
+These requirements include two distinct types of training for employees of agents handling aviation 
+fuel: supervisory training and line service fuel safety training. Training performed under the 
+supervisory training program must be obtained by completing a FAA authorized Supervisory Fuel 
+Safety training course. L
+---
+[AC_150_5230-4B] AC 150/5230-4B 9/28/2012 
+14 
+ 
+Chapter 5. Guidelines for Submitting Line Service and/or Supervisory Safety 
+Course(s) 
+1. Supervisory Training Program and/or Line Training Program.  
+a. Purpose. This chapter establishes the standards for submitting a Fueling Safety Training 
+Program for Supervisory Personnel and/or Fueling Safety Training Program for Line Service 
+Personnel. It provides guidance for addressing the requirements of 14 CFR §139.321 (e) (1) and 
+(2) and the additional requirements for supervisory personnel stipulated by §139.321 (b) (1) – 
+(7). 
+b. Explanation.  Fueling Safety Programs are also known as Fueling Supervisory Courses, 
+Line Service Supervisory Training, and Fire Safety Training.  These courses ensure that 
+supervisory and line fueling personnel recognize the importance of aircraft fueling safety.  
+Fueling supervisory courses are designed to emphasize the importance of instructing effectively 
+in the principles necessary to ensure safety during fueling opera
+---
+[AC_103-6] 6/23/83 AC 103-6 
+CHAPTER 1. AIRPORTS AND ULTRALIGHT FLIGHTPARKS 
+10. WHERE TO TAKEOFF AND LAND. One of the questions most frequently asked by the 
+ultralight pilot is, "Where can I safely and legally takeoff and land my 
+ultralight?" The following information is designed to assist the ultralight 
+pilot in understanding the different types of operations, both on and off 
+airport, and the recommended procedures for obtaining permission to operate 
+ultralight vehicles. 
+a. Existing airports. Currently, there are approximately 16,000 public use 
+and private airports and seaplane bases in the United States. The vast majority 
+of these facilities may be suitable and compatible for safe ultralight 
+operations. Information on their location may be obtained from various sources, 
+such as FAA publications (i.e., Airport/Facility Directory, aeronautical charts, 
+etc.) which may be purchased at most local airports. Also, user organizations 
+have comprehensive airport listings which usually includ
+---
+[AC-150-5210-20A] 9/1/2015 AC 150/5210-20A 
+Appendix B 
+B-1 
+APPENDIX B.  SAMPLE GROUND VEHICLE OPERATIONS TRAINING MANUAL 
+NOTE: This sample training manual provides airport operators with a template for developing 
+and implementing proposed policies or procedures for controlling ground vehicles, or taxiing, 
+and towing aircraft. This includes equipment access in the movement and safety areas of an 
+airport. Airport operators may use the format below but adapt the requirements to specific 
+conditions found on their airport. The Operator would fill in the appropriate blanks or blocks 
+of text and/or revise the document for specific airport conditions. 
+Section 1 covers the Authority, Applicability, and Definitions of the Ground Vehicle 
+Operation Manual. It includes:  driving, taxiing or towing aircraft rules and regulations that 
+could be adopted by the airport operator.  
+Section 2 would serve as a suggested driver, taxiing, or towing aircraft training for the 
+Non-Movement Area Manual.  
+Section 3 wo
+---
+[AC-150-5210-20A] 9/1/2015 AC 150/5210-20A 
+Appendix B 
+B-6 
+badge. Non-based personnel require escort from airport qualified 
+movement/non movement area personnel. 
+b. All applicants are required to pass the written test with a grade of at least
+___ percent. Applicants who do not pass the written test may retake the
+test after additional study and a ____ day period.
+c. Applicants for movement area driving, taxiing, or towing an aircraft
+privileges are required to successfully complete a movement and safety
+areas driving test by a designated representative of (Airport Operator).
+d. No vehicle can be operated or anyone taxi or tow an aircraft on the
+movement and safety areas unless—
+(1) The driver is authorize
+d to operate the class of vehicle by an 
+appropriate state-licensing agency and/or by the driver’s employer 
+through a company training/certification program. 
+(2) The driver properly displays an approved, airport-issued ID card 
+with the Authorized Driver designation (if applicable).
+e. For taxiin
+---
+[AC_150_5230-4B] 9/28/2012 AC 150/5230-4B 
+5 
+ 
+Chapter 1.  Standards and Resources for Procedures on Fuel Storage, Handling, 
+and Dispensing 
+1. Introduction. Many standards and resources exist throughout the fueling industry to provide 
+guidance on the proper and safe method for handling aviation fuels. 
+2. Standards. The FAA uses the standards contained in the most recent edition of National Fire 
+Prevention Association (NFPA) 407, Standard for Aircraft Fuel Servicing.  NFPA 407 provides a 
+standard for the storage and delivery of aviation fuel in an airport environment..  
+3. Copies of Standards. You can order NFPA 407 from: 
+National Fire Protection Association 
+1 Batterymarch Park 
+PO Box 9101 
+Quincy MA 02269-9101 
+1-800-344-3555  
+http://www.nfpa.org  
+ 
+NFPA 407 may also be viewed online from the NFPA website as a read-only document at: 
+http://www.nfpa.org/aboutthecodes/AboutTheCodes.asp?DocNum=407.
+---
+[AC-150-5210-20A] 9/1/2015  AC 150/5210-20A 
+  Appendix B 
+B-19 
+extend from the runway centerline and hold lines for a specific 
+operation known as land and hold short. 
+ Communications Section 4.
+4.1 Any vehicle driving and anyone taxiing, or towing an aircraft on the movement areas 
+(runways and taxiways) must have contact with the ATCT or be capable of monitoring 
+and transmitting on the CTAF. Vehicle operators, anyone taxiing, or towing an aircraft 
+must always monitor the appropriate radio frequency when in the movement areas on 
+controlled airports. Permission must be requested and clearance given prior to driving, 
+taxiing, or towing an aircraft on a movement area. A vehicle that is equipped with a radio 
+and a driver who is movement area qualified may escort vehicles or anyone towing an 
+aircraft without radios; these vehicles must stay under the control of the escort at all 
+times. When a movement area is closed for construction, vehicles may traverse that area 
+without ATCT contact but must b
+---
+[AC-150-5210-20A] 9/1/2015 AC 150/5210-20A 
+Appendix B 
+B-2 
+1.3.1 Accident–a collision between one aircraft or vehicle and another aircraft,
+vehicle, person, or object that results in property damage, personal injury, or 
+death. 
+1.3.2 Air Carrier Apron–an apron for air carriers. Only authorized personnel and
+vehicles may operate on this apron. Unauthorized vehicles and aircraft are 
+prohibited from operating on it. 
+1.3.3 Air Operations Area (AOA) – the air operations area includes paved or
+unpaved areas used or intended to be used for the unobstructed movement of 
+aircraft, in addition to its associated runways, taxiways, or aprons. Commonly 
+refers to anything within the secured and fenced-in area of the airport. 
+1.3.4 Airport Traffic Control Tower (ATCT)–operated by an appropriate authority
+to promote the safe, orderly, and expeditious flow of air traffic. 
+1.3.5 Aircraft–a device that is used or intended to be used for flight in the air.
+1.3.6 Airport–(NAME) International Airport Facility, owned 
+
+MY GRADE  facts stated (yes/no):        groundedness (1-5):        note:
+
+==================== q-16 ====================
+QUESTION: How often must a fueling agent's supervisor receive recurrent fire safety instruction?
+
+REQUIRED FACTS: 24 months
+
+ANSWER:
+Based on the documentation, fueling agents must maintain the certificate of completion for any supervisors completing a supervisory course in fueling safety for **24 consecutive calendar months**. This means that the certificate (proof of training) must be retained for 24 months.
+
+However, for the specific frequency of how often a **supervisor** must receive recurrent fire safety instruction, the document states that fueling agents must maintain the certificate of completion for supervisors for **24 consecutive calendar months** [AC 150/5230-4B, Chapter 4, Section 2.a.(1)]. This implies the supervisory training/certificate is valid for that period, meaning the supervisor must receive recurrent fire safety instruction at least **every 24 consecutive calendar months**.
+
+Additionally, the document references that 14 CFR §139.321(e)(2) requires all employees to receive initial hands-on and recurrent training from a supervisor who has completed a Supervisory Training Program in Fire Safety, with records maintained for 24 consecutive calendar months [AC 150/5230-4B, Chapter 4, Section 2.a.(2)].
+
+So, a fueling agent's supervisor must receive recurrent fire safety instruction **every 24 consecutive calendar months** [AC 150/5230-4B, Chapter 4, Section 2.a.(1)].
+
+PASSAGES THE MODEL SAW:
+[AC_150_5230-4B] AC 150/5230-4B 9/28/2012 
+6 
+ 
+Chapter 2. Fuel Safety Training 
+This chapter provides guidance on the development of both the supervisory fuel safety and the 
+line service fuel safety training courses. Based on the minimum standards established in 14 CFR 
+§139.321 (b) (1) – (7) and §139.321 (e), this chapter identifies the areas that must be addressed 
+in these courses. Because of the responsibilities inherent in training others in fire safety, this 
+AC identifies in Chapter 3 further areas of competence that must be met for the 
+Supervisory Training Course. 
+1. Introduction. 
+a. 14 CFR §139.321 sets forth the requirements for fuel safety training at certificated airports. 
+These requirements include two distinct types of training for employees of agents handling aviation 
+fuel: supervisory training and line service fuel safety training. Training performed under the 
+supervisory training program must be obtained by completing a FAA authorized Supervisory Fuel 
+Safety training course. L
+---
+[AC_150_5230-4B] AC 150/5230-4B 9/28/2012 
+10 
+ 
+(7) Fueling cabinet safety procedures 
+h. Fire code requirement – supervisory personnel requirement (see section 3) 
+3. Local Fire Codes and Regulations. A local fire code or the National Fire Code may be 
+the governing document at specific airport(s). This information must be included in the 
+course(s). Supervisory personnel must be informed of their responsibility to determine the code 
+that appropriately governs the airport at which they provide and conduct fueling activities.  They 
+must ensure code information is incorporated into their line service personnel training. It is their 
+responsibility to receive a briefing on local fire codes from airport management, local Fire 
+Marshall, or Authority Having Jurisdiction (AHJ).  Additionally, they must be aware the local 
+jurisdiction may have other safety requirements for fueling procedures at their airport.   
+a. Airport Operators holding a Part 139 certificate should be aware that it is their duty to 
+---
+[AC_150_5230-4B] AC 150/5230-4B 9/28/2012 
+14 
+ 
+Chapter 5. Guidelines for Submitting Line Service and/or Supervisory Safety 
+Course(s) 
+1. Supervisory Training Program and/or Line Training Program.  
+a. Purpose. This chapter establishes the standards for submitting a Fueling Safety Training 
+Program for Supervisory Personnel and/or Fueling Safety Training Program for Line Service 
+Personnel. It provides guidance for addressing the requirements of 14 CFR §139.321 (e) (1) and 
+(2) and the additional requirements for supervisory personnel stipulated by §139.321 (b) (1) – 
+(7). 
+b. Explanation.  Fueling Safety Programs are also known as Fueling Supervisory Courses, 
+Line Service Supervisory Training, and Fire Safety Training.  These courses ensure that 
+supervisory and line fueling personnel recognize the importance of aircraft fueling safety.  
+Fueling supervisory courses are designed to emphasize the importance of instructing effectively 
+in the principles necessary to ensure safety during fueling opera
+---
+[AC_150_5230-4B] AC 150/5230-4B 9/28/2012 
+12 
+ 
+Chapter 4. Testing, Certification, and Recordkeeping 
+1. Exams. Exams or tests may be oral, written, practical, or a combination.  All test questions 
+must be researched and referenced with validation of correct answers shown in the master test 
+and retained on file. 
+2. Record-keeping.  
+a. Responsibilities of Airport Fueling Agents.  
+(1) Fueling agents must maintain a copy of the certificate of completion for any 
+supervisors completing a supervisory course in fueling safety for 24 consecutive calendar 
+months.    
+(2) 14 CFR §139.321(e)(2) requires all employees to receive initial hands-on and 
+recurrent training from a supervisor who has completed a Supervisory Training Program in Fire 
+Safety.  Records of that training must be maintained by the fueling agent for 24 consecutive 
+calendar months.   
+(3)  At locations where the training required under §139.321(e)(2) is provided through an 
+approved Line Service Fire Safety Training Program, fueling ag
+---
+[AC_150_5230-4B] 9/28/2012 AC 150/5230-4B 
+11 
+ 
+Chapter 3. Supervisors Training Course 
+The contents of Chapter 2 form the basis of the Supervisory Training Course. This chapter 
+identifies the additional requirements that must be met in the Fire Safety for Supervisors 
+Training Course. In addition, the depth of instruction in each section identified in Chapter 2 must 
+be sufficient to ensure that supervisors understand the material and their responsibilities in 
+training others in fire safety.  
+1. The FAA recommends that instructors teaching the Supervisor Fuel Training Course possess: 
+a. A thorough working knowledge of the contents of Chapter 2 and requirements of 14 
+CFR §139.321(b)(1) through (b)(7) and §139.321(e) (1) and (2). 
+b. A minimum of 2 years’ experience in all aspects of fueling procedures. 
+2. Instructors teaching the Supervisor Fuel Training Course must be able to discuss training 
+methodologies and motivation and understand how to test student comprehension and 
+recognition.  
+3. E
+
+MY GRADE  facts stated (yes/no):        groundedness (1-5):        note:
+
+==================== q-18 ====================
+QUESTION: How often does the FAA review its list of acceptable fuel safety training courses?
+
+REQUIRED FACTS: quarter
+
+ANSWER:
+Based on the passage from AC 150/5230-4B, the FAA reviews its list of acceptable fuel safety training courses **on a quarterly basis** (i.e., every three months). 
+
+As stated in the document: *"Because changes may occur more frequently than the schedule for updating the AC, the FAA will review this list on a quarterly basis and post an updated version online as an Addendum to this AC."* [AC 150/5230-4B, Section on FAA list of acceptable training courses]
+
+PASSAGES THE MODEL SAW:
+[AC_150_5230-4B] AC 150/5230-4B 9/28/2012 
+6 
+ 
+Chapter 2. Fuel Safety Training 
+This chapter provides guidance on the development of both the supervisory fuel safety and the 
+line service fuel safety training courses. Based on the minimum standards established in 14 CFR 
+§139.321 (b) (1) – (7) and §139.321 (e), this chapter identifies the areas that must be addressed 
+in these courses. Because of the responsibilities inherent in training others in fire safety, this 
+AC identifies in Chapter 3 further areas of competence that must be met for the 
+Supervisory Training Course. 
+1. Introduction. 
+a. 14 CFR §139.321 sets forth the requirements for fuel safety training at certificated airports. 
+These requirements include two distinct types of training for employees of agents handling aviation 
+fuel: supervisory training and line service fuel safety training. Training performed under the 
+supervisory training program must be obtained by completing a FAA authorized Supervisory Fuel 
+Safety training course. L
+---
+[AC_150_5230-4B] AC 150/5230-4B 9/28/2012 
+14 
+ 
+Chapter 5. Guidelines for Submitting Line Service and/or Supervisory Safety 
+Course(s) 
+1. Supervisory Training Program and/or Line Training Program.  
+a. Purpose. This chapter establishes the standards for submitting a Fueling Safety Training 
+Program for Supervisory Personnel and/or Fueling Safety Training Program for Line Service 
+Personnel. It provides guidance for addressing the requirements of 14 CFR §139.321 (e) (1) and 
+(2) and the additional requirements for supervisory personnel stipulated by §139.321 (b) (1) – 
+(7). 
+b. Explanation.  Fueling Safety Programs are also known as Fueling Supervisory Courses, 
+Line Service Supervisory Training, and Fire Safety Training.  These courses ensure that 
+supervisory and line fueling personnel recognize the importance of aircraft fueling safety.  
+Fueling supervisory courses are designed to emphasize the importance of instructing effectively 
+in the principles necessary to ensure safety during fueling opera
+---
+[AC_150_5230-4B] 9/28/2012 AC 150/5230-4B 
+11 
+ 
+Chapter 3. Supervisors Training Course 
+The contents of Chapter 2 form the basis of the Supervisory Training Course. This chapter 
+identifies the additional requirements that must be met in the Fire Safety for Supervisors 
+Training Course. In addition, the depth of instruction in each section identified in Chapter 2 must 
+be sufficient to ensure that supervisors understand the material and their responsibilities in 
+training others in fire safety.  
+1. The FAA recommends that instructors teaching the Supervisor Fuel Training Course possess: 
+a. A thorough working knowledge of the contents of Chapter 2 and requirements of 14 
+CFR §139.321(b)(1) through (b)(7) and §139.321(e) (1) and (2). 
+b. A minimum of 2 years’ experience in all aspects of fueling procedures. 
+2. Instructors teaching the Supervisor Fuel Training Course must be able to discuss training 
+methodologies and motivation and understand how to test student comprehension and 
+recognition.  
+3. E
+---
+[AC_150_5230-4B] U.S. Department 
+of Transportation 
+Federal Aviation 
+Administration 
+Advisory 
+Circular 
+Subject:  Aircraft Fuel Storage, Handling, 
+Training, and Dispensing on Airports 
+Date: 9/28/2012 
+Initiated by: AAS-300  
+AC No: 150/5230-4B 
+Change: 
+1. Purpose. This advisory circular (AC) contains specifications and guidance for the storage, 
+handling, and dispensing of aviation fuel on airports. Additionally, this AC provides standards 
+and guidance for the training of personnel who conduct these activities. 
+2. Cancellation. This AC cancels AC 150/5230-4A, Aircraft Fuel Storage, Handling, and 
+Dispensing on Airports, dated June 18, 2004. 
+3. Application. This AC provides an acceptable means of complying with Title 14 Code of 
+Federal Regulations (CFR) part 139 (hereinafter referred to as Part 139) for all Part 139 airport 
+operators.  Although non-certificated airports are not required to develop fuel standards, the FAA 
+recommends these airports use the guidance contained in this AC to deve
+---
+[AC_150_5230-4B] AC 150/5230-4B 9/28/2012 
+2 
+ 
+The FAA publishes a list of the companies offering courses of instruction in line service training 
+as well as supervisory training that are acceptable to the Administrator.  Because changes may 
+occur more frequently than the schedule for updating the AC, the FAA will review this list on a 
+quarterly basis and post an updated version online as an Addendum to this AC.  
+The airport operator is responsible for consulting the current listing of acceptable training 
+courses.  Likewise, the companies listed in this Addendum are responsible for notifying the FAA 
+of any changes to their training syllabus and the availability of the course(s) offered or to contact 
+information. 
+5. Effective Date. The effective date of this AC is September 28, 2012.  
+6. Comments or Suggestions. Send suggestions for improving this AC to: 
+Federal Aviation Administration 
+Manager, Airport Safety and Operations  
+Attn: Fuel Safety Training 
+800 Independence Ave SW 
+AAS-300, Room 
+
+MY GRADE  facts stated (yes/no):        groundedness (1-5):        note:
+
+==================== q-20 ====================
+QUESTION: Which FAA office receives fuel safety training syllabi from third-party training providers?
+
+REQUIRED FACTS: Airport Safety and Operations
+
+ANSWER:
+I found the answer. Let me provide the information.
+
+Based on AC 150/5230-4B, Chapter 5, Section 4, the FAA office that receives fuel safety training syllabi from third-party training providers is:
+
+**The Manager, Airport Safety and Operations (AAS-300), Attn: Fuel Safety Training**, located at:
+
+**Federal Aviation Administration**  
+**Manager, Airport Safety and Operations**  
+**Attn: Fuel Safety Training**  
+**800 Independence Ave SW**  
+**AAS-300, Room 618**  
+**Washington DC 20591**
+
+This is confirmed in paragraph 4.b of Chapter 5, which states: "Send curriculum materials to:" followed by the above address. Additionally, paragraph 6 ("Comments or Suggestions") of the AC also directs correspondence to the same office: "Manager, Airport Safety and Operations, Attn: Fuel Safety Training, AAS-300" [AC 150/5230-4B, pp. 2 and 15].
+
+PASSAGES THE MODEL SAW:
+[AC_150_5230-4B] AC 150/5230-4B 9/28/2012 
+6 
+ 
+Chapter 2. Fuel Safety Training 
+This chapter provides guidance on the development of both the supervisory fuel safety and the 
+line service fuel safety training courses. Based on the minimum standards established in 14 CFR 
+§139.321 (b) (1) – (7) and §139.321 (e), this chapter identifies the areas that must be addressed 
+in these courses. Because of the responsibilities inherent in training others in fire safety, this 
+AC identifies in Chapter 3 further areas of competence that must be met for the 
+Supervisory Training Course. 
+1. Introduction. 
+a. 14 CFR §139.321 sets forth the requirements for fuel safety training at certificated airports. 
+These requirements include two distinct types of training for employees of agents handling aviation 
+fuel: supervisory training and line service fuel safety training. Training performed under the 
+supervisory training program must be obtained by completing a FAA authorized Supervisory Fuel 
+Safety training course. L
+---
+[AC_150_5230-4B] AC 150/5230-4B 9/28/2012 
+14 
+ 
+Chapter 5. Guidelines for Submitting Line Service and/or Supervisory Safety 
+Course(s) 
+1. Supervisory Training Program and/or Line Training Program.  
+a. Purpose. This chapter establishes the standards for submitting a Fueling Safety Training 
+Program for Supervisory Personnel and/or Fueling Safety Training Program for Line Service 
+Personnel. It provides guidance for addressing the requirements of 14 CFR §139.321 (e) (1) and 
+(2) and the additional requirements for supervisory personnel stipulated by §139.321 (b) (1) – 
+(7). 
+b. Explanation.  Fueling Safety Programs are also known as Fueling Supervisory Courses, 
+Line Service Supervisory Training, and Fire Safety Training.  These courses ensure that 
+supervisory and line fueling personnel recognize the importance of aircraft fueling safety.  
+Fueling supervisory courses are designed to emphasize the importance of instructing effectively 
+in the principles necessary to ensure safety during fueling opera
+---
+[AC_150_5230-4B] 9/28/2012 AC 150/5230-4B 
+11 
+ 
+Chapter 3. Supervisors Training Course 
+The contents of Chapter 2 form the basis of the Supervisory Training Course. This chapter 
+identifies the additional requirements that must be met in the Fire Safety for Supervisors 
+Training Course. In addition, the depth of instruction in each section identified in Chapter 2 must 
+be sufficient to ensure that supervisors understand the material and their responsibilities in 
+training others in fire safety.  
+1. The FAA recommends that instructors teaching the Supervisor Fuel Training Course possess: 
+a. A thorough working knowledge of the contents of Chapter 2 and requirements of 14 
+CFR §139.321(b)(1) through (b)(7) and §139.321(e) (1) and (2). 
+b. A minimum of 2 years’ experience in all aspects of fueling procedures. 
+2. Instructors teaching the Supervisor Fuel Training Course must be able to discuss training 
+methodologies and motivation and understand how to test student comprehension and 
+recognition.  
+3. E
+---
+[AC-150-5210-20A] 9/1/2015 AC 150/5210-20A 
+2-2 
+2.2.2.2 Recurrent Training. 
+Recurrent training (required for part 139 certificated airports) is the training 
+provided to an employee or airport user every twelve Consecutive Calendar 
+Months (CCM) to enable that person to maintain a satisfactory level of 
+proficiency. An example of twelve CCM is when training occurs on July 1, 
+2014 and the tr
+aining remains valid through July 31, 2015. The training 
+would expire on August 1, 2015. Appropriate schedules for recurrent 
+training will vary widely from airport to airport and from one employee to 
+another. Airport operators should consider requiring annual recurrent 
+training when a vehicle operator renews an expired airport ID badge, or 
+when a tenant renews a lease agreement.  
+2.2.2.3 Remedial Training. 
+Remedial training is required when a violation of the rules and regulations 
+is committed. Use remedial training with the chosen enforcement action 
+(see Chapter 6 Enforcement and Control). 
+2.2.3 On-the-
+---
+[AC_150_5230-4B] U.S. Department 
+of Transportation 
+Federal Aviation 
+Administration 
+Advisory 
+Circular 
+Subject:  Aircraft Fuel Storage, Handling, 
+Training, and Dispensing on Airports 
+Date: 9/28/2012 
+Initiated by: AAS-300  
+AC No: 150/5230-4B 
+Change: 
+1. Purpose. This advisory circular (AC) contains specifications and guidance for the storage, 
+handling, and dispensing of aviation fuel on airports. Additionally, this AC provides standards 
+and guidance for the training of personnel who conduct these activities. 
+2. Cancellation. This AC cancels AC 150/5230-4A, Aircraft Fuel Storage, Handling, and 
+Dispensing on Airports, dated June 18, 2004. 
+3. Application. This AC provides an acceptable means of complying with Title 14 Code of 
+Federal Regulations (CFR) part 139 (hereinafter referred to as Part 139) for all Part 139 airport 
+operators.  Although non-certificated airports are not required to develop fuel standards, the FAA 
+recommends these airports use the guidance contained in this AC to deve
+---
+[AC_150_5230-4B] AC 150/5230-4B 9/28/2012 
+16 
+ 
+Appendix A. Definitions and Acronyms 
+DEFINITIONS 
+ 
+Airport Fueling Agent - An airport operator/certificate holder that sells fuel products on the 
+airport. 
+ 
+Airport Fueling System - An arrangement of aviation fuel storage tanks, pumps, piping, and 
+associated equipment, such as filters, water separators, hydrants and station, or aircraft fuel 
+servicing vehicles, installed at an airport and designed to service aircraft at fixed positions. 
+ 
+Authority Having Jurisdiction (AHJ) - An organization, office, or individual responsible for 
+enforcing the requirements of a code or standard or for approving equipment, materials, an 
+installation, or a procedure. 
+ 
+Dead Man Control - A device that requires a positive continuing action of a person to allow the 
+flow of fuel. 
+ 
+Emergency Fuel Shutoff - A function performed to stop the flow of fuel in an emergency. 
+ 
+Fueling Agent - A person or company that sells fuel products on the airport.  This is intended
+---
+[AC_103-6] 6/23/83 AC 103-6 
+43. GENERAL AVIATION DISTRICT OFFICE (GADO). 
+a. These offices are located throughout the country and are staffed by 
+Flight Standards personnel. Their primary purpose is to serve the general public 
+and aviation industry on all matters relating to the certification and operation 
+of general aviation aircraft. These responsibilities include accident prevention 
+programs, general surveillance of operational safety, and the enforcement of 
+FAR. Under FAR 103, GADO's are your best source of information for items such as 
+vehicle applicability, hazardous operations, and operations over congested 
+areas. Should you desire, GADO's can also provide you guidance and assistance in 
+certificating your ultralight as an aircraft. 
+b. For the location and phone number of your nearest GADO, consult your 
+local telephone directory under Department of Transportation, Federal Aviation 
+Administration, General Aviation District Office or Flight Standards District 
+Office. 
+44. PUBLICAT
+---
+[AC-150-5210-20A] 9/1/2015 AC 150/5210-20A 
+3-2 
+allow, drivers will drop needed equipment within the RSA and park the 
+vehicle outside the RSA.  
+3.1.4.2 A Letter of Agreement (LOA) is required at each towered airport to clarify 
+the specific activities allowed in the RSA during air carrier/aircraft 
+operations.  This LOA will include the airport operator, the local Air Traffic 
+Control Tower (ATCT), FAA Technical Operations, and any other airport 
+tenant that may be permitted into the RSA during air carrier/aircraft 
+operations.  The LOA will describe the specific procedures for personnel 
+and equipment in the RSA during air carrier/aircraft operations.   
+Additionally, the LOA must also emphasize that vehicles avoid the 
+Instrument Landing System (ILS) or Localizer arrays during low visibility 
+conditions.  Standard communication requirements between the ATCT and 
+individuals operating in the RSA should be established in accordance with 
+Order 7110.65.  Any LOA between the airport operator and the AT
+---
+[AC_103-6] AC 103-6 6/23/83 
+41. AIRPORTS DISTRICT OFFICE (ADO). 
+a. Airport district offices are located throughout the country and serve a 
+specific geographical area. Their primary purpose is to assist the aviation 
+community and state and local governments in the planning and  .development of 
+landing facilities. Under FAR 103,  ADO's would be your best source for 
+information pertaining to the establishment of a flightpark and the environmental 
+considerations associated with operations. 
+b. For the phone number and location of the ADO serving your area, consult 
+your local phone directory under Department of Transportation, Federal Aviation 
+Administration, Airport District Office or Regional Airport District Office. 
+42. FAA AIR TRAFFIC CONTROL FACILITIES. There are three major types of air 
+traffic control facilities with which you may come in contact. The following 
+information should assist you in determining which one to call. 
+a. Flight Service Station  (FSS).  The Flight Service Stat
+---
+[AC-150-5210-20A] 9/1/2015 AC 150/5210-20A 
+1-1 
+CHAPTER 1.  VEHICLE ACCESS PROCEDURES AND REGULATORY REQUIREMENTS
+1.1 Airport Procedures and Policies for Vehicle Access. 
+Airport operators are ultimately responsible for establishing procedures and policies for 
+vehicle access and operation on the movement and safety areas of the airport. Aircraft 
+can also act as vehicles. When an aircraft is not intended for flight, anyone (except 
+pilots) taxiing or towing an aircraft needs vehicle training to access the movement and 
+safety areas of the airport.  The airport operators may provide the employer, 
+organization, or person (if the aircraft is privately owned) with procedures and policies 
+to train their personnel. Airport operators can also incorporate vehicle and pedestrian 
+operations and enforcement into tenant leases and agreements. The airport operator is 
+accountable for the training and actions of all airfield vehicle operators approved to 
+operate on the airport. The FAA Office of Airports is res
+---
+[AC_150_5230-4B] AC 150/5230-4B 9/28/2012 
+12 
+ 
+Chapter 4. Testing, Certification, and Recordkeeping 
+1. Exams. Exams or tests may be oral, written, practical, or a combination.  All test questions 
+must be researched and referenced with validation of correct answers shown in the master test 
+and retained on file. 
+2. Record-keeping.  
+a. Responsibilities of Airport Fueling Agents.  
+(1) Fueling agents must maintain a copy of the certificate of completion for any 
+supervisors completing a supervisory course in fueling safety for 24 consecutive calendar 
+months.    
+(2) 14 CFR §139.321(e)(2) requires all employees to receive initial hands-on and 
+recurrent training from a supervisor who has completed a Supervisory Training Program in Fire 
+Safety.  Records of that training must be maintained by the fueling agent for 24 consecutive 
+calendar months.   
+(3)  At locations where the training required under §139.321(e)(2) is provided through an 
+approved Line Service Fire Safety Training Program, fueling ag
+---
+[AC-150-5210-20A] 9/1/2015 AC 150/5210-20A 
+Appendix B 
+B-1 
+APPENDIX B.  SAMPLE GROUND VEHICLE OPERATIONS TRAINING MANUAL 
+NOTE: This sample training manual provides airport operators with a template for developing 
+and implementing proposed policies or procedures for controlling ground vehicles, or taxiing, 
+and towing aircraft. This includes equipment access in the movement and safety areas of an 
+airport. Airport operators may use the format below but adapt the requirements to specific 
+conditions found on their airport. The Operator would fill in the appropriate blanks or blocks 
+of text and/or revise the document for specific airport conditions. 
+Section 1 covers the Authority, Applicability, and Definitions of the Ground Vehicle 
+Operation Manual. It includes:  driving, taxiing or towing aircraft rules and regulations that 
+could be adopted by the airport operator.  
+Section 2 would serve as a suggested driver, taxiing, or towing aircraft training for the 
+Non-Movement Area Manual.  
+Section 3 wo
+---
+[AC-150-5210-20A] 9/1/2015 AC 150/5210-20A 
+2-1 
+CHAPTER 2.  TRAINING 
+2.1 Vehicle Operator Requirements. 
+Vehicle operators on airports face conditions that are not normally encountered on 
+public streets and highways. Therefore, anyone with vehicular access to the movement 
+and safety areas, and a need to be there, must have an appropriate level of knowledge of 
+airport rules and regulations. The airport’s ground vehicle driving program can give this 
+information. Airport operators can require vehicle operators maintain a current driver's 
+license
+, and may establish identification requirements that would permit the operation 
+of a vehicle on the movement and safety areas of an airport. Any person expected to 
+operate on the movement and safety areas should be qualified and authorized to operate 
+in the environment. 
+2.2 Training Requirements. 
+Under Part 139, all personnel with duties requiring access to the movement and safety 
+areas are required to have initial and recurrent training. We encourage 
+---
+[AC_150_5230-4B] AC 150/5230-4B 9/28/2012 
+10 
+ 
+(7) Fueling cabinet safety procedures 
+h. Fire code requirement – supervisory personnel requirement (see section 3) 
+3. Local Fire Codes and Regulations. A local fire code or the National Fire Code may be 
+the governing document at specific airport(s). This information must be included in the 
+course(s). Supervisory personnel must be informed of their responsibility to determine the code 
+that appropriately governs the airport at which they provide and conduct fueling activities.  They 
+must ensure code information is incorporated into their line service personnel training. It is their 
+responsibility to receive a briefing on local fire codes from airport management, local Fire 
+Marshall, or Authority Having Jurisdiction (AHJ).  Additionally, they must be aware the local 
+jurisdiction may have other safety requirements for fueling procedures at their airport.   
+a. Airport Operators holding a Part 139 certificate should be aware that it is their duty to 
+---
+[AC_103-6] AC 103-6 6/23/83 
+d. FAA Advisory Circulars. 
+(1) The FAA issues advisory circulars to assist and inform the public on 
+matters affecting aviation. Advisory circulars are issued in a numbered-subject 
+system corresponding to the subject areas of the FAR. 
+(2) For example, this advisory is numbered AC 103-6 because it deals 
+with information pertaining to FAR 103 operations. There  are more than 400 free 
+advisory circulars available. Subjects which may be of interest to the 
+ultralight operator include: 
+AC 60-4A Pilot's Spatial Disorientation 
+AC 90-23D Wake Turbulence 
+AC 90-42C Traffic Advisory Practices at Uncontrolled Airports 
+AC 90-48B Pilot's Role in Collision Avoidance 
+AC 91-36B VFR Flight Near Noise Sensitive Areas 
+(3) For a complete listing of all available advisory circulars, send 
+your request for the Advisory Circular Checklist, AC 00-2 to: 
+U.S. Department of Transportation 
+Subsequent Distribution Unit, M-442.32 
+Washington, D.C. 20590 
+Please enclose a self-addressed
+---
+[AC_150_5230-4B] AC 150/5230-4B 9/28/2012 
+18 
+ 
+Appendix B.  Additional Resources 
+ 
+1. ATA Spec 103 – Spec. 103, Standard for Jet Fuel Quality Control at Airports, produced by 
+Airlines for America, provides guidance for the safe storage and distribution of jet fuel at 
+airports as currently practiced in the commercial aviation industry. Spec. 103 can be obtained 
+from: 
+A4A Publications Department 
+1301 Pennsylvania Avenue, NW 
+Suite 1100 
+Washington, DC 20004 
+202-626-4062 
+https://publications.airlines.org 
+ 
+2. NATA Refueling and Quality Control Procedures for Airport Service and Support 
+Operations – The National Air Transportation Association’s (NATA’s) refueling and quality 
+control guidebook provides information and detailed procedures on the safe handling and 
+delivery of aviation fuels. The guide is available from: 
+ 
+National Air Transportation Association 
+4226 King Street 
+Alexandria, VA 22302 
+800-808-6282 
+http://www.nata.aero 
+ 
+3. ASTM Manual 5, Aviation Fuel Quality Control Procedur
+---
+[AC_103-6] e Advisory 
+US Department 
+of Transportation 
+f•  Ju d iirinlUii Circular rwOmXM mPnOnOn 
+Subject: Date: 6/23/83 AC No: 103-6 
+ULTRALIGHT VEHICLE OPERATIONS - Initiated by: AAT-230 Change: 
+AIRPORTS, AIR TRAFFIC CONTROL, 
+AND WEATHER 
+1. PURPOSE.  This advisory circular provides guidance for the operation of 
+ultralight vehicles in the United States. Information includes airport and 
+flightpark operations, how to work with air traffic control, and the availability 
+of weather services. Additional advisory circulars for the operation of 
+ultralight vehicles may be found under series 103. 
+2. BACKGROUND. 
+a. The sport of hang gliding has advanced dramatically since the Federal 
+Aviation Administration (FAA) first issued Advisory Circular No.  60-10, 
+"Recommended Safety Parameters for the Operation of Hang Gliders," on May  16. 
+1974. The purpose of that advisory circular was to provide guidance to the hang 
+gliding community without the need for Federal regulation. The response to the 
+
+---
+[AC_103-6] V 
+6/23/83 ' AC 103-6 
+CHAPTER 4. ACCIDENT INFORMATION AND OTHER SOURCES 
+40. NATIONAL TRANSPORTATION SAFETY BOARD (NTSB). 
+a. The NTSB is the official Government investigator for all transportation 
+safety issues. Its purpose is to impartially analyze occurrences which may 
+indicate a transportation safety problem and to recommend corrective action. The 
+NTSB has decided to investigate all fatal powered ultralight vehicle accidents 
+and other selected ultralight accidents and incidents which may involve 
+significant safety issues. The Safety Board will also investigate ultralight 
+vehicle accidents impinging on civil aircraft operations or on persons and 
+property on the ground. The Safety Board will review accident data and the 
+safety efforts of the aviation community in order to keep abreast of any emerging 
+safety problems and will be available to provide technical assistance in 
+remedying those problems. 
+IF YOU ARE WITNESS TO OR INVOLVED IN AN INCIDENT/ACCIDENT INVOLVING THE 
+OP
+---
+[AC-150-5210-20A] 9/1/2015 AC 150/5210-20A 
+Appendix B 
+B-5 
+1.3.39 Wake Turbulence–phenomenon resulting from the passage of an aircraft
+through the atmosphere. The term includes vortices, thrust stream turbulence, 
+jet blast, jet wash, propeller wash, and rotor wash both on the ground and in the 
+air. 
+1.4 Severability. If any section, subsection, subdivision, paragraph, sentence, clause, or
+phrase of these Rules and Regulations or any part thereof is for any reason held to be 
+unconstitutional, invalid, or ineffective by any court of competent jurisdiction or other 
+competent agency, such decision will not affect the validity or effectiveness of the 
+remaining portions of these Rules and Regulations. 
+1.5 Violation of Rules—Penalties and Suspension of Driving or Anyone taxiing or 
+towing an aircraft Privileges. Any person, who does not comply with any of the
+provisions of these Rules and Regulations, or any lawful order issued pursuant thereto, 
+will be subject to progressive penalties for repeat viol
+---
+[AC_150_5230-4B] 9/28/2012 AC 150/5230-4B 
+7 
+ 
+e. 14 CFR §139.321 (b) places the responsibility of determining standards for fueling safety 
+on the individual airport based on state, local, or municipality fueling regulations. The FAA does 
+not intend this AC to replace airport procedures that are tailored to meet requirements imposed 
+because of the use of special equipment or as a result of local regulations. 
+f. This AC provides guidelines in Chapter 5 for submitting a supervisory and/or a line 
+service fueling safety program to the FAA for national acceptance. 
+2.  Mandatory Elements for Supervisory and Line Service Fuel Safety Training Programs. 
+A fuel safety training program should include:  
+a. An orientation that addresses:  
+(1) Purpose of the course  
+(2) Expected outcomes as identified in 14 CFR §139.321  
+(3) Familiarity with applicable FAA ACs, fire codes, and fire and fuel safety 
+organizations and their publications  
+(4) Knowledge of fuel types 
+(5) Fueling of different types of aircr
+---
+[AC_150_5230-4B] AC 150/5230-4B 9/28/2012 
+2 
+ 
+The FAA publishes a list of the companies offering courses of instruction in line service training 
+as well as supervisory training that are acceptable to the Administrator.  Because changes may 
+occur more frequently than the schedule for updating the AC, the FAA will review this list on a 
+quarterly basis and post an updated version online as an Addendum to this AC.  
+The airport operator is responsible for consulting the current listing of acceptable training 
+courses.  Likewise, the companies listed in this Addendum are responsible for notifying the FAA 
+of any changes to their training syllabus and the availability of the course(s) offered or to contact 
+information. 
+5. Effective Date. The effective date of this AC is September 28, 2012.  
+6. Comments or Suggestions. Send suggestions for improving this AC to: 
+Federal Aviation Administration 
+Manager, Airport Safety and Operations  
+Attn: Fuel Safety Training 
+800 Independence Ave SW 
+AAS-300, Room 
+---
+[AC_150_5230-4B] 9/28/2012 AC 150/5230-4B 
+15 
+ 
+4. Review and Approval.  
+a. All courses should be submitted for initial approval and also whenever there any major 
+rewrites or changes to the material being taught. 
+b. Send curriculum materials to: 
+Federal Aviation Administration 
+Manager, Airport Safety and Operations  
+Attn: Fuel Safety Training 
+800 Independence Ave SW 
+AAS-300, Room 618  
+Washington DC 20591 
+The FAA will add acceptable courses to the Addendum of Authorized Fuel Safety Training 
+Courses on a quarterly basis.
+
+MY GRADE  facts stated (yes/no):        groundedness (1-5):        note:
+
