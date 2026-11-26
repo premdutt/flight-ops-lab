@@ -31,7 +31,8 @@ def ask(pending: dict) -> dict:
 
 
 def show(o: Outcome) -> None:
-    print("\nOUTPUT:", o.result)
+    if o.result is not None:           # None: a finished thread whose framework keeps no output
+        print("\nOUTPUT:", o.result)
     if o.events:
         print("SAFETY EVENTS:", o.events)
 

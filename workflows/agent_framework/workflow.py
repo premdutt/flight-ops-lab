@@ -8,6 +8,7 @@ from app.agents import router_agent, answer_agent, make_request_agent
 from app.llm_utils import extract_json, final_text
 from app.memory import load_profile, submit_request
 from app.safety import shield, moderate, EVENTS, is_model_filter_error,model_filter_label
+from workflows.runner_base import DECISIONS
 
 WORKFLOW_NAME = "flightops"
 REFUSAL = "Sorry, I can't help with that request."
@@ -90,6 +91,9 @@ class DraftRequest(Executor):
     @response_handler
     async def on_decision(self, original_request: ApprovalRequest, response: ApprovalDecision,
                           ctx: WorkflowContext[Never, str]) -> None:
+        if response.action not in DECISIONS:              # only an explicit approve submits
+            await ctx.yield_output(f"Unknown decision {response.action!r}. Nothing was submitted.")
+            return
         if response.action == "reject":
             await ctx.yield_output("Request rejected. Nothing was submitted.")
             return
@@ -106,9 +110,10 @@ class DraftRequest(Executor):
             return
         await ctx.yield_output(f"Submitted request {request_id}: {final}")
 
-def build_workflow(checkpoint_storage=None):
+def build_workflow(checkpoint_storage=None, name: str = WORKFLOW_NAME):
+    """name groups the checkpoints (it is the Cosmos partition key); the runner uses one per thread."""
     router, answer, request = Router(), Answer(), DraftRequest()
-    builder = WorkflowBuilder(name=WORKFLOW_NAME, start_executor=router,
+    builder = WorkflowBuilder(name=name, start_executor=router,
                               checkpoint_storage=checkpoint_storage)
     builder.add_edge(router, answer, condition=lambda m: m.intent == "question")
     builder.add_edge(router, request, condition=lambda m: m.intent == "request")

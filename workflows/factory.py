@@ -4,7 +4,7 @@ from typing import AsyncIterator
 
 from workflows.runner_base import WorkflowRunner
 
-FRAMEWORKS = ("langgraph",)          # agent_framework is added in Step 6.4
+FRAMEWORKS = ("langgraph", "agent_framework")
 
 
 @asynccontextmanager
@@ -15,6 +15,10 @@ async def open_runner(framework: str) -> AsyncIterator[WorkflowRunner]:
         from workflows.langgraph.graph import build_graph
         from workflows.langgraph.runner import postgres_runner
         async with postgres_runner(build_graph) as runner:
+            yield runner
+    elif framework == "agent_framework":
+        from workflows.agent_framework.runner import cosmos_runner
+        async with cosmos_runner() as runner:
             yield runner
     else:
         raise ValueError(f"Unknown framework {framework!r}; choose from {FRAMEWORKS}")
