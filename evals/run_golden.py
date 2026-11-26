@@ -1,7 +1,8 @@
 # evals/run_golden.py
 # usage: python -m evals.run_golden --run-name baseline-v2 --note "keyword search, prompt v1"
+#        add --framework langgraph to run the LangGraph version (default: agent_framework)
 #        add --per-type 1 for a quick check with one case of each type
-import argparse, asyncio, hashlib, json, re
+import argparse, asyncio, hashlib, json, re, uuid
 from pathlib import Path
 import mlflow
 from app import config, safety
@@ -10,7 +11,8 @@ from app.llm import complete
 from app.llm_utils import extract_json
 from app.safety import is_model_filter_error, model_filter_label
 from app.tracing import start_tracing, flush_tracing
-from workflows.agent_framework.workflow import build_workflow, UserMessage, ApprovalDecision
+from workflows.factory import FRAMEWORKS, open_runner
+from workflows.runner_base import WorkflowRunner
 
 JUDGE_SYSTEM = (
     "You grade an assistant's answer. Be strict. Reply with JSON only: "
@@ -53,40 +55,35 @@ async def with_retry(make_call, waits=(20, 40, 60)):
 
 # ---------- run one case through the real workflow ----------
 
-async def run_case(text: str) -> dict:
+async def run_case(runner: WorkflowRunner, case_id: str, text: str) -> dict:
+    """One case through the runner, the same path as every channel; approvals are always rejected."""
     safety.EVENTS.clear()
     RETRIEVED.clear()
-    wf = build_workflow()
-    outputs, drafts = [], []
-    stream = wf.run(UserMessage("golden", text), stream=True)
-    while True:
-        pending = {}
-        async for ev in stream:
-            if ev.type == "request_info":
-                pending[ev.request_id] = ev.data
-            elif ev.type == "output":
-                outputs.append(str(ev.data))
-        if not pending:
-            break
-        drafts.extend(str(req.draft) for req in pending.values())
-        stream = wf.run(stream=True,         # always reject, so nothing is submitted
-                        responses={k: ApprovalDecision("reject") for k in pending})
+    thread = f"golden-{case_id}-{uuid.uuid4().hex[:8]}"   # new per attempt, so a retry starts fresh
+    o = await runner.start(thread, {"user_id": "golden", "text": text})
+    events, drafts = list(o.events), []                  # each runner call reports its own events
+    while o.status == "waiting":
+        drafts.append(str(o.pending["draft"]))
+        o = await runner.resume(thread, {"action": "reject"})   # nothing is submitted
+        events += o.events
+    if o.status != "done":
+        raise RuntimeError(f"thread {thread} ended as {o.status}")
 
-    layers = [e.split(":")[0] for e in safety.EVENTS]
+    layers = [e.split(":")[0] for e in events]
     if drafts:
         intent = "request"
     elif "input" in layers or "model_filter" in layers:
         intent = "refuse"
     else:
         intent = "question"
-    return {"intent": intent, "events": layers, "output": " | ".join(outputs),
+    return {"intent": intent, "events": layers, "output": o.result or "",
             "draft": drafts[0] if drafts else "",
             "sources": sources_seen(), "passages": passages_seen()}
 
-async def run_case_safely(text: str) -> dict:
+async def run_case_safely(runner: WorkflowRunner, case_id: str, text: str) -> dict:
     """Like run_case, but turns errors into a result so one bad case can't stop the run."""
     try:
-        return await with_retry(lambda: run_case(text))
+        return await with_retry(lambda: run_case(runner, case_id, text))
     except Exception as e:
         blocked = is_model_filter_error(e)   # Foundry guardrail blocked a model call
         return {"intent": "refuse" if blocked else "error",
@@ -192,16 +189,23 @@ async def main(a):
     lines = Path("evals/golden.jsonl").read_text().splitlines()
     cases = pick([json.loads(l) for l in lines if l.strip()], a.per_type)
     rows = []
-    for case in cases:
-        r = await run_case_safely(case["input"])
-        row = {"id": case["id"], "type": case["type"], "input": case["input"],
-               "must_mention": case.get("must_mention"), **r, **await score(case, r)}
-        rows.append(row)
-        print("OK  " if not problems(row) else "LOOK", row["id"], "; ".join(problems(row)))
-        await asyncio.sleep(5)               # stay clear of rate limits
+    async with open_runner(a.framework) as runner:
+        for case in cases:
+            r = await run_case_safely(runner, case["id"], case["input"])
+            row = {"id": case["id"], "type": case["type"], "input": case["input"],
+                   "must_mention": case.get("must_mention"), **r, **await score(case, r)}
+            rows.append(row)
+            print("OK  " if not problems(row) else "LOOK", row["id"], "; ".join(problems(row)))
+            await asyncio.sleep(5)           # stay clear of rate limits
+
+    # The prompt that actually wrote the answers: LangGraph's answer node has its own
+    if a.framework == "langgraph":
+        from workflows.langgraph.graph import ANSWER_SYSTEM as answer_prompt
+    else:
+        answer_prompt = ANSWER_PROMPT
 
     metrics = summarize(rows)
-    report = f"# Golden set: {a.run_name}\n\n{a.note}\n\n" + "".join(
+    report = f"# Golden set: {a.run_name}\n\nFramework: {a.framework}. {a.note}\n\n" + "".join(
         f"- {k}: {v:.2f}\n" if isinstance(v, float) else f"- {k}: {v}\n"
         for k, v in metrics.items())
     report += "\n## Cases to look at\n" + "".join(
@@ -215,17 +219,18 @@ async def main(a):
     with mlflow.start_run(run_name=a.run_name):
         mlflow.log_params({
             "chat_deployment": config.CHAT, "judge_deployment": config.JUDGE,
-            "framework": "agent-framework", "cases": len(rows), "note": a.note,
+            "framework": a.framework, "cases": len(rows), "note": a.note,
             "search_mode": SEARCH_MODE, "search_top": TOP,
-            "answer_prompt_sha": sha(ANSWER_PROMPT), "judge_prompt_sha": sha(JUDGE_SYSTEM)})
+            "answer_prompt_sha": sha(answer_prompt), "judge_prompt_sha": sha(JUDGE_SYSTEM)})
         mlflow.log_metrics(metrics)
         mlflow.log_dict({"cases": rows}, "cases.json")
-        mlflow.log_text(ANSWER_PROMPT, "answer_prompt.txt")
+        mlflow.log_text(answer_prompt, "answer_prompt.txt")
 
 if __name__ == "__main__":
     p = argparse.ArgumentParser()
     p.add_argument("--run-name", required=True)
     p.add_argument("--note", default="")
+    p.add_argument("--framework", choices=FRAMEWORKS, default="agent_framework")
     p.add_argument("--per-type", type=int, default=0, help="run only the first N cases of each type")
     args = p.parse_args()
     start_tracing()
