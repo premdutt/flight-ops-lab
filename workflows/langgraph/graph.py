@@ -110,6 +110,16 @@ async def approve(s: State) -> dict:
     return {"result": f"Submitted request {request_id}: {final}"}
 
 
+# ---------- edges (named, so traces show them by name) ----------
+
+def after_route(s: State) -> str:
+    return s["intent"]                                       # question, request or blocked
+
+
+def after_draft(s: State) -> str:
+    return "approve" if s.get("draft") else END              # no draft: the guardrail blocked it
+
+
 # ---------- graph ----------
 
 def build_graph() -> StateGraph:
@@ -120,10 +130,9 @@ def build_graph() -> StateGraph:
     g.add_node("draft", draft)
     g.add_node("approve", approve)
     g.add_edge(START, "route")
-    g.add_conditional_edges("route", lambda s: s["intent"],
+    g.add_conditional_edges("route", after_route,
                             {"question": "answer", "request": "draft", "blocked": END})
     g.add_edge("answer", END)
-    g.add_conditional_edges("draft", lambda s: "approve" if s.get("draft") else END,
-                            {"approve": "approve", END: END})
+    g.add_conditional_edges("draft", after_draft, {"approve": "approve", END: END})
     g.add_edge("approve", END)
     return g

@@ -5,6 +5,7 @@ from azure.identity.aio import DefaultAzureCredential
 from app.config import env
 import re
 from opentelemetry import trace
+from langsmith import traceable       # records a LangSmith step only when LANGSMITH_TRACING=true
 
 tracer = trace.get_tracer("flightops.safety")
 
@@ -32,6 +33,7 @@ async def _post(path:str,body:dict) -> dict:
             r.raise_for_status()          # stop here if Content Safety failed
             return r.json()
 
+@traceable(name="content_safety.shield", run_type="tool")
 async def shield(user_prompt: str, documents: list[str] | None = None) -> tuple[bool, list[bool]]:
     """Prompt Shields. Returns (attack in the user prompt, attack flag for each document)."""
     res = await _post("text:shieldPrompt",
@@ -40,6 +42,7 @@ async def shield(user_prompt: str, documents: list[str] | None = None) -> tuple[
     doc_flags = [d["attackDetected"] for d in res.get("documentsAnalysis", [])]
     return user_attack, doc_flags
 
+@traceable(name="content_safety.moderate", run_type="tool")
 async def moderate(text: str, max_severity: int = 2) -> bool:
     """True if the text is safe to show (every harm category at or below max_severity)."""
     res = await _post("text:analyze", {"text": text[:10000]})

@@ -3,6 +3,7 @@ from typing import Annotated
 from agent_framework.openai import OpenAIChatCompletionClient
 from azure.search.documents.aio import SearchClient
 from azure.search.documents.models import VectorizedQuery
+from langsmith import traceable       # records a LangSmith step only when LANGSMITH_TRACING=true
 from app import config
 from app.auth import credential
 from app.llm import embed
@@ -27,6 +28,9 @@ if SEARCH_MODE not in ("pages", "keyword", "hybrid"):
     raise RuntimeError(f"SEARCH_MODE must be pages, keyword or hybrid, not {SEARCH_MODE!r}")
 
 
+# Traced here, not on search_docs: search_docs is also an Agent Framework tool, whose
+# signature and docstring the framework reads to describe the tool to the model.
+@traceable(name="search.pages", run_type="retriever")
 def _search_pages(query: str) -> list[str]:
     words = [w.lower() for w in query.split() if len(w) > 3]
     scored = []
@@ -39,6 +43,7 @@ def _search_pages(query: str) -> list[str]:
     return [p for _, p in scored[:TOP]]
 
 
+@traceable(name="search.index", run_type="retriever")
 async def _search_index(query: str, hybrid: bool) -> list[str]:
     vector_queries = None
     if hybrid:
