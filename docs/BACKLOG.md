@@ -46,6 +46,13 @@
 - [ ] Add 5-10 golden questions worded differently from the documents (e.g. "How long do we keep driver training paperwork?" for q-05), then rerun `SEARCH_MODE=keyword` vs `hybrid`. Week 5 runs tied at facts_recall 1.00 because every question uses the documents' own wording (`evals/results/week5.md`).
 - [ ] Stop the answer agent narrating its searches in the answer (q-04 hybrid: "I found it. Let me get the exact quote.") and adding facts from memory (q-14 expands VR/IR). Change the prompt in its own experiment, not together with a search change.
 
+## Week 6: channels and runners
+Channels (`channels/`) call only `start` / `resume` / `status` on a `WorkflowRunner` (`workflows/runner_base.py`) and get an `Outcome` back; `workflows/factory.py` picks the framework.
+- [ ] Add `AgentFrameworkRunner` (`workflows/agent_framework/runner.py`) in Step 6.4. Map `thread_id` to the latest Cosmos `checkpoint_id` (a small mapping or checkpoint metadata), keep the pending `request_id` needed for `responses={request_id: ApprovalDecision(...)}`, and turn `ApprovalRequest` into the same `pending` shape as LangGraph (`{user_id, draft, draft_id}`). Add `agent_framework` to `FRAMEWORKS`. Done when `channels/cli.py` and the golden runner work unchanged with `--framework agent_framework`.
+- [ ] Make safety events per request before any channel serves more than one call at a time (web API, chat bot). `app/safety.EVENTS` is a module-level list cleared at the start of each call, so concurrent requests would mix their events. Use a `contextvars.ContextVar` or return events from the safety functions.
+- [ ] Add a list of waiting approvals for web and chat channels ("show me everything waiting for approval"). Keep it in the runner (thread id, user, draft id, created time), filled on `waiting` and cleared on `done`, rather than scanning checkpoints.
+- [ ] Delete `app/run_cli.py` (the Week 2 Agent Framework terminal runner) once `python -m channels.cli --framework agent_framework` works.
+
 ## After the lab
 - [ ] Extract `platform_kit` into its own versioned repo (`ai-platform-kit`), installed via `pip install git+...@vX.Y.Z`
 - [ ] Build `ai-agent-template` from tag `skeleton-v1`; depend on `ai-platform-kit`

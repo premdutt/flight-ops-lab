@@ -22,9 +22,9 @@ from app.llm import complete
 from app.llm_utils import extract_json
 from app.memory import load_profile, submit_request
 from app.safety import EVENTS, is_model_filter_error, model_filter_label, moderate, shield
+from workflows.runner_base import DECISIONS
 
 REFUSAL = "Sorry, I can't help with that request."
-DECISIONS = ("approve", "edit", "reject")
 
 ANSWER_SYSTEM = (
     "You answer questions about aviation ground operations. "
